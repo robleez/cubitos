@@ -617,7 +617,7 @@ hash = "2e33e5590888ad9c37d35ef6ef29d50e8ab7430ee7fd572a69b3583428abebf9"
 
 [[files]]
 file = "overrides/config/chunkloaders-common.toml"
-hash = "32d00ef84a71f82450eb463bdb0c7f977d6fadda7acd631023cfd3479c90439b"
+hash = "eb62dfa3c0b52eb240bcc7a5b50ffbf4d0ff7bdae2fe94fec5f44ab0feeff9c2"
 
 [[files]]
 file = "overrides/config/clickthrough.json"
@@ -669,11 +669,11 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "overrides/config/easyanvils-client.toml"
-hash = "e7f75aee2a53eee492917c12e6ee3f7f69808877e59e6b2e8024408e961d8754"
+hash = "60e86e56dd00882a281e8ee88800b75abd4119361edd91fc9948e7da13e2e473"
 
 [[files]]
 file = "overrides/config/easyanvils-common.toml"
-hash = "49e90a4b62a4e2832828b1fd2be57de13ba4df7987ff68b27270bff1a23a9672"
+hash = "6a70b14b43c510dc1c682f8b37eff7bde5e80f5379369c8714426c30b33910d6"
 
 [[files]]
 file = "overrides/config/entity_model_features.json"
@@ -693,7 +693,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "2ad475710d3c8174e856bdb4c49b6de8075e96c31ecc6f3a3eea98904adcc0af"
+hash = "d16bdb3fac6c4d207115501195142bec906ed7d472f35e7ef348e8b726031daf"
 
 [[files]]
 file = "overrides/config/fallingleaves2.json"
@@ -701,11 +701,11 @@ hash = "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f"
 
 [[files]]
 file = "overrides/config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "overrides/config/forgeconfigapiport.toml"
-hash = "92571dada75b8adf92e18a1162954e41b2671b8005a5c8363ed5706e4b47ea75"
+hash = "2890913cb9644f2a769fe4be2941b93a289693f0b7fca86bc341b51d6ea3b9f2"
 
 [[files]]
 file = "overrides/config/freecam.json5"
@@ -737,11 +737,11 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "78a0d3a6247602baea16441456672c9deb569bf43b801631f687e9984b0833ca"
+hash = "0971bf491b9d74378859ba2fd60c305341d4250f878c15c4af72d2d5f045d7bc"
 
 [[files]]
 file = "overrides/config/iteminteractions-client.toml"
-hash = "c75cca19f4fe66a9b63fcc66bcc8e4609ada134ae00910bae60eab5da8e5906b"
+hash = "36d41d1c63309f61c9b3f7a1005739a25f9d9f7f31755e2c87b6c8973e9a2449"
 
 [[files]]
 file = "overrides/config/jade/hide-blocks.json"
@@ -813,7 +813,7 @@ hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
 file = "overrides/config/pickupnotifier-client.toml"
-hash = "3aac2fb3fc50e75fad2b946697d0ab0b3179eb2a83513a125c4746321fdd02ad"
+hash = "d7ac467aae7b254c9a1af0c9e71283588efb14e6c1676dec44a2913a1290d70e"
 
 [[files]]
 file = "overrides/config/playerladder_config.json"
@@ -841,7 +841,7 @@ hash = "f815116c7a6a7ba28de432cf2be7fdbf49e2e1adb5436438d347d391ee3b5c74"
 
 [[files]]
 file = "overrides/config/publicenderchest.toml"
-hash = "a145eb9243af5c306ebd266948b465618f149fd8196f0b998b6cf445fc385ce7"
+hash = "b5efd9812195934145b3c73ebdb9a8a16a619092020be6dca0457f924c784708"
 
 [[files]]
 file = "overrides/config/replaymod.json"
@@ -869,7 +869,7 @@ hash = "1e588b18ffebf01280177f377647a8826295d02bcaa670449cc22476778d77fe"
 
 [[files]]
 file = "overrides/config/scarecrowsterritory-common.toml"
-hash = "ea02e5be3dbffc0be0d575d3abfb2e3b344914f2eccfa73a4dd9d5c206731da9"
+hash = "1650fda7a3327410939587fa70d79f011ce14fcca037af41bf6b07215f8c9394"
 
 [[files]]
 file = "overrides/config/signed_paintings.txt"
@@ -893,23 +893,23 @@ hash = "d3482af3895ad31a3b9c59b26807eb9944ede706b3d314668ad83c94d61bd195"
 
 [[files]]
 file = "overrides/config/sound_physics_remastered/occlusion.properties"
-hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
 
 [[files]]
 file = "overrides/config/sound_physics_remastered/reflectivity.properties"
-hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "overrides/config/sound_physics_remastered/sound_rates.properties"
-hash = "13ca871b87037785916b4ea1eacad7ae29db61abfc28e92cb1b0ce2e4d91d231"
+hash = "8a7b15f9ee4ab9f809806d5e2261da2924083affb542f0459b3747da88ac3e73"
 
 [[files]]
 file = "overrides/config/sound_physics_remastered/soundphysics.properties"
-hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 
 [[files]]
 file = "overrides/config/spark/tmp-client/about.txt"
-hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "overrides/config/status-effect-bars.json"
@@ -937,7 +937,7 @@ hash = "21614d1ce986693f5d65b7125bd5fa1f2d3327a3640511cd3c70987931b9c600"
 
 [[files]]
 file = "overrides/config/thermoo.properties"
-hash = "b25605d591d12e21832fce38e16a96665d4a119729af8bf09ba13682d02b5112"
+hash = "4a6797070c094aaa1646b00ce19e96bfb5405e26b69433bdc36c1289d1fd41b4"
 
 [[files]]
 file = "overrides/config/toms_storage.json"
@@ -945,7 +945,7 @@ hash = "fe9bba01d323a80ceb0752143bb717708110ab6d8d3c87b32055728f81366a0d"
 
 [[files]]
 file = "overrides/config/trade_cycling/trade_cycling.properties"
-hash = "5610bec5a681bd00da2bd273f7eadc1cc03864b1059461860b8ece325db9341d"
+hash = "a476d18b6589c26c44df513d679c5ee002a66e6519f2547d47cff764dfe6c72b"
 
 [[files]]
 file = "overrides/config/transition.json"
@@ -965,23 +965,23 @@ hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
 file = "overrides/config/voicechat/category-volumes.properties"
-hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
 
 [[files]]
 file = "overrides/config/voicechat/player-volumes.properties"
-hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
 
 [[files]]
 file = "overrides/config/voicechat/translations.properties"
-hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
 file = "overrides/config/voicechat/voicechat-client.properties"
-hash = "39138f065a8f3d7c49438d44bdd01faf3f64e3453fa8ebac74cf2f4f8b5effbf"
+hash = "57655f3c394f5c7fbe11b6d53ed592d72c5f5c26d3e9537cb8754eed2cc29d7a"
 
 [[files]]
 file = "overrides/config/voicechat/voicechat-server.properties"
-hash = "c6146ad4e90735761e2d89420855043378fb218f23ef774daf5fcd2261f823a8"
+hash = "d9bb848c4dfb4528e3aff3dd63b433c54ac987eb1e7c8b09d50f14016fcdf095"
 
 [[files]]
 file = "overrides/config/waystones-common.toml"
