@@ -1,0 +1,13 @@
+﻿name = "carryon-fabric-1.21.8-2.7.0"
+filename = "carryon-fabric-1.21.8-2.7.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/WQoFxKVF/carryon-fabric-1.21.8-2.7.0.jar"
+hash-format = "sha512"
+hash = "fa331ac0633464e90ad03c34ee1db4d8978d10db7c7977c3f4b59b1dbe051cf58ef388662411b5987f6d16a0ec07102e0e847b3f3fc947da57f7e1f3e4e7a37a"
+
+[update]
+  [update.modrinth]
+  mod-id = "joEfVgkn"
+  version = "WQoFxKVF"
+

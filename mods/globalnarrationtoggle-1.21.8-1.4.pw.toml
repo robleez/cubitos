@@ -1,0 +1,13 @@
+﻿name = "globalnarrationtoggle-1.21.8-1.4"
+filename = "globalnarrationtoggle-1.21.8-1.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/UxJVewrJ/versions/fUxQqAR2/globalnarrationtoggle-1.21.8-1.4.jar"
+hash-format = "sha512"
+hash = "f5a43b1735267c6f9b6a0292be9f7fae909451ce4aea336f58592f9b77dafd998890862b46f9c629846144d763ea6a7d58c356ba76e9a9de37f290d4c36e1b6f"
+
+[update]
+  [update.modrinth]
+  mod-id = "UxJVewrJ"
+  version = "fUxQqAR2"
+

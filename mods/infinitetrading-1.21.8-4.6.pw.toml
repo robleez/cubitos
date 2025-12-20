@@ -1,0 +1,13 @@
+﻿name = "infinitetrading-1.21.8-4.6"
+filename = "infinitetrading-1.21.8-4.6.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/U3eoZT3o/versions/QwKnodPi/infinitetrading-1.21.8-4.6.jar"
+hash-format = "sha512"
+hash = "ad0263c8fad6f0e97208bc90e23af9b1457d2f554611a2d762a6cb223fae418a2171df60ab74e53d65e39942a3ba02a90a8757df7fa0a0eda60b1b4e80a57617"
+
+[update]
+  [update.modrinth]
+  mod-id = "U3eoZT3o"
+  version = "QwKnodPi"
+

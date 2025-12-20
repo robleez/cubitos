@@ -1,0 +1,13 @@
+﻿name = "publicenderchest-1.2.1"
+filename = "publicenderchest-1.2.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/72qdVlp0/versions/UVqDdKQ8/publicenderchest-1.2.1.jar"
+hash-format = "sha512"
+hash = "586ed17c45d23178ce527c09dfe1ddbbf9ed1e6418eff54d555b079faaf97dbb8ac784be7cb81474f2dd213b77c43d3a4e2ac2b8644ee5af3496c48b83db3f38"
+
+[update]
+  [update.modrinth]
+  mod-id = "72qdVlp0"
+  version = "UVqDdKQ8"
+
