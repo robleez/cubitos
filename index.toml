@@ -81,6 +81,11 @@ hash = "9ac53dea76f4eeca8f3c036b137b1b3fd85e97c7efaac03c917bdda6d2683416"
 metafile = true
 
 [[files]]
+file = "mods/MyTotemDoll-2.3.3+1.21.8.pw.toml"
+hash = "45eab22382f5cc5265f791ac8ff01562776eef43ba31b94017a30bb237da3b35"
+metafile = true
+
+[[files]]
 file = "mods/ParticleEffects-1.1.0+1.21.8+fabric.pw.toml"
 hash = "3d561eb92057dea8fae6ffa6b9d794db3572ca26060886b30c035f4c2e71cb56"
 metafile = true
@@ -186,8 +191,8 @@ hash = "a2c42df5988246b222ed02fdf841d932df4d5cefccee3627f8775f82190accbb"
 metafile = true
 
 [[files]]
-file = "mods/controlify-2.4.4+1.21.8-fabric.pw.toml"
-hash = "41d9fc4dadacde90dd34aae44f8e6bbb53d39b893f3a64a6017b38b93e41e1c5"
+file = "mods/controlify-2.5.0+1.21.8-fabric.pw.toml"
+hash = "3e99705b9c89bfd19add02958e0051601e37e2fd74f570e95e6d847676a20bf2"
 metafile = true
 
 [[files]]
@@ -488,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.1+1.21.6-fabric.pw.toml"
 hash = "a2e6f12dd1161a02da29a13d79c6b21b0dd05394ac2a4aa75bec3fed9a88e95e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).pw.toml"
+hash = "0ed13c8b4e9e4bc4c9b470f85e0e9b21bf34f6da2b2429d3ccd5a89d108198ee"
 metafile = true
 
 [[files]]
