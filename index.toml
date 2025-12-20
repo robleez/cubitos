@@ -116,6 +116,11 @@ hash = "72d3cdecc87bf39303660400acab97717b25f1004d5df8555ab5f1201015494d"
 metafile = true
 
 [[files]]
+file = "mods/SubtleEffects-fabric-1.21.6-1.13.1-hotfix.1.pw.toml"
+hash = "f2dbb814ee8b2fb4a0255654ef9ceb7978701c2b45fc0ee43d4f3a551753f1b8"
+metafile = true
+
+[[files]]
 file = "mods/Zoomify-2.14.6+1.21.6.pw.toml"
 hash = "1af71baca2cedb16ec77642d905f0944dc20f6d49fbc1c29bae9cb4f3dc63aeb"
 metafile = true
@@ -191,6 +196,11 @@ hash = "d36f9892e59f39982654adc6bd3a551e5349134622f44aa220d9e59fb2e939bc"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains-2.5.4+1.21.8.pw.toml"
+hash = "faf29ffaf7097890a798e8ddc3538d5e08c9798c67245ea484b1c4f7a9a2657c"
+metafile = true
+
+[[files]]
 file = "mods/controlify-2.5.0+1.21.8-fabric.pw.toml"
 hash = "e587bef558040e2ace5cec14d1f753fae60927ed53d6e4aa95a6bced61d88c57"
 metafile = true
@@ -258,6 +268,16 @@ metafile = true
 [[files]]
 file = "mods/freecam-fabric-1.3.4+mc1.21.6.pw.toml"
 hash = "d11b77726aed9494b954ae9e7d098c8256da8aad4e975a308703b359a8bf5c4d"
+metafile = true
+
+[[files]]
+file = "mods/frostiful-2.2.8+1.21.8.pw.toml"
+hash = "74e035c82cdc9d4804d017d2227ceba3c7cb746e6e467657fb3c39b21991e7d6"
+metafile = true
+
+[[files]]
+file = "mods/fzzy_config-0.7.4-fix1+1.21.6.pw.toml"
+hash = "0e75687c46e10abb0a6db7b606f38a800f69fe2b5f88e5adc07884d5c9082dd0"
 metafile = true
 
 [[files]]
@@ -346,8 +366,53 @@ hash = "b989c3e6c6ace9bf3fd3966a1f30bf7cda4d2dc190a50e204187e3e432ee83b1"
 metafile = true
 
 [[files]]
+file = "mods/mcw-doors-1.1.2-mc1.21.8fabric.pw.toml"
+hash = "c1b0ed73a5b1b8896c38624ce9e2df352a1a541684bced573e03f9881d3ecb96"
+metafile = true
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.21.8fabric.pw.toml"
+hash = "84713d8979e3100b6a3a795a537ebd81be90e167f383135b28f8a8d60327d6df"
+metafile = true
+
+[[files]]
+file = "mods/mcw-holidays-1.1.2-mc1.21.8fabric.pw.toml"
+hash = "9a0883f3a9a1558afa4e6b4df65e7d48d93600cff3303c3e8a72a290429e41b7"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.8fabric.pw.toml"
+hash = "b76feec4fc78f17ef9b87b7413c903ae9720617655dd4cc039c01ef65a6c9fbe"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwfences-1.2.1-mc1.21.8fabric.pw.toml"
+hash = "fd171d0c77ac4eaa4f13a288217cfadd6651cc3e63d8911718a11ffecbb7d674"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwpaths-1.1.1-mc1.21.8fabric.pw.toml"
+hash = "d901a82864948364db3afc832714d872f7befbc3b0532a40e51f5584f45ee3dd"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwstairs-1.0.2-mc1.21.8fabric.pw.toml"
+hash = "74bafc7c6142569c95ff2140c46ef7f71478fa162edb573e57fb627858b91b4a"
+metafile = true
+
+[[files]]
 file = "mods/mcw-mcwwindows-2.4.2-mc1.21.8fabric.pw.toml"
 hash = "d41ea332445cd534dfe6f3adc7b8117ae3491e2b969b2ac3acf937f243b1fa73"
+metafile = true
+
+[[files]]
+file = "mods/mcw-paintings-1.0.5-1.21.8fabric.pw.toml"
+hash = "d47ac00cfcee3178a0443d33a844a32b6daccb85d5148a2dd490f5631868287e"
+metafile = true
+
+[[files]]
+file = "mods/mcw-roofs-2.3.2-mc1.21.8fabric.pw.toml"
+hash = "ee297d7174540394f4fed1dfbdc4d8d18a775eda587eeadaa099fa642cd12eec"
 metafile = true
 
 [[files]]
@@ -456,6 +521,11 @@ hash = "63cb646708251890e6e3e4dc92dc96edc878912880345541f3962a22b736f0cd"
 metafile = true
 
 [[files]]
+file = "mods/thermoo-7.1.1.pw.toml"
+hash = "dc67ffbc011ea33a0e9f8910cc08772f9502317442b3db4c3f2a331b672ae4e7"
+metafile = true
+
+[[files]]
 file = "mods/toms_storage_fabric-1.21.8-2.5.2.pw.toml"
 hash = "358084c425b060c5c43882d033b907ff0357c483134746cb0bbd041247f5bb50"
 metafile = true
@@ -496,11 +566,16 @@ hash = "c3e5f06045e89444933b08821731ff0b9900b9c4df023a63edb84c4e9e9d73c9"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).pw.toml"
-hash = "66aa6d598356695603523a1f8ccf330ecab2e5c4f2a660184ddd61eedb579ad3"
+file = "shaderpacks/ComplementaryUnbound_r5.6.1.pw.toml"
+hash = "088cfb6e427943245cbda7b6de3fb9cc43f88b91e8d976c038c288c151e70877"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.6.1.pw.toml"
-hash = "088cfb6e427943245cbda7b6de3fb9cc43f88b91e8d976c038c288c151e70877"
+file = "shaderpacks/Spooklementary_v2.0.4.pw.toml"
+hash = "095c59e7a9f03a3d7585e6a4677bc30fd87e9ba96a3028ce0bdb3e390a3aef9b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.2a.pw.toml"
+hash = "9804e4bcdaf69bc052bcfc12efc2e49fde3bb4b7c04864aef1c21fcf88419c83"
 metafile = true
