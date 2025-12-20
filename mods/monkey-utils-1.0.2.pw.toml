@@ -1,4 +1,4 @@
-﻿name = "monkey-utils-1.0.2"
+name = "monkey-utils-1.0.2"
 filename = "monkey-utils-1.0.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "59fed6b527957d496e1740df547d1396d89562b173f13cf3c17a27b4544ff69b4879565a
   [update.modrinth]
   mod-id = "uApL7Qhc"
   version = "psAnQWIp"
-

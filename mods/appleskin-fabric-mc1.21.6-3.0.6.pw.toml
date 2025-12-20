@@ -1,4 +1,4 @@
-﻿name = "appleskin-fabric-mc1.21.6-3.0.6"
+name = "appleskin-fabric-mc1.21.6-3.0.6"
 filename = "appleskin-fabric-mc1.21.6-3.0.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "e36c78b036676b3fac1ec3edefdcf014ccde8ce65fd3e9c1c2f9a7bbc7c94185168a2cd6
   [update.modrinth]
   mod-id = "EsAfCjCV"
   version = "YAjCkZ29"
-

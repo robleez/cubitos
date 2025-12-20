@@ -1,4 +1,4 @@
-﻿name = "InventoryProfilesNext-fabric-1.21.6-2.2.2"
+name = "InventoryProfilesNext-fabric-1.21.6-2.2.2"
 filename = "InventoryProfilesNext-fabric-1.21.6-2.2.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "971cddda2e03612222626980e80094af65fb267f08fc5b04d3b9997c1708af7062167762
   [update.modrinth]
   mod-id = "O7RBXm3n"
   version = "5Hy2ZGfa"
-

@@ -1,4 +1,4 @@
-﻿name = "toms_storage_fabric-1.21.8-2.5.2"
+name = "toms_storage_fabric-1.21.8-2.5.2"
 filename = "toms_storage_fabric-1.21.8-2.5.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "7ee07183da2350e3eb24756fd9fc80e90194e51d534d435d630820eaf3d1998a1f14f7a8
   [update.modrinth]
   mod-id = "XZNI4Cpy"
   version = "4EjgIm9b"
-

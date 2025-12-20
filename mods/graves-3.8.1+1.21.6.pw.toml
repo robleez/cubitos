@@ -1,4 +1,4 @@
-﻿name = "graves-3.8.1+1.21.6"
+name = "graves-3.8.1+1.21.6"
 filename = "graves-3.8.1+1.21.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "8e97e86124445e1e04852c7567dca684ee2180f0a44b0884a3409c47da996b4fdc47c5ee
   [update.modrinth]
   mod-id = "yn9u3ypm"
   version = "gdZmLCZD"
-

@@ -1,4 +1,4 @@
-﻿name = "BetterControls-1.21.6+v1.6.1"
+name = "BetterControls-1.21.6+v1.6.1"
 filename = "BetterControls-1.21.6+v1.6.1.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "89fb59a3edb6378a8e1c50d3b0e826baf6ffb12b79516c76580a79b74c2322fb8f6bdaad
   [update.modrinth]
   mod-id = "ANpj0aBF"
   version = "XdZGvpcF"
-

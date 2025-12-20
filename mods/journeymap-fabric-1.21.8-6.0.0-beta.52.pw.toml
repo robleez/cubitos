@@ -1,4 +1,4 @@
-﻿name = "journeymap-fabric-1.21.8-6.0.0-beta.52"
+name = "journeymap-fabric-1.21.8-6.0.0-beta.52"
 filename = "journeymap-fabric-1.21.8-6.0.0-beta.52.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "65c62164632041781ff576ae3d66a291d3195fdad9a1e14d63a7ea92f9ad465f4cb5c02e
   [update.modrinth]
   mod-id = "lfHFW1mp"
   version = "vuRfR12O"
-

@@ -1,4 +1,4 @@
-﻿name = "BadOptimizations-2.4.1-1.21.6-21.8"
+name = "BadOptimizations-2.4.1-1.21.6-21.8"
 filename = "BadOptimizations-2.4.1-1.21.6-21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "74b460bb0792e00b5da906f17dba004232268074800c20fd1f365a3550723b9966c068eb
   [update.modrinth]
   mod-id = "g96Z4WVZ"
   version = "9s4ZpGFq"
-

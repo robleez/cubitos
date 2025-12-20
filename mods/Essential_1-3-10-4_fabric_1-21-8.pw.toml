@@ -1,4 +1,4 @@
-﻿name = "Essential_1-3-10-4_fabric_1-21-8"
+name = "Essential_1-3-10-4_fabric_1-21-8"
 filename = "Essential_1-3-10-4_fabric_1-21-8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "a7fc4175fcd78c25387a3e9b00573bf64447e2cba980f348451aef66d0a493791f3f135a
   [update.modrinth]
   mod-id = "k2ZPuTBm"
   version = "jyl3NniX"
-

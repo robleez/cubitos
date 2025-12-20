@@ -1,4 +1,4 @@
-﻿name = "MyTotemDoll-2.3.3+1.21.8"
+name = "MyTotemDoll-2.3.3+1.21.8"
 filename = "MyTotemDoll-2.3.3+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "683e40eb906061f9abe4c0e4e7c54d90c0d10460633c40788002724b72bcea3c804f8e39
   [update.modrinth]
   mod-id = "ygYU16dG"
   version = "qSWEgHNF"
-

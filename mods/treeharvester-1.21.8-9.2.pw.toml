@@ -1,4 +1,4 @@
-﻿name = "treeharvester-1.21.8-9.2"
+name = "treeharvester-1.21.8-9.2"
 filename = "treeharvester-1.21.8-9.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "e4fbb526ad1523ec835c323a3506a3c34e8b4ce89521ab6ff2f9c196cd151aa85bde4cbb
   [update.modrinth]
   mod-id = "abooMhox"
   version = "LG3WQ1fx"
-

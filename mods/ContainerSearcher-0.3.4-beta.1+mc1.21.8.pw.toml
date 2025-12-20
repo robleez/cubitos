@@ -1,4 +1,4 @@
-﻿name = "ContainerSearcher-0.3.4-beta.1+mc1.21.8"
+name = "ContainerSearcher-0.3.4-beta.1+mc1.21.8"
 filename = "ContainerSearcher-0.3.4-beta.1+mc1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "8ad9ede0ba7853bf1eecc7fe1a75142bd6d628e2afc4091f196eaba44b706da7b25783ed
   [update.modrinth]
   mod-id = "IK1wshSh"
   version = "9V2YVqhV"
-

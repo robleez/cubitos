@@ -1,4 +1,4 @@
-﻿name = "collective-1.21.8-8.11"
+name = "collective-1.21.8-8.11"
 filename = "collective-1.21.8-8.11.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "3fcff2556303ebbb9495fbe3b13d42cb22a284323828520ecfae846b1695eda6c0a9f8b1
   [update.modrinth]
   mod-id = "e0M1UDsY"
   version = "8tJ3qV5y"
-

@@ -1,4 +1,4 @@
-﻿name = "autotools-fabric-3.3.4"
+name = "autotools-fabric-3.3.4"
 filename = "autotools-fabric-3.3.4.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "2dc917762d1708f8e8420ae4ad0c9ab11e4583c62526bdae9646b2e48a08133f531de6dc
   [update.modrinth]
   mod-id = "zgVJyCgK"
   version = "SZojCpBx"
-

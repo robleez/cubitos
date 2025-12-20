@@ -1,4 +1,4 @@
-﻿name = "cloth-config-19.0.147-fabric"
+name = "cloth-config-19.0.147-fabric"
 filename = "cloth-config-19.0.147-fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3
   [update.modrinth]
   mod-id = "9s6osm5g"
   version = "cz0b1j8R"
-

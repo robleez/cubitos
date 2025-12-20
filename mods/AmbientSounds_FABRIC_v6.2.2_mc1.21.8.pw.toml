@@ -1,4 +1,4 @@
-﻿name = "AmbientSounds_FABRIC_v6.2.2_mc1.21.8"
+name = "AmbientSounds_FABRIC_v6.2.2_mc1.21.8"
 filename = "AmbientSounds_FABRIC_v6.2.2_mc1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "11a6bc103397e23944a13abcbf267adbe453f9dd49afc64a7c9d457753d81ca9aa7e4bb7
   [update.modrinth]
   mod-id = "fM515JnW"
   version = "ij74TMnp"
-

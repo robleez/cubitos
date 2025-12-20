@@ -1,4 +1,4 @@
-﻿name = "Jade-1.21.8-Fabric-19.3.2"
+name = "Jade-1.21.8-Fabric-19.3.2"
 filename = "Jade-1.21.8-Fabric-19.3.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "3cf66c4a859805886777f18d354f587db366f2a7bb47781dee782bd2d29ed19500e0521b
   [update.modrinth]
   mod-id = "nvQzSEkH"
   version = "o3aatc5Q"
-

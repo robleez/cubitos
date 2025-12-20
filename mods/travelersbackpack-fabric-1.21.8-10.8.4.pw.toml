@@ -1,4 +1,4 @@
-﻿name = "travelersbackpack-fabric-1.21.8-10.8.4"
+name = "travelersbackpack-fabric-1.21.8-10.8.4"
 filename = "travelersbackpack-fabric-1.21.8-10.8.4.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "aaebc50f3028df466691fccccc832487a9eddbe10f8500c819423279b3c0a86ce0d8a849
   [update.modrinth]
   mod-id = "rlloIFEV"
   version = "P3LjVY8i"
-

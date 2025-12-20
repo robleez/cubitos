@@ -1,4 +1,4 @@
-﻿name = "iris-fabric-1.9.6+mc1.21.8"
+name = "iris-fabric-1.9.6+mc1.21.8"
 filename = "iris-fabric-1.9.6+mc1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "7bbc094462fb05b008051632e944ce274ce9ad57bdcf9dd6608ed814b76e9ce530ea0ff6
   [update.modrinth]
   mod-id = "YL57xq9U"
   version = "Rhzf61g1"
-

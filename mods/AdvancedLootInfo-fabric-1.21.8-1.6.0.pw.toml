@@ -1,4 +1,4 @@
-﻿name = "AdvancedLootInfo-fabric-1.21.8-1.6.0"
+name = "AdvancedLootInfo-fabric-1.21.8-1.6.0"
 filename = "AdvancedLootInfo-fabric-1.21.8-1.6.0.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "978ab94032298c76ddc02e56491a399d31a9b88ee8629a96016728c100a46a96eb411a92
   [update.modrinth]
   mod-id = "PEPVViac"
   version = "NwoL6E28"
-

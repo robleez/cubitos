@@ -1,4 +1,4 @@
-﻿name = "signed_paintings-1.2.7-mc1.21.6"
+name = "signed_paintings-1.2.7-mc1.21.6"
 filename = "signed_paintings-1.2.7-mc1.21.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "c717c9bab2937424f4cccc35114cb45bf43fc8e71ade137ef7cf55bea3a78d088df783f7
   [update.modrinth]
   mod-id = "zn26DYtG"
   version = "Wh3hqa1L"
-

@@ -1,4 +1,4 @@
-﻿name = "deathbackup-1.21.8-3.5"
+name = "deathbackup-1.21.8-3.5"
 filename = "deathbackup-1.21.8-3.5.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "708b150debadbe1724dba9ae41c552fa6b63813d474f460fe2591270b7d064156f1e70e5
   [update.modrinth]
   mod-id = "Ot5JFxuv"
   version = "FDeuKGdx"
-

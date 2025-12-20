@@ -1,4 +1,4 @@
-﻿name = "DurabilityViewer-1.21.8-1.11.1"
+name = "DurabilityViewer-1.21.8-1.11.1"
 filename = "DurabilityViewer-1.21.8-1.11.1.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "25d2ab74fc654f869c69b7e211d3b8f22b919010319a3146f5f5ed92b829e5d1dd92384c
   [update.modrinth]
   mod-id = "WnbN2C6I"
   version = "D7ln0EzN"
-

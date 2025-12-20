@@ -1,4 +1,4 @@
-﻿name = "supermartijn642configlib-1.1.8-fabric-mc1.21"
+name = "supermartijn642configlib-1.1.8-fabric-mc1.21"
 filename = "supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "479838148fc1979409474b460de73162b7730c36b201eb903e299c144a056fed4f6dfb44
   [update.modrinth]
   mod-id = "LN9BxssP"
   version = "euSlaAtA"
-

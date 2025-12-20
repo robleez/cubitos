@@ -1,4 +1,4 @@
-﻿name = "RoughlyEnoughItems-20.0.811-fabric"
+name = "RoughlyEnoughItems-20.0.811-fabric"
 filename = "RoughlyEnoughItems-20.0.811-fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "13c50f7e95930bc013fed7e50d8240e376ab8e0e3b2b73ce103a0df60c0010debc3f412a
   [update.modrinth]
   mod-id = "nfn13YXA"
   version = "hoEFy7aF"
-

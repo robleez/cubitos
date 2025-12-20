@@ -1,4 +1,4 @@
-﻿name = "sit-1.21.6-29"
+name = "sit-1.21.6-29"
 filename = "sit-1.21.6-29.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "8f016e0fede7f1c67a07c9b57f93ce9933191a3983b655866b9f278e5369c9a6e2f9b44f
   [update.modrinth]
   mod-id = "VKXzIykF"
   version = "GGIq4O8l"
-

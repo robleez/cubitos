@@ -1,4 +1,4 @@
-﻿name = "globalnarrationtoggle-1.21.8-1.4"
+name = "globalnarrationtoggle-1.21.8-1.4"
 filename = "globalnarrationtoggle-1.21.8-1.4.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f5a43b1735267c6f9b6a0292be9f7fae909451ce4aea336f58592f9b77dafd998890862b
   [update.modrinth]
   mod-id = "UxJVewrJ"
   version = "fUxQqAR2"
-

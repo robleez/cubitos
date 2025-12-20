@@ -1,4 +1,4 @@
-﻿name = "entityculling-fabric-1.9.4-mc1.21.8"
+name = "entityculling-fabric-1.9.4-mc1.21.8"
 filename = "entityculling-fabric-1.9.4-mc1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "88d05f286316246e09083dd4eddf24de3bb2eb0fdaaed2d658f869d5509fba1c9d3f7048
   [update.modrinth]
   mod-id = "NNAgCjsB"
   version = "XK3Wqd9x"
-

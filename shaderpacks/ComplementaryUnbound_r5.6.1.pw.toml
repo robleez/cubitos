@@ -1,4 +1,4 @@
-﻿name = "ComplementaryUnbound_r5.6.1"
+name = "ComplementaryUnbound_r5.6.1"
 filename = "ComplementaryUnbound_r5.6.1.zip"
 
 [download]
@@ -10,4 +10,3 @@ hash = "3c46b335faf0dde03666571d23bdc3aa04cdd30fa9ea3fd01214203a7a80bbf52ffa648b
   [update.modrinth]
   mod-id = "R6NEzAwj"
   version = "LXrX6oqm"
-

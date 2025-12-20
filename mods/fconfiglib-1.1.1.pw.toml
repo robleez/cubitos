@@ -1,4 +1,4 @@
-﻿name = "fconfiglib-1.1.1"
+name = "fconfiglib-1.1.1"
 filename = "fconfiglib-1.1.1.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "a4335a67666490cc3ec24f565a16c463d7bec0e4fa196574352b18b2ef24929592b481f1
   [update.modrinth]
   mod-id = "8cuS4dwo"
   version = "VEwOoOSv"
-

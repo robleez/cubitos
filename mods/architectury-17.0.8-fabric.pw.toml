@@ -1,4 +1,4 @@
-﻿name = "architectury-17.0.8-fabric"
+name = "architectury-17.0.8-fabric"
 filename = "architectury-17.0.8-fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "7965ed7140c9f50cfcf8cf9b415de90497ae44ea4fb6dfe21704c6eba4210d0a34a4a0b0
   [update.modrinth]
   mod-id = "lhGA9TYQ"
   version = "XcJm5LH4"
-

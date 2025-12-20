@@ -1,4 +1,4 @@
-﻿name = "rightclickharvest-fabric-4.6.0+1.21.8"
+name = "rightclickharvest-fabric-4.6.0+1.21.8"
 filename = "rightclickharvest-fabric-4.6.0+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f9d42b586e5033da7db9bee5a53c1b3d624dd6438375a3d57324d0d49ab2018478a69087
   [update.modrinth]
   mod-id = "Cnejf5xM"
   version = "Nefe8z6u"
-

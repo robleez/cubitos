@@ -1,4 +1,4 @@
-﻿name = "lambdynamiclights-4.8.7+1.21.8"
+name = "lambdynamiclights-4.8.7+1.21.8"
 filename = "lambdynamiclights-4.8.7+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "8f0c312e9eaca2f5bdb5a654ddda574709855540f0c4c0cb6fb57366a3a8c7e4971d72d4
   [update.modrinth]
   mod-id = "yBW8D80W"
   version = "6Bz5yiB2"
-

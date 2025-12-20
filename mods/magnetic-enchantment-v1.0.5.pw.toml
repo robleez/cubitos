@@ -1,4 +1,4 @@
-﻿name = "magnetic-enchantment-v1.0.5"
+name = "magnetic-enchantment-v1.0.5"
 filename = "magnetic-enchantment-v1.0.5.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "3008924a7a4b8115d82016767663b1043934b0bcda3f0116e1069020488913a31441d455
   [update.modrinth]
   mod-id = "cqIcXVf5"
   version = "vX6QvG5z"
-

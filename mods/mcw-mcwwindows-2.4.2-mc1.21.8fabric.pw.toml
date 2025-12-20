@@ -1,4 +1,4 @@
-﻿name = "mcw-mcwwindows-2.4.2-mc1.21.8fabric"
+name = "mcw-mcwwindows-2.4.2-mc1.21.8fabric"
 filename = "mcw-mcwwindows-2.4.2-mc1.21.8fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "c7a951e51d0014980a91152d2a0612a8e9cc0e33a0babba79363b71abbf8f0b318c78b80
   [update.modrinth]
   mod-id = "C7I0BCni"
   version = "oHpQ3Bya"
-

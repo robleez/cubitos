@@ -1,4 +1,4 @@
-﻿name = "reeses-sodium-options-fabric-1.8.4+mc1.21.6"
+name = "reeses-sodium-options-fabric-1.8.4+mc1.21.6"
 filename = "reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f5f4e27eeabab055eab3bcdacc2746e626cd7118b469d1edacd0bb69633e2422e93ffe51
   [update.modrinth]
   mod-id = "Bh37bMuy"
   version = "AgGRyydH"
-

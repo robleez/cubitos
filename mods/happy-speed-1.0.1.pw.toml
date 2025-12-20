@@ -1,4 +1,4 @@
-﻿name = "happy-speed-1.0.1"
+name = "happy-speed-1.0.1"
 filename = "happy-speed-1.0.1.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "30cf8342e2145b84ba5541ce70794e3d58856c52f748d2a91a8907e8b5e9a43201af52b3
   [update.modrinth]
   mod-id = "wUckwUuw"
   version = "Wgx5GjpM"
-

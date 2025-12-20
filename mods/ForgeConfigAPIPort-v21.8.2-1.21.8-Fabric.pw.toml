@@ -1,4 +1,4 @@
-﻿name = "ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric"
+name = "ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric"
 filename = "ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "39ae821705961ad08ae292dbe32a973bae285cddd300745ecb6dee0d823e6f78e4a36bc0
   [update.modrinth]
   mod-id = "ohNO6lps"
   version = "YbUUjWdw"
-

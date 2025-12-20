@@ -1,4 +1,4 @@
-﻿name = "moreculling-fabric-1.21.8-1.4.0-beta.2"
+name = "moreculling-fabric-1.21.8-1.4.0-beta.2"
 filename = "moreculling-fabric-1.21.8-1.4.0-beta.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "8c429895fa268c611f6421b8fb744857eba56ce178949e503682dccd29c6e85246824df0
   [update.modrinth]
   mod-id = "51shyZVL"
   version = "ivOsScf8"
-

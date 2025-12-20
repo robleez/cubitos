@@ -1,4 +1,4 @@
-﻿name = "just-hammers-fabric-21.8.3"
+name = "just-hammers-fabric-21.8.3"
 filename = "just-hammers-fabric-21.8.3.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "6fc68e036d35c123d7eb79e5fdc85351361dc952da29cfc77c1551628f0f3cf007f824b1
   [update.modrinth]
   mod-id = "edU0NbZZ"
   version = "tpfQ90IP"
-

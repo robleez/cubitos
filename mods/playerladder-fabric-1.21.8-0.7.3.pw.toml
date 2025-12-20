@@ -1,4 +1,4 @@
-﻿name = "playerladder-fabric-1.21.8-0.7.3"
+name = "playerladder-fabric-1.21.8-0.7.3"
 filename = "playerladder-fabric-1.21.8-0.7.3.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "c952994f0280b1159e7faf36d5bbc9e12bad3bf90cb81f7df513e04a41ab1a2d400581d6
   [update.modrinth]
   mod-id = "YCcTxyDM"
   version = "vokuqX4r"
-

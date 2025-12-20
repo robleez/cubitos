@@ -1,4 +1,4 @@
-﻿name = "make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4"
+name = "make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4"
 filename = "make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "002207e7d8f40523242e030d8578fa0746050f51bb7a31ab2a12bc25927c39399e60719a
   [update.modrinth]
   mod-id = "gPCdW0Wr"
   version = "26unk04q"
-

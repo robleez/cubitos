@@ -1,4 +1,4 @@
-﻿name = "carryon-fabric-1.21.8-2.7.0"
+name = "carryon-fabric-1.21.8-2.7.0"
 filename = "carryon-fabric-1.21.8-2.7.0.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "fa331ac0633464e90ad03c34ee1db4d8978d10db7c7977c3f4b59b1dbe051cf58ef38866
   [update.modrinth]
   mod-id = "joEfVgkn"
   version = "WQoFxKVF"
-

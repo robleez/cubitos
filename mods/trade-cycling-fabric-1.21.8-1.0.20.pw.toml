@@ -1,4 +1,4 @@
-﻿name = "trade-cycling-fabric-1.21.8-1.0.20"
+name = "trade-cycling-fabric-1.21.8-1.0.20"
 filename = "trade-cycling-fabric-1.21.8-1.0.20.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "9809420c651d71d2dda4919c4716fe9b95aca1f1a69364a45b33aa8af4bb6018dd67c688
   [update.modrinth]
   mod-id = "qpPoAL6m"
   version = "OEQWLuja"
-

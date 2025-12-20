@@ -1,4 +1,4 @@
-﻿name = "sound-physics-remastered-fabric-1.21.8-1.5.1"
+name = "sound-physics-remastered-fabric-1.21.8-1.5.1"
 filename = "sound-physics-remastered-fabric-1.21.8-1.5.1.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "b1fbdc056adebbffa2ac92f1efb3c6af08e512a2e407c243cd4efa17639284d7148a82d7
   [update.modrinth]
   mod-id = "qyVF9oeo"
   version = "gUaL8lMJ"
-

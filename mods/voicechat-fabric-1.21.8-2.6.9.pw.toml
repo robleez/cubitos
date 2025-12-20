@@ -1,4 +1,4 @@
-﻿name = "voicechat-fabric-1.21.8-2.6.9"
+name = "voicechat-fabric-1.21.8-2.6.9"
 filename = "voicechat-fabric-1.21.8-2.6.9.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f1203b64aba935c62fd01500c600e2afe3bb38189dd09b999ca2983e39a51f1ca019085d
   [update.modrinth]
   mod-id = "9eGKb6K1"
   version = "1IX68yxa"
-

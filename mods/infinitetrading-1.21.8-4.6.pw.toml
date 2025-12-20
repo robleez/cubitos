@@ -1,4 +1,4 @@
-﻿name = "infinitetrading-1.21.8-4.6"
+name = "infinitetrading-1.21.8-4.6"
 filename = "infinitetrading-1.21.8-4.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "ad0263c8fad6f0e97208bc90e23af9b1457d2f554611a2d762a6cb223fae418a2171df60
   [update.modrinth]
   mod-id = "U3eoZT3o"
   version = "QwKnodPi"
-

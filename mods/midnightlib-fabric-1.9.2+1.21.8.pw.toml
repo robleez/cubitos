@@ -1,4 +1,4 @@
-﻿name = "midnightlib-fabric-1.9.2+1.21.8"
+name = "midnightlib-fabric-1.9.2+1.21.8"
 filename = "midnightlib-fabric-1.9.2+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "d588476328ab8be92ef8463ebd63dd7317eaee5b7ebe24d67e44153883872c2a0cfa6de7
   [update.modrinth]
   mod-id = "codAaoxh"
   version = "R5nMR23e"
-

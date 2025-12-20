@@ -1,4 +1,4 @@
-﻿name = "do_a_barrel_roll-fabric-3.8.3+1.21.6"
+name = "do_a_barrel_roll-fabric-3.8.3+1.21.6"
 filename = "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869
   [update.modrinth]
   mod-id = "6FtRfnLg"
   version = "REB9EGpL"
-

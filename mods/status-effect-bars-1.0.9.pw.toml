@@ -1,4 +1,4 @@
-﻿name = "status-effect-bars-1.0.9"
+name = "status-effect-bars-1.0.9"
 filename = "status-effect-bars-1.0.9.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "c35c4b74c95a472c91614563bd3ed1093ea1caad86b570da35e71da048fb58cc98a1bb00
   [update.modrinth]
   mod-id = "x02cBj9Y"
   version = "sxd3IyH5"
-

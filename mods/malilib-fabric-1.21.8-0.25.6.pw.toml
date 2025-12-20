@@ -1,4 +1,4 @@
-﻿name = "malilib-fabric-1.21.8-0.25.6"
+name = "malilib-fabric-1.21.8-0.25.6"
 filename = "malilib-fabric-1.21.8-0.25.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "5f8505df41b9e0d9238a0b586093a0a7232ef2acc86cb937d6423b16ff9f69fd3463101f
   [update.modrinth]
   mod-id = "GcWjdA9I"
   version = "Q32TToMO"
-

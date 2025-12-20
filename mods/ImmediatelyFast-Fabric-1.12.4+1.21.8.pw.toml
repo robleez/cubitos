@@ -1,4 +1,4 @@
-﻿name = "ImmediatelyFast-Fabric-1.12.4+1.21.8"
+name = "ImmediatelyFast-Fabric-1.12.4+1.21.8"
 filename = "ImmediatelyFast-Fabric-1.12.4+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "0ee93f44c233b79a7f441b086722f1dcb90367c41ca1e2253341c974defa45b0c599887b
   [update.modrinth]
   mod-id = "5ZwdcRci"
   version = "49MPhz8k"
-

@@ -1,4 +1,4 @@
-﻿name = "modmenu-15.0.0"
+name = "modmenu-15.0.0"
 filename = "modmenu-15.0.0.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "4a118cb4bc7e44a77b50c2f6e7187d0add9b564e752b91ad8b536044cb5c3e07a4caf811
   [update.modrinth]
   mod-id = "mOgUt4GM"
   version = "am1Siv7F"
-

@@ -1,4 +1,4 @@
-﻿name = "AutoPickupPlus-1.2.0-fabric-1.21.8"
+name = "AutoPickupPlus-1.2.0-fabric-1.21.8"
 filename = "AutoPickupPlus-1.2.0-fabric-1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "60770738a129eaa833c2d36feb40abe01950554301fc5a1539152d2b63d01205a39d900a
   [update.modrinth]
   mod-id = "B5HnFRE1"
   version = "a2hbPjDk"
-

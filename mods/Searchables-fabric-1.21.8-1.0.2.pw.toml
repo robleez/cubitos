@@ -1,4 +1,4 @@
-﻿name = "Searchables-fabric-1.21.8-1.0.2"
+name = "Searchables-fabric-1.21.8-1.0.2"
 filename = "Searchables-fabric-1.21.8-1.0.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "01599b0d43b65813cbb1f2f68c38eb75fe2efd0db07e9cd3be4e233207cd721db917b602
   [update.modrinth]
   mod-id = "fuuu3xnx"
   version = "LLzPBiwT"
-

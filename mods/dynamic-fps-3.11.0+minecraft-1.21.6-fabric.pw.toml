@@ -1,4 +1,4 @@
-﻿name = "dynamic-fps-3.11.0+minecraft-1.21.6-fabric"
+name = "dynamic-fps-3.11.0+minecraft-1.21.6-fabric"
 filename = "dynamic-fps-3.11.0+minecraft-1.21.6-fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f13b94e902d2b4108d5855d3dd847e66697634e19b29321b3caecbc6163ba4f6af4f4c08
   [update.modrinth]
   mod-id = "LQ3K71Q1"
   version = "ThtaBEpL"
-

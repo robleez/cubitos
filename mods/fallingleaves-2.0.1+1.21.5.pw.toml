@@ -1,4 +1,4 @@
-﻿name = "fallingleaves-2.0.1+1.21.5"
+name = "fallingleaves-2.0.1+1.21.5"
 filename = "fallingleaves-2.0.1+1.21.5.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "b3971411082e26e371b1221599a6c50c4c544925caf84970684f47a2dfe5a49a8706bc31
   [update.modrinth]
   mod-id = "WhbRG4iK"
   version = "Fee5709g"
-

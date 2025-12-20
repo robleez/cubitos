@@ -1,4 +1,4 @@
-﻿name = "publicenderchest-1.2.1"
+name = "publicenderchest-1.2.1"
 filename = "publicenderchest-1.2.1.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "586ed17c45d23178ce527c09dfe1ddbbf9ed1e6418eff54d555b079faaf97dbb8ac784be
   [update.modrinth]
   mod-id = "72qdVlp0"
   version = "UVqDdKQ8"
-

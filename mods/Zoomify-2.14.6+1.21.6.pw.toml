@@ -1,4 +1,4 @@
-﻿name = "Zoomify-2.14.6+1.21.6"
+name = "Zoomify-2.14.6+1.21.6"
 filename = "Zoomify-2.14.6+1.21.6.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "39f77acf495eecac0b33541df443131c12a017d8ba94144927a82cd62d6e8dcbb3c3b7ab
   [update.modrinth]
   mod-id = "w7ThoJFB"
   version = "qMqviL3t"
-

@@ -1,4 +1,4 @@
-﻿name = "controlify-2.5.0+1.21.8-fabric"
+name = "controlify-2.5.0+1.21.8-fabric"
 filename = "controlify-2.5.0+1.21.8-fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f1b7511375f6843649640aa956bd560d332b3c5a6e90f552d340025fc5cb6ff7788a5d14
   [update.modrinth]
   mod-id = "DOUdJVEm"
   version = "kXUQ1ENk"
-

@@ -1,4 +1,4 @@
-﻿name = "worldedit-mod-7.3.16"
+name = "worldedit-mod-7.3.16"
 filename = "worldedit-mod-7.3.16.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "f6e0304b4c845465ef81789ce4690f34d81e510d6989ac60e9c1c9ad076152f9cd878854
   [update.modrinth]
   mod-id = "1u6JkXh5"
   version = "R846T4GX"
-

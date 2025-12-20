@@ -1,4 +1,4 @@
-﻿name = "EasyShulkerBoxes-v21.8.3-1.21.8-Fabric"
+name = "EasyShulkerBoxes-v21.8.3-1.21.8-Fabric"
 filename = "EasyShulkerBoxes-v21.8.3-1.21.8-Fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "4807be094c56a240bf547431c2e2914ae5299492c0d876b67f8f0828cd5823318c351117
   [update.modrinth]
   mod-id = "gA5euN8S"
   version = "eZUp8U9W"
-

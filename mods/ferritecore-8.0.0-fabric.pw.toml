@@ -1,4 +1,4 @@
-﻿name = "ferritecore-8.0.0-fabric"
+name = "ferritecore-8.0.0-fabric"
 filename = "ferritecore-8.0.0-fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3
   [update.modrinth]
   mod-id = "uXXizFIs"
   version = "CtMpt7Jr"
-

@@ -1,4 +1,4 @@
-﻿name = "fabric-permissions-api-0.4.0"
+name = "fabric-permissions-api-0.4.0"
 filename = "fabric-permissions-api-0.4.0.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "9fcaae8dc719d30891b7134814548b626e6695d9b758d32363380745908b966838586bfe
   [update.modrinth]
   mod-id = "lzVo0Dll"
   version = "LK7O0kKh"
-

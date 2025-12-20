@@ -1,4 +1,4 @@
-﻿name = "libIPN-fabric-1.21.6-6.6.2"
+name = "libIPN-fabric-1.21.6-6.6.2"
 filename = "libIPN-fabric-1.21.6-6.6.2.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "cb67e4681517f8d2146689a8536bb5c0d25c3bed82b750da9166f6d5e41d9146e7aea176
   [update.modrinth]
   mod-id = "onSQdWhM"
   version = "oyGmzKRu"
-

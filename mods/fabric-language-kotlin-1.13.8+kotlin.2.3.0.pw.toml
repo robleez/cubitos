@@ -1,4 +1,4 @@
-﻿name = "fabric-language-kotlin-1.13.8+kotlin.2.3.0"
+name = "fabric-language-kotlin-1.13.8+kotlin.2.3.0"
 filename = "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "90bf59f810ea62363bdd7b2ce85a6268b7db67d6d4ce5ae6555204bc7eff0446a6e17d60
   [update.modrinth]
   mod-id = "Ha28R6CL"
   version = "N6D3uiZF"
-

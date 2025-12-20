@@ -1,4 +1,4 @@
-﻿name = "Controlling-fabric-1.21.8-26.0.3"
+name = "Controlling-fabric-1.21.8-26.0.3"
 filename = "Controlling-fabric-1.21.8-26.0.3.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "e1a4779633f0967243b60253b99aa3f91f1c97edd8ffe6883b5491acc2be847833aa94ae
   [update.modrinth]
   mod-id = "xv94TkTM"
   version = "15AHrwi3"
-

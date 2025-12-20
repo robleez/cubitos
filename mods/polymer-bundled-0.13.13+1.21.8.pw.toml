@@ -1,4 +1,4 @@
-﻿name = "polymer-bundled-0.13.13+1.21.8"
+name = "polymer-bundled-0.13.13+1.21.8"
 filename = "polymer-bundled-0.13.13+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "e8e508e42a6a6cd3c6800c65f9dd6373d7d3903461b12d8b858169a43556561833cd59e0
   [update.modrinth]
   mod-id = "xGdtZczs"
   version = "Low85MxT"
-

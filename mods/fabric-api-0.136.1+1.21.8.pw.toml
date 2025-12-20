@@ -1,4 +1,4 @@
-﻿name = "fabric-api-0.136.1+1.21.8"
+name = "fabric-api-0.136.1+1.21.8"
 filename = "fabric-api-0.136.1+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "eb1a6b5fc9912c68409493f10f43c3b61adda1d789ede9c83b16d0a95a2eb96bd6304728
   [update.modrinth]
   mod-id = "P7dR8mSH"
   version = "g58ofrov"
-

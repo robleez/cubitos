@@ -1,4 +1,4 @@
-﻿name = "chatanimation-1.0.7"
+name = "chatanimation-1.0.7"
 filename = "chatanimation-1.0.7.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "4e13c1842f0bc825743f97e0aed5c73b557fc84efac87441eeed6e76cfe459015b53d866
   [update.modrinth]
   mod-id = "DnNYdJsx"
   version = "UFrXjD4k"
-

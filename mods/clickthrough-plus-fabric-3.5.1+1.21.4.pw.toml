@@ -1,4 +1,4 @@
-﻿name = "clickthrough-plus-fabric-3.5.1+1.21.4"
+name = "clickthrough-plus-fabric-3.5.1+1.21.4"
 filename = "clickthrough-plus-fabric-3.5.1+1.21.4.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "d5090bd398455e8a01c2faf6d67816c90fe45c10d42a2789a7c3bfe44c89f4dd8eca0a7e
   [update.modrinth]
   mod-id = "fJi8nm80"
   version = "HK0GRjry"
-

@@ -1,4 +1,4 @@
-﻿name = "placeholder-api-2.7.2+1.21.8"
+name = "placeholder-api-2.7.2+1.21.8"
 filename = "placeholder-api-2.7.2+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "66c20678e8329b0129407ab045c171e3e22a5ca13544b1fbcf5adb95f70f6bb6cb9fb4d9
   [update.modrinth]
   mod-id = "eXts2L7r"
   version = "1S1kjZ9W"
-

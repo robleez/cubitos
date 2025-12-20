@@ -1,4 +1,4 @@
-﻿name = "supermartijn642corelib-1.1.18f-fabric-mc1.21.7"
+name = "supermartijn642corelib-1.1.18f-fabric-mc1.21.7"
 filename = "supermartijn642corelib-1.1.18f-fabric-mc1.21.7.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "8870c834ef2ff3e295ec26776eb3716b30f36a363a4ad1b4eaf0ae6f5fff70020dd5a31d
   [update.modrinth]
   mod-id = "rOUBggPv"
   version = "7JhnjRkQ"
-

@@ -1,4 +1,4 @@
-﻿name = "cicada-lib-0.14.3+1.21.6-1.21.8"
+name = "cicada-lib-0.14.3+1.21.6-1.21.8"
 filename = "cicada-lib-0.14.3+1.21.6-1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "3f22a058c3cb714860848573ce2ce49ad39ed624430a15f8c327fd858596f2fb16292f5f
   [update.modrinth]
   mod-id = "IwCkru1D"
   version = "Ezsw7hJc"
-

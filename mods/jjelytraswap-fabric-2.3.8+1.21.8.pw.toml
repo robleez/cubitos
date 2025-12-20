@@ -1,4 +1,4 @@
-﻿name = "jjelytraswap-fabric-2.3.8+1.21.8"
+name = "jjelytraswap-fabric-2.3.8+1.21.8"
 filename = "jjelytraswap-fabric-2.3.8+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "6574ef2f7159a5440e2a89c035423cff3ef3f5af0954d6d16f92d0507d8d75ecc5ba3160
   [update.modrinth]
   mod-id = "CanU29Ke"
   version = "cPkLSaoK"
-

@@ -1,4 +1,4 @@
-﻿name = "EasyAnvils-v21.8.0-1.21.8-Fabric"
+name = "EasyAnvils-v21.8.0-1.21.8-Fabric"
 filename = "EasyAnvils-v21.8.0-1.21.8-Fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "ca5f17555624e35641f41cea1c53e944948dd419db586574a0ea0020b767ef10f442175f
   [update.modrinth]
   mod-id = "OZBR5JT5"
   version = "6YOM0PrU"
-

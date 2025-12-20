@@ -1,4 +1,4 @@
-﻿name = "CreativeCore_FABRIC_v2.14.7_mc1.21.8"
+name = "CreativeCore_FABRIC_v2.14.7_mc1.21.8"
 filename = "CreativeCore_FABRIC_v2.14.7_mc1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "fbaa2a4396c93c90cdd4fb20fe7579580c4495d5c8a805576f1f35c2907868fb5765a2b5
   [update.modrinth]
   mod-id = "OsZiaDHq"
   version = "mj0ahfMl"
-

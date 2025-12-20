@@ -1,4 +1,4 @@
-﻿name = "cullleaves-fabric-4.1.1+1.21.8"
+name = "cullleaves-fabric-4.1.1+1.21.8"
 filename = "cullleaves-fabric-4.1.1+1.21.8.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "5caf0f6fd51764d4b5558d925955a4df11dffb2b8b6c81c969ac811d1b70003357527f6f
   [update.modrinth]
   mod-id = "GNxdLCoP"
   version = "x71NvPVT"
-

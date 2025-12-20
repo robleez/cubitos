@@ -1,4 +1,4 @@
-﻿name = "ParticleEffects-1.1.0+1.21.8+fabric"
+name = "ParticleEffects-1.1.0+1.21.8+fabric"
 filename = "ParticleEffects-1.1.0+1.21.8+fabric.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "af0002cb590ce9ab7f25ddf83b95824284c201af51dc08cb07599c8728e51d5b785369cc
   [update.modrinth]
   mod-id = "PLAGcSFJ"
   version = "P8PkuziK"
-

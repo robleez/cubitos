@@ -1,4 +1,4 @@
-﻿name = "litematica-fabric-1.21.8-0.23.5"
+name = "litematica-fabric-1.21.8-0.23.5"
 filename = "litematica-fabric-1.21.8-0.23.5.jar"
 
 [download]
@@ -10,4 +10,3 @@ hash = "d1d1d3fc2f0cd070b46c7024c5a0d2b702af3d47452ab76866d70d84a42edd9cf711238e
   [update.modrinth]
   mod-id = "bEpr0Arc"
   version = "XWl870Bx"
-
