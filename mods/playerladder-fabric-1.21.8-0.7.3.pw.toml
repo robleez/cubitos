@@ -1,0 +1,12 @@
+name = "playerladder-fabric-1.21.8-0.7.3"
+filename = "playerladder-fabric-1.21.8-0.7.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCcTxyDM/versions/vokuqX4r/playerladder-fabric-1.21.8-0.7.3.jar"
+hash-format = "sha512"
+hash = "c952994f0280b1159e7faf36d5bbc9e12bad3bf90cb81f7df513e04a41ab1a2d400581d6f87c9b4d2a586f1f85e11f79156a75d95b6b5389fe7eb15490722147"
+
+[update]
+  [update.modrinth]
+  mod-id = "YCcTxyDM"
+  version = "vokuqX4r"
