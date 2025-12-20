@@ -1,0 +1,12 @@
+name = "connectiblechains-2.5.4+1.21.8"
+filename = "connectiblechains-2.5.4+1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ykSfIgTw/versions/HskVQM3H/connectiblechains-2.5.4%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "0a618f0b0585c404259e38ec8c113cb8181800e3972b06de57eb6817deb8c97ed4798ebddd938f6af7546ac42663d584ffe98229a21f9bd17d69c180031f3986"
+
+[update]
+  [update.modrinth]
+  mod-id = "ykSfIgTw"
+  version = "HskVQM3H"

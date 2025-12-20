@@ -1,0 +1,12 @@
+name = "BetterControls-1.21.6+v1.6.1"
+filename = "BetterControls-1.21.6+v1.6.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANpj0aBF/versions/XdZGvpcF/BetterControls-1.21.6%2Bv1.6.1.jar"
+hash-format = "sha512"
+hash = "89fb59a3edb6378a8e1c50d3b0e826baf6ffb12b79516c76580a79b74c2322fb8f6bdaad6bcc101b5f0f04d17556a2a9e62b7e9d08ff2b49ed723b319fa675c6"
+
+[update]
+  [update.modrinth]
+  mod-id = "ANpj0aBF"
+  version = "XdZGvpcF"
