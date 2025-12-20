@@ -720,6 +720,10 @@ file = "overrides/config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
+file = "overrides/config/hola soy jofree.txt"
+hash = "38697dbb58806b4cb9b5912e38119914f8e3de5d5ada4b487941857cc67dede2"
+
+[[files]]
 file = "overrides/config/immediatelyfast.json"
 hash = "f318ff1183d8d3f01597c1ba9a0f57d0d81a89f7f1afd281780531a2e1bc4c3c"
 
