@@ -1,4 +1,4 @@
-name = "cubitos 1.21.8"
+name = "CUBITOS"
 author = "Jofree"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1ca0bb10b142e0295ca8e1fcc63de514faf6b86dbbd0daf729c8259f7513d949"
+hash = "fadacb85f22ac8c6671aef6ed675c3c06e08b4be838746152b092bbb8ddfcab0"
 
 [versions]
 fabric = "0.18.3"

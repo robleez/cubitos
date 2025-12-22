@@ -1,0 +1,12 @@
+name = "waystones_1.21.8"
+filename = "waystones_1.21.8.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/BcyGAwlg/versions/pCsrd7xi/waystones_1.21.8.zip"
+hash-format = "sha512"
+hash = "883b1ebae880e76b876d8163ddaddd2f9a792f4acfd0a4518ea0008905c30fe5463e75a8097b144b400ef99c43c28ff60744cd3275d9623c751befbc2fb1f611"
+
+[update]
+  [update.modrinth]
+  mod-id = "BcyGAwlg"
+  version = "pCsrd7xi"
