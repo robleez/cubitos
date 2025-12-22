@@ -1,0 +1,12 @@
+name = "itemrename-1.0.3+1.21.8"
+filename = "itemrename-1.0.3+1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/i5cjb3PQ/versions/uQ03QKfL/itemrename-1.0.3%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "897e20f9506925179c71968fc9814f5c3032acf2a24c6b1bfb90e093427636ff4caf481bf6a3ffa0148f0346e54bc5b58d265c3440fd27eeb703fdf73916fe82"
+
+[update]
+  [update.modrinth]
+  mod-id = "i5cjb3PQ"
+  version = "uQ03QKfL"
