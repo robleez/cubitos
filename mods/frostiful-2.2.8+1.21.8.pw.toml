@@ -1,0 +1,12 @@
+name = "frostiful-2.2.8+1.21.8"
+filename = "frostiful-2.2.8+1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/I4UbpRqO/frostiful-2.2.8%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "144e407897f50390b181a4a5465001a531d8190f487a281276261524e2920789b70761f77051d0f8d9c2dac29ccf7a05076df9d2d07a174eea6fcf7657b95a7f"
+
+[update]
+  [update.modrinth]
+  mod-id = "Ae6qoBj3"
+  version = "I4UbpRqO"
