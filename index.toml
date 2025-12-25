@@ -50,7 +50,7 @@ hash = "3de3350da5c827551fd7631c6c8bfe70417f14940279929a4b106fcd181be444"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "60fe851cd997f3e4a1327d5c92734ffc92bdf72ba73f39d46becb5e3cc8088f5"
+hash = "556166fecd52c8cecf071ff8551b5e6fb033018ab3e1637676358e0ced5a6375"
 
 [[files]]
 file = "mods/AIChat-1.0.3+1.21.6.pw.toml"
