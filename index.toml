@@ -1000,11 +1000,6 @@ file = "options.txt"
 hash = "a62cea3ff734536aff23fe250114da26934411b018bc18fa6d1bfa24e81b47d6"
 
 [[files]]
-file = "resourcepacks/32x Shaded Font 1.20.4+.pw.toml"
-hash = "27d1c779d178c61475a4a8ee463cda034bd8d4adcbf0d63e1f10e8a82580c008"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Assorted Allays x FA - V.10.2.pw.toml"
 hash = "e9e9f8433b40b6a39f860ae028813fe904ced618743edd54235ba08da13b5cd7"
 metafile = true
