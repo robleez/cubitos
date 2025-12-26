@@ -358,11 +358,6 @@ hash = "3d87dcd6b7f5e5c2628319d7bc1f939bdcf66e93183b42d28053cbbcc6b2412e"
 metafile = true
 
 [[files]]
-file = "mods/carryon-fabric-1.21.8-2.7.0.pw.toml"
-hash = "98828dca492eed789040c375bca2ed0a1cd185cc4d2ae234a2ac25f3c2fcf064"
-metafile = true
-
-[[files]]
 file = "mods/chalk-3.1.0+1.21.7.pw.toml"
 hash = "7fcf78dd377f7abe3b4093fc7f7dbcc7822250f75a946a64800d7daa073aeb8f"
 metafile = true
