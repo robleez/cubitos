@@ -1,0 +1,12 @@
+name = "AL's Enderman Revamped+FA 1.3.4"
+filename = "AL's Enderman Revamped+FA 1.3.4.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/ERTkxp3u/versions/Wsqwmcvr/AL%27s%20Enderman%20Revamped%2BFA%201.3.4.zip"
+hash-format = "sha512"
+hash = "08002e402bf8026e55b96c5483849d374ce9fccde297afaf1831bddfee12c01bafea261f9904c5f81a3b940c31c99a4e46ede3dbb7815daedb83446d6aec5e02"
+
+[update]
+  [update.modrinth]
+  mod-id = "ERTkxp3u"
+  version = "Wsqwmcvr"
