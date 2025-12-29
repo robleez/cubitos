@@ -37,6 +37,10 @@ file = "config/stylisheffects-client.toml"
 hash = "37ef8aa6eaf3a1d97d5013f9698f911faf78c94d9ee66e01fd31c7211ee3c71d"
 
 [[files]]
+file = "config/tooltipscroll.json"
+hash = "9d6dee533520449bddaae2183f54efa54690bffd1aa724001a2d88c0d3eb03ce"
+
+[[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
 hash = "68e4026081626e8f3e8f233a02ca7a88df5f72a314eb13bd82048435355e0e8a"
 
