@@ -196,11 +196,6 @@ hash = "b2a453972e758b448327e1f6dfac61a29a6750b483afd0ead62a86cc5f8a1a7c"
 metafile = true
 
 [[files]]
-file = "mods/Nullscape_1.21.x_v1.2.14.pw.toml"
-hash = "e4b87abb28a569ca491929b8b7813a4ea4ec4793931d64c4e4b4e4d6ebc97408"
-metafile = true
-
-[[files]]
 file = "mods/OctoLib-FABRIC-0.6.0.4+1.21.8.pw.toml"
 hash = "ba50e052c00dc1ad6cc2470c6918de65b2f0ab61a124f26103ecc1f7478165a8"
 metafile = true
@@ -248,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/SmoothScrollingRefurbished+1.21.6-1.4.0.pw.toml"
 hash = "72d3cdecc87bf39303660400acab97717b25f1004d5df8555ab5f1201015494d"
-metafile = true
-
-[[files]]
-file = "mods/Stellarity-5.0.1.pw.toml"
-hash = "594a0a1c05a30ac994722d7b9fe7840c03a75e56cda62d92355f96edfc882dde"
 metafile = true
 
 [[files]]
@@ -1075,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1ea583de6ea8ff308e3f073179eb16ee848d748d102e0bd6adbe26f2f2ce1654"
+hash = "5191f789110d00bd9a8f375f9c64333dcc3f73b33a6ade9b1a9bee69a51f62a6"
 
 [[files]]
 file = "resourcepacks/32x Shaded Font 1.20.4+.pw.toml"
