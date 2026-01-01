@@ -5,6 +5,10 @@ file = "TrashSlotSaveState.json"
 hash = "e43a7c771289225a90dc420daebac34f2203225d045018d2f5328411b76401bd"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "33d747d5139ad46fc0dfc90cdb612bf821f6726d743d53b743b9a91fa9a3e783"
+
+[[files]]
 file = "config/autotools/general.json"
 hash = "be3dccfcb31d74b4cafe16c451b566081702f2bdbb8d62f767679babfe6f0cd3"
 
