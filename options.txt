@@ -140,9 +140,9 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.worldeditcui.toggle:key.keyboard.unknown
 key_key.worldeditcui.clear:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
-key_key.yo_hooks.jump:key.keyboard.unknown
+key_key.yo_hooks.jump:key.keyboard.space
 key_key.yo_hooks.climb:key.keyboard.unknown
-key_key.yo_hooks.climb_down:key.keyboard.z
+key_key.yo_hooks.climb_down:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.left.bracket
 key_key.aichat.open:key.keyboard.i
 key_key.autotools.get_tool:key.keyboard.k
