@@ -1,0 +1,12 @@
+name = "undergroundbeacons-1.21.8-1.0"
+filename = "undergroundbeacons-1.21.8-1.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/SMC0xf5E/versions/gst2Fdou/undergroundbeacons-1.21.8-1.0.jar"
+hash-format = "sha512"
+hash = "7c19335547b366dc6fdc36cf5713243cbdba676d4d7b776c8fef0b9b322a1ecdb63a62de4acf6bae00ea7a8dd672526eaef0a3495a4855a80ba8ba40317104fe"
+
+[update]
+  [update.modrinth]
+  mod-id = "SMC0xf5E"
+  version = "gst2Fdou"

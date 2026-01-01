@@ -1,0 +1,12 @@
+name = "random-accessories-1.0.7+mc1.21.8"
+filename = "random-accessories-1.0.7+mc1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZISEcVHB/versions/pac9Im7d/random-accessories-1.0.7%2Bmc1.21.8.jar"
+hash-format = "sha512"
+hash = "43a1465fd8a873ecaee1a82b5c2bdd37e28f818c442d425534b2e8d65dd79bb7a51a74e3b3b4866403c5c8fefd02e239c8d6815c9df8fa4df0b6b156a416b210"
+
+[update]
+  [update.modrinth]
+  mod-id = "ZISEcVHB"
+  version = "pac9Im7d"

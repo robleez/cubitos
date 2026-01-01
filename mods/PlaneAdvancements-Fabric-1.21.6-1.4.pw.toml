@@ -1,0 +1,12 @@
+name = "PlaneAdvancements-Fabric-1.21.6-1.4"
+filename = "PlaneAdvancements-Fabric-1.21.6-1.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1smGrYI/versions/RW7xFbm4/PlaneAdvancements-Fabric-1.21.6-1.4.jar"
+hash-format = "sha512"
+hash = "f321f86823389bac08249b652f217cacbcfbd633d4cf439d3b645d8adc5376d73d4f40cae09fd41b9f0bd9924de8639cb578023dbd6ced74585ac970453ad98a"
+
+[update]
+  [update.modrinth]
+  mod-id = "V1smGrYI"
+  version = "RW7xFbm4"
