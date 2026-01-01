@@ -1,0 +1,12 @@
+name = "Assorted Allays x FA - V.10.2"
+filename = "Assorted Allays x FA - V.10.2.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/36ri01j6/versions/uDtPYKVS/Assorted%20Allays%20x%20FA%20-%20V.10.2.zip"
+hash-format = "sha512"
+hash = "11ef4e259712dfe64dd57b3acf8623f7626a0a1297b4f84a36b354bc92276263c1daf63d932f7ac73fb38d674d2eb3afff10f24a69ef66b2f559d1afa05542ef"
+
+[update]
+  [update.modrinth]
+  mod-id = "36ri01j6"
+  version = "uDtPYKVS"

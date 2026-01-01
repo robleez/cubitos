@@ -1,0 +1,12 @@
+name = "warden-with-loot-3.2"
+filename = "warden-with-loot-3.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/T2Z3j2pD/versions/tej70tdn/warden-with-loot-3.2.jar"
+hash-format = "sha512"
+hash = "621c828ea225c8c62907184773002f7e4c6f08c2ff3930a3e334f7677c8a33d34fc32c09d77c1fd0405987c424e9ce735e4f42d156e03e497ade6c5f89c6b1fd"
+
+[update]
+  [update.modrinth]
+  mod-id = "T2Z3j2pD"
+  version = "tej70tdn"

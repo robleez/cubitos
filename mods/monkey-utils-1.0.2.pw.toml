@@ -1,0 +1,12 @@
+name = "monkey-utils-1.0.2"
+filename = "monkey-utils-1.0.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/uApL7Qhc/versions/psAnQWIp/monkey-utils-1.0.2.jar"
+hash-format = "sha512"
+hash = "59fed6b527957d496e1740df547d1396d89562b173f13cf3c17a27b4544ff69b4879565a7eead34ce5f511bcec833b1c70c27cd7df846831e0ac84e140d45c0a"
+
+[update]
+  [update.modrinth]
+  mod-id = "uApL7Qhc"
+  version = "psAnQWIp"

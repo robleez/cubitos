@@ -1,0 +1,12 @@
+name = "itemswapper-fabric-0.8.5-mc1.21.8"
+filename = "itemswapper-fabric-0.8.5-mc1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/LOloRDiB/itemswapper-fabric-0.8.5-mc1.21.8.jar"
+hash-format = "sha512"
+hash = "b1f07ffc1b294d22573c03c0b29b7ddb6f4607ffdb4a50b71dfa5fc7b02f9d651a1b65df54516762a3939260dceef4d28bcfbc53c50dc2d7e481a89299b650b0"
+
+[update]
+  [update.modrinth]
+  mod-id = "RPOSBQgq"
+  version = "LOloRDiB"

@@ -1,0 +1,12 @@
+name = "Essential_1-3-10-4_fabric_1-21-8"
+filename = "Essential_1-3-10-4_fabric_1-21-8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/jyl3NniX/Essential_1-3-10-4_fabric_1-21-8.jar"
+hash-format = "sha512"
+hash = "a7fc4175fcd78c25387a3e9b00573bf64447e2cba980f348451aef66d0a493791f3f135a54e94ad3e60af477e522a2d0db492d4d05992c6e3ed0c7e60834c4ea"
+
+[update]
+  [update.modrinth]
+  mod-id = "k2ZPuTBm"
+  version = "jyl3NniX"
