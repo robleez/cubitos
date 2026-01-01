@@ -1,0 +1,12 @@
+name = "spawn-egg-recipe-1.1"
+filename = "spawn-egg-recipe-1.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0vKo4sa/versions/O2XpduGs/spawn-egg-recipe-1.1.jar"
+hash-format = "sha512"
+hash = "efcd72676bad3b7f2d6b3c81bd796133ff83f463722df3292d51ae3fae6d00190b902543954a43a375458f09f2724201fb8f641b2ef9354db7221e97d1e91c64"
+
+[update]
+  [update.modrinth]
+  mod-id = "K0vKo4sa"
+  version = "O2XpduGs"
