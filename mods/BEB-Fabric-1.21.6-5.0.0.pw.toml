@@ -1,0 +1,12 @@
+name = "BEB-Fabric-1.21.6-5.0.0"
+filename = "BEB-Fabric-1.21.6-5.0.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcqEicMM/versions/EDFTqXsU/BEB-Fabric-1.21.6-5.0.0.jar"
+hash-format = "sha512"
+hash = "d945b87f631eacea9233a0ddfa57bbb1b2ab5da1ef01e48c46327bf2e376a4bcb3256dd32af3e6e842ba87ce806cd3651505a1aed14e7f1462d65231524ed96c"
+
+[update]
+  [update.modrinth]
+  mod-id = "pcqEicMM"
+  version = "EDFTqXsU"

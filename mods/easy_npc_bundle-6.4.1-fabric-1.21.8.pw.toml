@@ -1,0 +1,12 @@
+name = "easy_npc_bundle-6.4.1-fabric-1.21.8"
+filename = "easy_npc_bundle-6.4.1-fabric-1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/BEwyCT9N/easy_npc_bundle-6.4.1-fabric-1.21.8.jar"
+hash-format = "sha512"
+hash = "53f24a9bbf6a417c201f07af9d5e1fda84e250e92044592a493edaa08ee9088c428ed4a850fe4939106fa7946ee16002d3696f2e1add65b8dd46e30bc697bbdf"
+
+[update]
+  [update.modrinth]
+  mod-id = "CgGEe1h3"
+  version = "BEwyCT9N"

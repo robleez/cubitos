@@ -1,0 +1,12 @@
+name = "armortip-1.21.678"
+filename = "armortip-1.21.678.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/5stdM2Ky/versions/NqyPIqZE/armortip-1.21.678.jar"
+hash-format = "sha512"
+hash = "ad826919a3540a576a87d400b456504b4f078438322847632c7239b5ad9335cd12a0780f803df35e8126dda4ff1b588a3decc4ac33677673b21756b3cdf575b0"
+
+[update]
+  [update.modrinth]
+  mod-id = "5stdM2Ky"
+  version = "NqyPIqZE"
