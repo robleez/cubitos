@@ -1,0 +1,12 @@
+name = "cinematiczoom-1.0.0"
+filename = "cinematiczoom-1.0.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBKcRJTu/versions/SJwwyN9h/cinematiczoom-1.0.0.jar"
+hash-format = "sha512"
+hash = "41a5210fd1df7eeb87c9c111ed32f19aa3e8fb0e3cdefd960a03b787e7a8e1c3443d198462cc38643f3c380665bb951d9b3e1df142d02a617829c64bf3734d10"
+
+[update]
+  [update.modrinth]
+  mod-id = "LBKcRJTu"
+  version = "SJwwyN9h"

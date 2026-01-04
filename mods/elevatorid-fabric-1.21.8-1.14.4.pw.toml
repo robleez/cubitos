@@ -1,0 +1,12 @@
+name = "elevatorid-fabric-1.21.8-1.14.4"
+filename = "elevatorid-fabric-1.21.8-1.14.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/1wimPzrf/elevatorid-fabric-1.21.8-1.14.4.jar"
+hash-format = "sha512"
+hash = "c5d768c15e65ff7973d4a2f516c3a38456936ad7754da032314f4ed60e8ef8cd0d19b1b68ff8af546aac328ea58b7f5c54f06248feeba749f82f5c068bdc523b"
+
+[update]
+  [update.modrinth]
+  mod-id = "hi2dSXTu"
+  version = "1wimPzrf"

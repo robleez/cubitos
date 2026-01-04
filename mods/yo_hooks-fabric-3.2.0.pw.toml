@@ -1,0 +1,12 @@
+name = "yo_hooks-fabric-3.2.0"
+filename = "yo_hooks-fabric-3.2.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/t1p8V2nl/versions/In6ETitx/yo_hooks-fabric-3.2.0.jar"
+hash-format = "sha512"
+hash = "201476220f36b440aa4006b02877b7874061ae011a0b0ae8ebd66302806dbed91de98d98bc91414af694285876d4a1877fdc4640899ae5268304d45ef6fc9080"
+
+[update]
+  [update.modrinth]
+  mod-id = "t1p8V2nl"
+  version = "In6ETitx"

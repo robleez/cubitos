@@ -1,0 +1,12 @@
+name = "chisel-fabric-2.1.0+mc1.21.8"
+filename = "chisel-fabric-2.1.0+mc1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/Jf2mmqTM/chisel-fabric-2.1.0%2Bmc1.21.8.jar"
+hash-format = "sha512"
+hash = "8f8d2e735b0d4afe56dc27fe39c9ee359cb322e0ea1908c318b700332553a43447a71646055d5b15f0289cca2e6b8d25721bd79c1c95e4c256d5173b350a991a"
+
+[update]
+  [update.modrinth]
+  mod-id = "4KWv7wbN"
+  version = "Jf2mmqTM"
