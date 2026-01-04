@@ -509,11 +509,6 @@ hash = "320b050a5cbb1525eb03d49f68e5bcd7b526fbfc5082d96a9e69f383017a04aa"
 metafile = true
 
 [[files]]
-file = "mods/controlify-2.5.0+1.21.8-fabric.pw.toml"
-hash = "e587bef558040e2ace5cec14d1f753fae60927ed53d6e4aa95a6bced61d88c57"
-metafile = true
-
-[[files]]
 file = "mods/cryonicconfig-fabric-1.0.0+mc1.21.11.pw.toml"
 hash = "18037e1e0ca6a4ac8e7fe643ed056a57acf308f5f4128f5ee75977fd268ae757"
 metafile = true
@@ -714,11 +709,6 @@ metafile = true
 [[files]]
 file = "mods/iris-fabric-1.9.6+mc1.21.8.pw.toml"
 hash = "ab21d87a051b404b137365fc53edcf4b1ecdd41c9c9406c6f5ecfb4687b7d3be"
-metafile = true
-
-[[files]]
-file = "mods/itemswapper-fabric-0.8.5-mc1.21.8.pw.toml"
-hash = "a1c04c553733b89891c41ce8fe903880c159c306e04021825f1c533639877fa5"
 metafile = true
 
 [[files]]
