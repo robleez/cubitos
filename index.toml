@@ -897,11 +897,6 @@ hash = "08288c90885cbb593193c23fcd9a39a2b1fcc64dce76870d5c4dbcb6963f5c2e"
 metafile = true
 
 [[files]]
-file = "mods/mob-ai-tweaks-1.8.2-1.21.8.pw.toml"
-hash = "5de01cc3859708754dc10ce3f85f0f61b0ae9352c6f5973c06cbc775c16cf5a5"
-metafile = true
-
-[[files]]
 file = "mods/mob-captains-v3.4.0.pw.toml"
 hash = "bfb2f0994229c0f481c8ef0384a9115bcb00eec0f010fbd7b69a59ab50ae838c"
 metafile = true
