@@ -1,0 +1,12 @@
+name = "sgtrades-1.21.8v1"
+filename = "sgtrades-1.21.8v1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/MTTU7o04/versions/3jYgOM3O/sgtrades-1.21.8v1.jar"
+hash-format = "sha512"
+hash = "10927288f65ebadf31000c5a58a20b8e74e837732c67a35204af79b73199ac3d4f14fb31f22c48dfd6a261c815938cbe9e6b7c82ae1aa81b9206180e5f30867f"
+
+[update]
+  [update.modrinth]
+  mod-id = "MTTU7o04"
+  version = "3jYgOM3O"

@@ -1,0 +1,12 @@
+name = "VillageHealthcare-1.5.0"
+filename = "VillageHealthcare-1.5.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/j23NprwL/versions/7b6ercO6/VillageHealthcare-1.5.0.jar"
+hash-format = "sha512"
+hash = "121e4854e2a95cdeb7e8f9ebb69bf501dcee2da781057c6011add30e2ee5f2b5adf13fb9a14767654e6c84ee4bb1cef2e30c0178d76f7153c9b4ced1bfb94647"
+
+[update]
+  [update.modrinth]
+  mod-id = "j23NprwL"
+  version = "7b6ercO6"

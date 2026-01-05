@@ -1,0 +1,12 @@
+name = "[1.21.5-1.21.10]witherswrath-1.15.1"
+filename = "[1.21.5-1.21.10]witherswrath-1.15.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/qqIrLnDt/versions/E7ShUai8/%5B1.21.5-1.21.10%5Dwitherswrath-1.15.1.jar"
+hash-format = "sha512"
+hash = "f109b79bef7be9975f7063e1bb28891f7776f3835def1cb3d75943fe39656183427c492cb6576a7db7835023962527d0b6fd2be21188cce7a694233be2b0cae2"
+
+[update]
+  [update.modrinth]
+  mod-id = "qqIrLnDt"
+  version = "E7ShUai8"

@@ -1,0 +1,12 @@
+name = "scholar-fabric-1.21.8-1.1.11"
+filename = "scholar-fabric-1.21.8-1.1.11.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/WgPzovE8/scholar-fabric-1.21.8-1.1.11.jar"
+hash-format = "sha512"
+hash = "1785c7996358b285b59989d56406e07649515b4fdd499fb4d63e02e960b7490d8fbeffa9890c73f586a091f46dafeaa60722575c7f86ac650b2615128531d5cb"
+
+[update]
+  [update.modrinth]
+  mod-id = "fX4dIQCo"
+  version = "WgPzovE8"

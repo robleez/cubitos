@@ -1,0 +1,12 @@
+name = "just-hammers-fabric-21.8.3"
+filename = "just-hammers-fabric-21.8.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/edU0NbZZ/versions/tpfQ90IP/just-hammers-fabric-21.8.3.jar"
+hash-format = "sha512"
+hash = "6fc68e036d35c123d7eb79e5fdc85351361dc952da29cfc77c1551628f0f3cf007f824b1ea1d0b13d114422b3877731693e845e4618205dd7f323241500da241"
+
+[update]
+  [update.modrinth]
+  mod-id = "edU0NbZZ"
+  version = "tpfQ90IP"
