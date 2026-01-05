@@ -1,0 +1,12 @@
+name = "nemos-mending-Fabric-1.21.8-1.1.2"
+filename = "nemos-mending-Fabric-1.21.8-1.1.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/D9vJXeSm/versions/whTwMAbn/nemos-mending-Fabric-1.21.8-1.1.2.jar"
+hash-format = "sha512"
+hash = "85c6e7c2d95c89382e49a2410158304d09141ec52f6de1a348cd39281b2bfbf36d0b1d6d6252887697e9b44a6efb311e856ed88f9010b8d2762a55b2d1c65c5c"
+
+[update]
+  [update.modrinth]
+  mod-id = "D9vJXeSm"
+  version = "whTwMAbn"
