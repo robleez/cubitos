@@ -130,6 +130,11 @@ hash = "0a47d5238ac219ada2a49efa6f6d623ed987d42eb445c382db591d182cd743a2"
 metafile = true
 
 [[files]]
+file = "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.28.pw.toml"
+hash = "733d71acac122d9fbca956c970fc88400457694ab4a81dcd36a6a972e239695a"
+metafile = true
+
+[[files]]
 file = "mods/CreativeCore_FABRIC_v2.14.7_mc1.21.8.pw.toml"
 hash = "68e9b7c04d555b632d5491c260321fc510b389b91968fd3ca7b44ae38756a5c1"
 metafile = true
