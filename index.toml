@@ -21,6 +21,10 @@ file = "config/autotools/lists.json"
 hash = "f34ed7fb03b9b0613d1e36fc84797451799d89a59bfe8081cd37e16a058905f2"
 
 [[files]]
+file = "config/beltborne_lanterns.json"
+hash = "2d05860eb36b860a97e167d1ebf9a936e7653cf4171198592b1251c3b32cc647"
+
+[[files]]
 file = "config/iris.properties"
 hash = "05a236cd2e85926ff1a8b1c4510be4c26953f504193b12e1b32aedd4fd40d063"
 
@@ -63,6 +67,11 @@ hash = "68e4026081626e8f3e8f233a02ca7a88df5f72a314eb13bd82048435355e0e8a"
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
 hash = "54ddc7391797eaccfb9e38f751bd23da7450013c148e2fe6723f507616c4693b"
+
+[[files]]
+file = "mods/AFKcamera-1.4.2+1.21.8.pw.toml"
+hash = "a5575feafe7622cbb1267fe9c706c2267f4c362e1c86547f2078b78844973d4d"
+metafile = true
 
 [[files]]
 file = "mods/AIChat-1.0.3+1.21.6.pw.toml"
@@ -404,6 +413,11 @@ hash = "de197a07ec63ef82d67be144091be56d661e0ba02043d197e510c9b6aa47a841"
 metafile = true
 
 [[files]]
+file = "mods/beltborne_lanterns-1.2.3-fabric+1.21.8.pw.toml"
+hash = "d398acb08b1578ec9d89675754f49a3bc7da6cc65a3219065c176335753a6467"
+metafile = true
+
+[[files]]
 file = "mods/better_mcdonalds_mod-fabric-4.4.4+1.21.8.pw.toml"
 hash = "704b376e3fe741971aa163615179ae54e831a93bc187a290b84452854671eeed"
 metafile = true
@@ -436,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/bettervillage-fabric-1.21.8-3.3.1.pw.toml"
 hash = "4c1b334400445a74caab03b0d3030edf5ea7d6ecad97741a03f72007c320b4a3"
+metafile = true
+
+[[files]]
+file = "mods/bl_accessories_layer-1.0.4-fabric+1.21.8.pw.toml"
+hash = "fc477ed1b839c01b941f3d17aec669253c3495b67693c6d5f8b5720bbbde0884"
 metafile = true
 
 [[files]]

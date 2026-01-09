@@ -1,0 +1,12 @@
+name = "bl_accessories_layer-1.0.4-fabric+1.21.8"
+filename = "bl_accessories_layer-1.0.4-fabric+1.21.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/geZ7ilkE/versions/uSoMUjJ4/bl_accessories_layer-1.0.4-fabric%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "21d650c4187f9826ba465a2480628df269e0e07f8180cecde267fa82f32ae07a8f5c7b7cf5ac7d0740eb6903eaf85a132a6ffe74ec78f657c3775d07f9c6770c"
+
+[update]
+  [update.modrinth]
+  mod-id = "geZ7ilkE"
+  version = "uSoMUjJ4"
