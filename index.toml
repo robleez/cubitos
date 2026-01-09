@@ -1290,9 +1290,8 @@ hash = "e9e9f8433b40b6a39f860ae028813fe904ced618743edd54235ba08da13b5cd7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.pw.toml"
-hash = "3f684291ebdb8f0446c75b3ef25e6f28feca842a984450ab2f6ba9fd07cc4f93"
-metafile = true
+file = "resourcepacks/Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.zip"
+hash = "e41bd183c59b2046ddab744dbc24f1bf84f37afd98788b50b7cdece8a131fd63"
 
 [[files]]
 file = "resourcepacks/DetailedAnimationsReworked - V1.15 PATCH.pw.toml"
