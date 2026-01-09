@@ -1,0 +1,12 @@
+name = "itemmagnetmod-2.7"
+filename = "itemmagnetmod-2.7.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/V9obxUzB/versions/t8oOyZwj/itemmagnetmod-2.7.jar"
+hash-format = "sha512"
+hash = "fe5b2873cb5b2b1efce07a2ed4dc4f3245ad665935d26b61e7c6a1c110eb9bdd0fb3ecfc5b30655e5c9166299a08553e428c317039ced5c6d8d1dfa750e948f3"
+
+[update]
+  [update.modrinth]
+  mod-id = "V9obxUzB"
+  version = "t8oOyZwj"
