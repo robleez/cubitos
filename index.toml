@@ -313,6 +313,11 @@ hash = "bc44b7a39d8df8c6ba00b14b64c77f8ae4af59841308c0305d6845f3de9c1a25"
 metafile = true
 
 [[files]]
+file = "mods/ShoulderSurfing-Fabric-1.21.8-4.14.3.pw.toml"
+hash = "44f8143c983c234140370758d4b82f65a5b90d961c36da585477f32007f776ae"
+metafile = true
+
+[[files]]
 file = "mods/SmoothScrollingRefurbished+1.21.6-1.4.0.pw.toml"
 hash = "72d3cdecc87bf39303660400acab97717b25f1004d5df8555ab5f1201015494d"
 metafile = true
