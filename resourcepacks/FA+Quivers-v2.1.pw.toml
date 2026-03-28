@@ -1,0 +1,12 @@
+name = "FA+Quivers-v2.1"
+filename = "FA+Quivers-v2.1.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/T4pK4GiQ/versions/rMtbRkiD/FA%2BQuivers-v2.1.zip"
+hash-format = "sha512"
+hash = "ae7bb439793ffd33620965489d861b5262d5bb8474c878fffe41f1f42fd0d54b02a8e6c275699baf8740e3160b64b15b533a40595d30f17982bb8ab9ba94dcdd"
+
+[update]
+  [update.modrinth]
+  mod-id = "T4pK4GiQ"
+  version = "rMtbRkiD"

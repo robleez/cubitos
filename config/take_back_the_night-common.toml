@@ -1,0 +1,15 @@
+# Default: 500.0
+# Range: 0.0 ~ 1024.0
+maximum_health = 500.0
+# Default: 6.0
+# Range: 0.0 ~ 1024.0
+attack_damage = 6.0
+# Default: 10.0
+# Range: 0.0 ~ 1024.0
+armor_points = 10.0
+# Default: 0.23
+# Range: 0.0 ~ 1024.0
+movement_speed = 0.23
+# Default: 256.0
+# Range: 0.0 ~ 1024.0
+follow_range = 256.0

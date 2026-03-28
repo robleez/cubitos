@@ -1,9 +1,11 @@
 {
-  "toggle": true,
+  "toggle": false,
   "disableCreative": true,
   "keepSlot": false,
+  "hotbarOnly": false,
   "preferHotbarTool": true,
   "preferLowDurability": false,
+  "preserveDurability": true,
   "alwaysPreferFortune": false,
   "onlySwitchIfNecessary": false,
   "switchBack": false,

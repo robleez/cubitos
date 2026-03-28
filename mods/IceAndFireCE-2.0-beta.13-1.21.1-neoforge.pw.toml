@@ -1,0 +1,12 @@
+name = "IceAndFireCE-2.0-beta.13-1.21.1-neoforge"
+filename = "IceAndFireCE-2.0-beta.13-1.21.1-neoforge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/SgO9RBV9/IceAndFireCE-2.0-beta.13-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "5d491f6db628db272981930478766e4acb7a661d870143237f2e338c930db3953ace4137b9b3a66c491df18b6d34c7ca122ab6b981e30b912192d48ba1789af8"
+
+[update]
+  [update.modrinth]
+  mod-id = "VpmCsizY"
+  version = "SgO9RBV9"

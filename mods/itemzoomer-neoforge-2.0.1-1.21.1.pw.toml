@@ -1,0 +1,12 @@
+name = "itemzoomer-neoforge-2.0.1-1.21.1"
+filename = "itemzoomer-neoforge-2.0.1-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/OgBgQ2NP/versions/XHR0GMkW/itemzoomer-neoforge-2.0.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "a60cf208792fd6906df21916254fb61458e4dd9dc3e50eee28b6e0fb31a91c38f29ed52f98d802353fc14d073095d343bf2ac157bced16b702398d093c56effb"
+
+[update]
+  [update.modrinth]
+  mod-id = "OgBgQ2NP"
+  version = "XHR0GMkW"

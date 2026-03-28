@@ -1,0 +1,12 @@
+name = "tinymobfarm-1.5.1-1.21-neoforge"
+filename = "tinymobfarm-1.5.1-1.21-neoforge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhAM8VCH/versions/2zNzkGSW/tinymobfarm-1.5.1-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "044926e78aacdc5cc62105c72a6f74d25bca4d1a753890818cbca46caeb5c681f567c2a226aa4084ce4b339daedecf321c776753a6b29a6805f8b5c02c6036dc"
+
+[update]
+  [update.modrinth]
+  mod-id = "fhAM8VCH"
+  version = "2zNzkGSW"

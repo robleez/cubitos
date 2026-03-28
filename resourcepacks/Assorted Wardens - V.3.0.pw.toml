@@ -1,0 +1,12 @@
+name = "Assorted Wardens - V.3.0"
+filename = "Assorted Wardens - V.3.0.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/kF3BbJJV/versions/f08ArM7G/Assorted%20Wardens%20-%20V.3.0.zip"
+hash-format = "sha512"
+hash = "62099f814e6d2b29b7335d49fbf6447b1a13109c422aaff15703950204698b1b51cfcb89002a00152b91e467c3dde06da1a925aab83eef2dd4c17b7c57e0187f"
+
+[update]
+  [update.modrinth]
+  mod-id = "kF3BbJJV"
+  version = "f08ArM7G"

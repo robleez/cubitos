@@ -1,0 +1,370 @@
+[general]
+	enabled = true
+	visualEffects = true
+
+[dayScaling]
+	enabled = false
+	# Default: 7
+	# Range: 1 ~ 365
+	interval = 7
+	# Default: 0.1
+	# Range: 0.01 ~ 20.0
+	multiplier = 0.1
+	# Default: 5.0
+	# Range: 1.0 ~ 10.0
+	maxMultiplier = 5.0
+	showNotifications = true
+	#Allowed Values: EVERY_DAY, SCALING_INCREASE_ONLY
+	notificationMode = "EVERY_DAY"
+
+[attributes]
+	# Default: 1.5
+	# Range: 0.1 ~ 10.0
+	healthMultiplier = 1.5
+	# Default: 1.5
+	# Range: 0.1 ~ 10.0
+	damageMultiplier = 1.5
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	speedMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	attackSpeedMultiplier = 1.0
+	# Default: 5.0
+	# Range: 0.0 ~ 20.0
+	armorAddition = 5.0
+	# Default: 0.0
+	# Range: 0.0 ~ 20.0
+	armorToughnessAddition = 0.0
+
+[effects]
+	# Default: -1
+	# Range: -1 ~ 7200
+	duration = -1
+	# Default: 0
+	# Range: 0 ~ 10
+	strengthAmplifier = 0
+	# Default: 0
+	# Range: 0 ~ 10
+	speedAmplifier = 0
+	# Default: 0
+	# Range: 0 ~ 10
+	resistanceAmplifier = 0
+	# Default: 0
+	# Range: 0 ~ 10
+	regenerationAmplifier = 0
+
+[harmfulEffects]
+	enabled = true
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	chance = 0.15
+	# Default: 5
+	# Range: 1 ~ 60
+	poisonDuration = 5
+	# Default: 3
+	# Range: 1 ~ 60
+	slownessDuration = 3
+	# Default: 3
+	# Range: 1 ~ 60
+	witherDuration = 3
+
+	[dimensionScaling.slot1]
+		dimensionName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 10.0
+		armorToughnessAddition = 0.0
+
+	[dimensionScaling.slot2]
+		dimensionName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 10.0
+		armorToughnessAddition = 0.0
+
+	[dimensionScaling.slot3]
+		dimensionName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 10.0
+		armorToughnessAddition = 0.0
+
+	[dimensionScaling.slot4]
+		dimensionName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 10.0
+		armorToughnessAddition = 0.0
+
+	[dimensionScaling.slot5]
+		dimensionName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 10.0
+		armorToughnessAddition = 0.0
+
+[mobFilter]
+	useWhitelist = false
+	whitelist = []
+	blacklist = []
+
+[modidFilter]
+	useWhitelist = false
+	whitelist = []
+	blacklist = []
+
+[dimensionFilter]
+	useWhitelist = false
+	whitelist = []
+	blacklist = []
+
+[rangedMeleeSwitching]
+	enabled = true
+	#Allowed Values: MELEE, RETREAT, RANDOM
+	behaviorMode = "MELEE"
+	# Default: 4.0
+	# Range: 1.0 ~ 16.0
+	switchDistance = 4.0
+	# Default: 0.9
+	# Range: 0.5 ~ 2.0
+	meleeSpeedMultiplier = 0.9
+	# Default: 1.5
+	# Range: 0.5 ~ 3.0
+	retreatSpeed = 1.5
+	# Default: 40
+	# Range: 10 ~ 200
+	retreatDuration = 40
+	customRangedMobs = []
+	# Default: 0
+	# Range: 0 ~ 365
+	stoneSwordUnlockDay = 0
+	# Default: 7
+	# Range: 0 ~ 365
+	ironSwordUnlockDay = 7
+	# Default: 21
+	# Range: 0 ~ 365
+	diamondSwordUnlockDay = 21
+	# Default: 60
+	# Range: 0 ~ 365
+	netheriteSwordUnlockDay = 60
+	# Default: 0
+	# Range: 0 ~ 365
+	goldenAxeUnlockDay = 0
+	# Default: 14
+	# Range: 0 ~ 365
+	diamondAxeUnlockDay = 14
+	# Default: 45
+	# Range: 0 ~ 365
+	netheriteAxeUnlockDay = 45
+	enchantmentsEnabled = true
+	# Default: 2
+	# Range: 1 ~ 4
+	maxEnchantmentsPerWeapon = 2
+	# Default: 7
+	# Range: 1 ~ 30
+	daysPerEnchantmentLevel = 7
+	# Default: 0
+	# Range: 0 ~ 365
+	sharpnessUnlockDay = 0
+	# Default: 5
+	# Range: 1 ~ 5
+	sharpnessMaxLevel = 5
+	# Default: 14
+	# Range: 0 ~ 365
+	fireAspectUnlockDay = 14
+	# Default: 2
+	# Range: 1 ~ 2
+	fireAspectMaxLevel = 2
+	# Default: 7
+	# Range: 0 ~ 365
+	knockbackUnlockDay = 7
+	# Default: 2
+	# Range: 1 ~ 2
+	knockbackMaxLevel = 2
+	# Default: 21
+	# Range: 0 ~ 365
+	sweepingEdgeUnlockDay = 21
+	# Default: 3
+	# Range: 1 ~ 3
+	sweepingEdgeMaxLevel = 3
+
+[mobPresets]
+	#Allowed Values: ENABLED, DISABLED
+	enabled = "DISABLED"
+	mobMapping = []
+
+	[mobPresets.preset1]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 30.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorToughnessAddition = 0.0
+
+	[mobPresets.preset2]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 30.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorToughnessAddition = 0.0
+
+	[mobPresets.preset3]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 30.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorToughnessAddition = 0.0
+
+	[mobPresets.preset4]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 30.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorToughnessAddition = 0.0
+
+	[mobPresets.preset5]
+		presetName = ""
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		healthMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 100.0
+		damageMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		speedMultiplier = 1.0
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		attackSpeedMultiplier = 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 30.0
+		armorAddition = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 20.0
+		armorToughnessAddition = 0.0

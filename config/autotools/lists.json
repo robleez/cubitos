@@ -58,8 +58,7 @@
     "#minecraft:corals",
     "#minecraft:coral_blocks",
     "minecraft:chiseled_bookshelf",
-    "minecraft:decorated_pot",
-    "minecraft:creaking_heart"
+    "minecraft:decorated_pot"
   ],
   "silktouch_setting_always": [
     "minecraft:grass_block",
@@ -92,10 +91,6 @@
     "#minecraft:leaves",
     "minecraft:snow_block",
     "minecraft:snow",
-    "minecraft:pale_hanging_moss",
-    "minecraft:bush",
-    "minecraft:short_dry_grass",
-    "minecraft:tall_dry_grass",
     "minecraft:sculk",
     "minecraft:sculk_catalyst",
     "minecraft:sculk_sensor",
@@ -115,10 +110,6 @@
     "#minecraft:leaves",
     "minecraft:snow_block",
     "minecraft:snow",
-    "minecraft:pale_hanging_moss",
-    "minecraft:bush",
-    "minecraft:short_dry_grass",
-    "minecraft:tall_dry_grass",
     "minecraft:sculk",
     "minecraft:sculk_catalyst",
     "minecraft:sculk_sensor",
@@ -201,11 +192,7 @@
     "minecraft:twisting_vines",
     "minecraft:weeping_vines",
     "minecraft:vine",
-    "minecraft:cobweb",
-    "minecraft:bush",
-    "minecraft:short_dry_grass",
-    "minecraft:tall_dry_grass",
-    "minecraft:pale_hanging_moss"
+    "minecraft:cobweb"
   ],
   "do_not_swap_unless_ench": [
     "minecraft:dead_bush",
@@ -222,10 +209,6 @@
     "minecraft:weeping_vines",
     "minecraft:vine",
     "minecraft:cobweb",
-    "minecraft:bush",
-    "minecraft:short_dry_grass",
-    "minecraft:tall_dry_grass",
-    "minecraft:pale_hanging_moss",
     "minecraft:nether_wart",
     "minecraft:sweet_berry_bush",
     "minecraft:wheat",

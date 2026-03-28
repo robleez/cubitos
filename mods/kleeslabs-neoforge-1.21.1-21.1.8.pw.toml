@@ -1,0 +1,12 @@
+name = "kleeslabs-neoforge-1.21.1-21.1.8"
+filename = "kleeslabs-neoforge-1.21.1-21.1.8.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/K0ieWPNK/kleeslabs-neoforge-1.21.1-21.1.8.jar"
+hash-format = "sha512"
+hash = "ec1b841b004ced5b8a7a9a5807adb33faec235f98928764767191b20ddab00255d0c565d97eaf11a4029619f4ab0eb1bd43c12f08963f21c7a379a762ccb7007"
+
+[update]
+  [update.modrinth]
+  mod-id = "7uh75ruZ"
+  version = "K0ieWPNK"

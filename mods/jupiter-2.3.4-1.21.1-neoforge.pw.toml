@@ -1,0 +1,12 @@
+name = "jupiter-2.3.4-1.21.1-neoforge"
+filename = "jupiter-2.3.4-1.21.1-neoforge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/m2itNS7Z/jupiter-2.3.4-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "65886b765fcf83485e684a9db18c5f03004c255deb5e8f001d114302fed11c0835a15e91715efcae80611917af4200d008b687e27fbda6c388db7195a2164a68"
+
+[update]
+  [update.modrinth]
+  mod-id = "XbiLGMMU"
+  version = "m2itNS7Z"

@@ -1,0 +1,12 @@
+name = "InventoryParticles-1.3.2+1.21.1+neoforge"
+filename = "InventoryParticles-1.3.2+1.21.1+neoforge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/qFxkpJ3E/InventoryParticles-1.3.2%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "3f24a4a656dcf8edc5e9134d7e57945ae6445296e511b4f6f0b13221ea99d32668c0a997242d4dfec12ec1b3967d8e9d48c81ee37ec8d8804b262904e75e4d54"
+
+[update]
+  [update.modrinth]
+  mod-id = "XYnKrsxH"
+  version = "qFxkpJ3E"

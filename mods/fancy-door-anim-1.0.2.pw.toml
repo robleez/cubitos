@@ -1,0 +1,12 @@
+name = "fancy-door-anim-1.0.2"
+filename = "fancy-door-anim-1.0.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/gQIpdGQl/versions/zdszacvQ/fancy-door-anim-1.0.2.jar"
+hash-format = "sha512"
+hash = "4ecb0aababf3edd14bb15ca2c5456886dbd00af3b63b00baf7a8ce253febd5dfec1d8e40ac8f5cbdd0c01bfdb694fa92f1ea36f63458cbe3ca90cfee58407457"
+
+[update]
+  [update.modrinth]
+  mod-id = "gQIpdGQl"
+  version = "zdszacvQ"

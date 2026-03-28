@@ -1,0 +1,12 @@
+name = "wither_spawn_animation-1.6-neoforge-1.21.1"
+filename = "wither_spawn_animation-1.6-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr6UqBIT/versions/EmvGBaUu/wither_spawn_animation-1.6-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8f3e7ebad66a3d1fdeeb5608c95f112caa5f6b9f251b91d7001739bc4be60c4e4cd3c78a6c9dd0fad5e0d13ac295f71b52aea8768c7801308719e4c8fb372ff2"
+
+[update]
+  [update.modrinth]
+  mod-id = "Vr6UqBIT"
+  version = "EmvGBaUu"

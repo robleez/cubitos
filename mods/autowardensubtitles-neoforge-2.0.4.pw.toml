@@ -1,0 +1,12 @@
+name = "autowardensubtitles-neoforge-2.0.4"
+filename = "autowardensubtitles-neoforge-2.0.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/UB29olPl/versions/7821FBsx/autowardensubtitles-neoforge-2.0.4.jar"
+hash-format = "sha512"
+hash = "8d064cf421da1956f7e91bb0c04bca7bb80a5cdd3a39e9e638688fa900744df615c0d85ef97e5b844e80b8be2a91eb206ca6378ccfa0711418ef6f1401a80e41"
+
+[update]
+  [update.modrinth]
+  mod-id = "UB29olPl"
+  version = "7821FBsx"

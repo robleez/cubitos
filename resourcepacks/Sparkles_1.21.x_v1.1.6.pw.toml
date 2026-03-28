@@ -1,0 +1,12 @@
+name = "Sparkles_1.21.x_v1.1.6"
+filename = "Sparkles_1.21.x_v1.1.6.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfNmMQ9E/versions/S8Oe9FyR/Sparkles_1.21.x_v1.1.6.zip"
+hash-format = "sha512"
+hash = "685d13abcb1fbae9b40afd7202e30d452e00332d4a3fb0905b591d0ba4e2fc8017034ddf7179c66978d9eac7bd88910dbd42a273a08428e396f68a649905ba79"
+
+[update]
+  [update.modrinth]
+  mod-id = "HfNmMQ9E"
+  version = "S8Oe9FyR"

@@ -1,0 +1,12 @@
+#Max charges the Warden Echo Staff can store
+# Default: 10
+# Range: 5 ~ 15
+max_charges = 10
+#Seconds the block will be outlined for
+# Default: 5.0
+# Range: 0.0 ~ 10.0
+seconds_to_outline_block = 5.0
+#Seconds the entity will appear glowing for
+# Default: 5.0
+# Range: 0.0 ~ 10.0
+seconds_to_glow_entity = 5.0

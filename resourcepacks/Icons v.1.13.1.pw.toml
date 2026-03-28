@@ -1,0 +1,12 @@
+name = "Icons v.1.13.1"
+filename = "Icons v.1.13.1.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7z3QKAG/versions/y2k4dpy4/Icons%20v.1.13.1.zip"
+hash-format = "sha512"
+hash = "fccc16045b0332eea7365101acc429f14d7535e07e7d98de2c2b9c560abdd6f566dc8220961af368ff838bdc023460a153d66cbb45c5e835044bcab79d6ea892"
+
+[update]
+  [update.modrinth]
+  mod-id = "O7z3QKAG"
+  version = "y2k4dpy4"

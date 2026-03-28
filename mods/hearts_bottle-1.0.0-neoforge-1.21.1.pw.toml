@@ -1,0 +1,12 @@
+name = "hearts_bottle-1.0.0-neoforge-1.21.1"
+filename = "hearts_bottle-1.0.0-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/C8baXIgl/versions/JuyZwCdW/hearts_bottle-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4974aef0bddc556ff831a657f936109e68f6b42251e1afa3ea38ba519fd6b3aa6b16c852fceb5b2b818db56308832d3f76d336be8ecfc121540071dda5072659"
+
+[update]
+  [update.modrinth]
+  mod-id = "C8baXIgl"
+  version = "JuyZwCdW"

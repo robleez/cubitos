@@ -1,0 +1,12 @@
+name = "relics-1.21.1-0.10.7.7"
+filename = "relics-1.21.1-0.10.7.7.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/OCJRPujW/versions/vuXgboB6/relics-1.21.1-0.10.7.7.jar"
+hash-format = "sha512"
+hash = "a043134a5f17e69e9b2268f57a5854988d53e16ed6213a19b9d6695674b853cfe12b4679ec25045035473de3bc48070e8562e3515bc76603ac5189a13f56a469"
+
+[update]
+  [update.modrinth]
+  mod-id = "OCJRPujW"
+  version = "vuXgboB6"

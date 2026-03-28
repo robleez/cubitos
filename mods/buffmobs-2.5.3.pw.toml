@@ -1,0 +1,12 @@
+name = "buffmobs-2.5.3"
+filename = "buffmobs-2.5.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/4GYCwwms/versions/dyUAhMHD/buffmobs-2.5.3.jar"
+hash-format = "sha512"
+hash = "c7fbe64aa650edddcfb140c8190e7428654bf782d6c57e59e34721c7d57ccf9044b6c86783c8f00b4d9364f09017f43f69115fa4bad47519c46d91ec66e3600a"
+
+[update]
+  [update.modrinth]
+  mod-id = "4GYCwwms"
+  version = "dyUAhMHD"

@@ -1,0 +1,12 @@
+name = "wardenhorn-1.10.3-neoforge-mc1.21.1"
+filename = "wardenhorn-1.10.3-neoforge-mc1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/97wdLVwu/versions/LIx05Wgy/wardenhorn-1.10.3-neoforge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "17f08a8ba31be9fb664c2ae84118d58e2350c85adcccc582396d2e08fe2ab439b18916b5992808b5bd739287edfa9bb26c5224dcddd3c75163891a8c133158c0"
+
+[update]
+  [update.modrinth]
+  mod-id = "97wdLVwu"
+  version = "LIx05Wgy"

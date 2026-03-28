@@ -1,0 +1,12 @@
+name = "craft-spawn-eggs-v.2.1.5"
+filename = "craft-spawn-eggs-v.2.1.5.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/SxtZ1PPE/versions/cULeCu6J/craft-spawn-eggs-v.2.1.5.jar"
+hash-format = "sha512"
+hash = "f1ad4205209b956faca1299bf4662ac5d3226ca4391a9bf08c1e6596527b0ae4e9cafbf482aba1a07f38b966365221dd74086231f773c82be7284cc30ee95808"
+
+[update]
+  [update.modrinth]
+  mod-id = "SxtZ1PPE"
+  version = "cULeCu6J"

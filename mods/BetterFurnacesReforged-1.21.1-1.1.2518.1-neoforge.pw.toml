@@ -1,0 +1,12 @@
+name = "BetterFurnacesReforged-1.21.1-1.1.2518.1-neoforge"
+filename = "BetterFurnacesReforged-1.21.1-1.1.2518.1-neoforge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/YUwxtJ8j/BetterFurnacesReforged-1.21.1-1.1.2518.1-neoforge.jar"
+hash-format = "sha512"
+hash = "d99c34512af464d729b8e59eeba5d1421742d8d7924226936b83489f7bce71db9c0f1dfface2b977a180bcca244db81170cc053998e72f1a4e9d3ba81695e4d6"
+
+[update]
+  [update.modrinth]
+  mod-id = "ZXOYCX2A"
+  version = "YUwxtJ8j"

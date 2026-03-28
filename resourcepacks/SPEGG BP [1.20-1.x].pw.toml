@@ -1,0 +1,12 @@
+name = "SPEGG BP [1.20-1.x]"
+filename = "SPEGG BP [1.20-1.x].zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/HTcZCflj/versions/TUZMe9HH/SPEGG%20BP%20%5B1.20-1.x%5D.zip"
+hash-format = "sha512"
+hash = "68a3a90167c0ce5942b8a6b9e91e12b1355e5202e1fb8e13b036938c02a69b8bb8cf348e6ca98fd15d0521b251372e88affa12f7c71ffaa730e46149d518926c"
+
+[update]
+  [update.modrinth]
+  mod-id = "HTcZCflj"
+  version = "TUZMe9HH"

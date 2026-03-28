@@ -1,0 +1,12 @@
+name = "Umbrella Villagers"
+filename = "Umbrella Villagers.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUfkXkv1/versions/kQoleepZ/Umbrella%20Villagers.zip"
+hash-format = "sha512"
+hash = "e142411c73c92235a3b7ecc5f97702928b2abc203e5bd01235497672464f754bb653cc9765a7496a5f85a28a36db75cad8a758439b09ea5e886086c4ab3032e2"
+
+[update]
+  [update.modrinth]
+  mod-id = "zUfkXkv1"
+  version = "kQoleepZ"

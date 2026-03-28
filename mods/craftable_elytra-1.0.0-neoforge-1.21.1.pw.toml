@@ -1,0 +1,12 @@
+name = "craftable_elytra-1.0.0-neoforge-1.21.1"
+filename = "craftable_elytra-1.0.0-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLuJ76QM/versions/hXuOHVAN/craftable_elytra-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f8511c09023164e805393059110866eebdcb34386e432c2cea83dc37615a9a3bc8692e759de46f97408a6f25d7e422eab0ef1804049eac77fc61c10c2628a5cb"
+
+[update]
+  [update.modrinth]
+  mod-id = "PLuJ76QM"
+  version = "hXuOHVAN"

@@ -1,0 +1,12 @@
+name = "equiplib-neoforge-1.0.0+mc1.21.1"
+filename = "equiplib-neoforge-1.0.0+mc1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/bnABingO/versions/nwmKky8V/equiplib-neoforge-1.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "9189bbd868e2025b579e8fc0d885eaa1674b426976088742aaef56687dc721efad2294371520cc8bd62a352a25ea7b4b2209dc076ca121525faee3e30f8e2b9a"
+
+[update]
+  [update.modrinth]
+  mod-id = "bnABingO"
+  version = "nwmKky8V"

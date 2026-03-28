@@ -1,0 +1,12 @@
+name = "Lively Turtle Helmet x Joyful Motions"
+filename = "Lively Turtle Helmet x Joyful Motions.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/TGMhAZ8V/versions/SrOVE4De/Lively%20Turtle%20Helmet%20x%20Joyful%20Motions.zip"
+hash-format = "sha512"
+hash = "bdbf921869f598a7e71b385de1cda4f3246795fe51d6bbb34327fd6140a565074a02c944e95d2d759b2f025c1b9105ad7a393a9d73967e6c7f25d00d1ca073ee"
+
+[update]
+  [update.modrinth]
+  mod-id = "TGMhAZ8V"
+  version = "SrOVE4De"

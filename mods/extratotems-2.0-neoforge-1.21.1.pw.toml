@@ -1,0 +1,12 @@
+name = "extratotems-2.0-neoforge-1.21.1"
+filename = "extratotems-2.0-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOJsIbN3/versions/w1otP65I/extratotems-2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "da6ca8fa5db75f14b6ddbe6e8ff84e46175f8b761b1e4746ddad24d743fe26438700bc194b73260507b52355c94f674d54d6072153200f5914896c6f7eb6e4bf"
+
+[update]
+  [update.modrinth]
+  mod-id = "DOJsIbN3"
+  version = "w1otP65I"

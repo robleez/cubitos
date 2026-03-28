@@ -1,0 +1,12 @@
+name = "CraftTweaker-neoforge-1.21.1-21.0.35"
+filename = "CraftTweaker-neoforge-1.21.1-21.0.35.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/QaCXJ4O7/CraftTweaker-neoforge-1.21.1-21.0.35.jar"
+hash-format = "sha512"
+hash = "dd32d0ef99b6a94cf2efc1762b183aa87b3c6ee364464c096e144cf45c0b598387336b37c873ea32f6caa6457bc622d2ca4c09c4a0eaae0c48587aa5bd678e50"
+
+[update]
+  [update.modrinth]
+  mod-id = "Xg35A4rS"
+  version = "QaCXJ4O7"

@@ -1,0 +1,12 @@
+name = "phantom_footsteps-1.0.0-neoforge-1.21.1"
+filename = "phantom_footsteps-1.0.0-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xo9qXjCg/versions/RUtUEMIf/phantom_footsteps-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1c958d5079daab5e9e0f61874412b638b8a333c53cf73de683b7972f84939f4904606fbe1166fa24ed40185160e7ceb1aee031a529ce158c1367a5a5783d24fe"
+
+[update]
+  [update.modrinth]
+  mod-id = "Xo9qXjCg"
+  version = "RUtUEMIf"

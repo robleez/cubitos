@@ -16,8 +16,8 @@
 		#Maximum amount of status effects rendered in a single row.
 		#Default Value: 5
 		# Default: 5
-		# Range: > 1
-		max_columns = 1
+		# Range: 1 ~ 255
+		max_columns = 5
 		#Space between individual effect widgets on y-axis.
 		#Default Value: 1
 		# Default: 1
@@ -36,7 +36,7 @@
 		#Custom scale for effect renderer.
 		#Default Value: 4.0
 		# Default: 4.0
-		# Range: 1.0 ~ 16.0
+		# Range: 1.0 ~ 12.0
 		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		#Default Value: false
@@ -47,7 +47,7 @@
 		#Maximum amount of status effects rendered in a single column.
 		#Default Value: 255
 		# Default: 255
-		# Range: > 1
+		# Range: 1 ~ 255
 		max_rows = 255
 		#Print menu type to game chat whenever a new menu screen is opened. Only intended to find menu types to be added to "menu_blacklist".
 		#Default Value: false
@@ -61,12 +61,12 @@
 		#Screen side to render status effects on.
 		#Default Value: LEFT
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "RIGHT"
+		screen_side = "LEFT"
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: gui_compact_widget
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_SMALL"
+		renderer_type = "GUI_COMPACT"
 
 	[renderers.gui_renderer]
 		#Prevent status effects with infinite duration from showing.
@@ -75,7 +75,7 @@
 		#Maximum amount of status effects rendered in a single row.
 		#Default Value: 5
 		# Default: 5
-		# Range: > 1
+		# Range: 1 ~ 255
 		max_columns = 5
 		#Space between individual effect widgets on y-axis.
 		#Default Value: 1
@@ -95,7 +95,7 @@
 		#Custom scale for effect renderer.
 		#Default Value: 4.0
 		# Default: 4.0
-		# Range: 1.0 ~ 16.0
+		# Range: 1.0 ~ 12.0
 		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		#Default Value: true
@@ -103,7 +103,7 @@
 		#Maximum amount of status effects rendered in a single column.
 		#Default Value: 255
 		# Default: 255
-		# Range: > 1
+		# Range: 1 ~ 255
 		max_rows = 255
 		#Allow effect renderer to fall back to a more compact version (when available) if not enough screen space exists. Otherwise effect widgets might run off-screen.
 		#Default Value: false
@@ -111,7 +111,7 @@
 		#Screen side to render status effects on.
 		#Default Value: RIGHT
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "LEFT"
+		screen_side = "RIGHT"
 		#Offset on x-axis.
 		#Default Value: 3
 		# Default: 3
@@ -138,16 +138,16 @@
 		blinking_alpha = true
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
-		quality_border = true
+		quality_border = false
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		#Default Value: false
 		hide_infinite_duration = false
 		#Show duration for ambient effects.
 		#Default Value: false
-		ambient_duration = true
+		ambient_duration = false
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		#Default Value: false
-		compact_duration = true
+		compact_duration = false
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
@@ -158,7 +158,7 @@
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-		duration_color = "WHITE"
+		duration_color = "GRAY"
 
 	[widgets.inventory_full_size]
 		#Should the effect icon start to blink when the effect is running out.
@@ -192,13 +192,13 @@
 		blinking_alpha = true
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
-		quality_border = true
+		quality_border = false
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		#Default Value: false
-		hide_infinite_duration = true
+		hide_infinite_duration = false
 		#Show duration for ambient effects.
 		#Default Value: false
-		ambient_duration = true
+		ambient_duration = false
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
@@ -208,7 +208,7 @@
 		ambient_border = true
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		#Default Value: false
-		separate_effects = true
+		separate_effects = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
@@ -224,16 +224,16 @@
 		blinking_alpha = true
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		#Default Value: false
-		compact_duration = true
+		compact_duration = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
-		quality_border = true
+		quality_border = false
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		#Default Value: false
 		hide_infinite_duration = false
 		#Show duration for ambient effects.
 		#Default Value: false
-		ambient_duration = true
+		ambient_duration = false
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
@@ -247,4 +247,4 @@
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-		duration_color = "WHITE"
+		duration_color = "GRAY"

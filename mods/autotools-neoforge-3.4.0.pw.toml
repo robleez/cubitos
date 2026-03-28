@@ -1,0 +1,12 @@
+name = "autotools-neoforge-3.4.0"
+filename = "autotools-neoforge-3.4.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgVJyCgK/versions/prZf3tJn/autotools-neoforge-3.4.0.jar"
+hash-format = "sha512"
+hash = "4db9b54aa1d9e868fd99f2845ee9d568e723c65ce918451adea397bcfeb12ab7f3108f310f017dbd8e4e7b23e6877cf93eea69d5729d1fd270b41fcac1db712b"
+
+[update]
+  [update.modrinth]
+  mod-id = "zgVJyCgK"
+  version = "prZf3tJn"

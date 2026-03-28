@@ -1,0 +1,12 @@
+name = "ruok-neoforge_1.21.1_Pre-Release_5-1.7.4"
+filename = "ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/aTsegPV0/versions/YXNuzdhD/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar"
+hash-format = "sha512"
+hash = "303d212150f67fa66ae116a75b55a60be6db2de064989146ca228d590834ba708d19714c50a2c5c89b101bb3f73dd9baa857db72885eb0d1513b11d0d86ac766"
+
+[update]
+  [update.modrinth]
+  mod-id = "aTsegPV0"
+  version = "YXNuzdhD"

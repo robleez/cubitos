@@ -1,4 +1,4 @@
-name = "CUBITOS"
+name = "Keo Optimized"
 author = "Jofree"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f5c945dd39f8fd245d85bc7b7703072802813f02544a31be826f070934ca314d"
+hash = "d63978fe4e9d5ec6c853d3b94a16cef89f50611b05ab02470dff4373aad7d698"
 
 [versions]
-fabric = "0.18.3"
-minecraft = "1.21.8"
+minecraft = "1.21.1"
+neoforge = "21.1.219"

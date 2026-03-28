@@ -1,0 +1,12 @@
+name = "AdvancedLootInfo-neoforge-1.21.1-1.6.2"
+filename = "AdvancedLootInfo-neoforge-1.21.1-1.6.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/PEPVViac/versions/E1smKNm1/AdvancedLootInfo-neoforge-1.21.1-1.6.2.jar"
+hash-format = "sha512"
+hash = "48f164c24abce3b98392d6148f69c843b53f39ba472d6dac72898dc7c3607da771aa861911378fed7bbe20e33e58a2bdb4f7308eb304110193ddc3c560f02d7d"
+
+[update]
+  [update.modrinth]
+  mod-id = "PEPVViac"
+  version = "E1smKNm1"

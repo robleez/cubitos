@@ -1,0 +1,12 @@
+name = "enchantment_level_patch_neoforge-1.0.0-neoforge-1.21.1"
+filename = "enchantment_level_patch_neoforge-1.0.0-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ihk2ua33/versions/urtRh5sh/enchantment_level_patch_neoforge-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2368e0b9f08afb75f49b8a20cdd3e2a5a03308615d2d85323a02c4c8a747f0f3b6830bd2e4e1e089a434e8ded00f61156f3be6f1f71be5bcb09009768a98222d"
+
+[update]
+  [update.modrinth]
+  mod-id = "Ihk2ua33"
+  version = "urtRh5sh"

@@ -1,0 +1,12 @@
+name = "bossesrise-1.21.1-neoforge-1.0.9"
+filename = "bossesrise-1.21.1-neoforge-1.0.9.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/q2bV1Tm1/versions/ibfdrOaT/bossesrise-1.21.1-neoforge-1.0.9.jar"
+hash-format = "sha512"
+hash = "ddf89c61bd5b5dd697faad1bacf1ac751429498ad2db8c268492ffe82013f792833afc040bb45b4b5dda6b27e343065deafb44664dfd894b7b331275e7d10e87"
+
+[update]
+  [update.modrinth]
+  mod-id = "q2bV1Tm1"
+  version = "ibfdrOaT"

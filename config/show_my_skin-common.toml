@@ -1,0 +1,68 @@
+#Whether to reset armor on damage
+resetArmorOnDamage = true
+
+["Armor Settings"]
+	#Show helmet?
+	helmetVisible = true
+	#Show chestplate?
+	chestplateVisible = true
+	#Show leggings?
+	leggingsVisible = true
+	#Show boots?
+	bootsVisible = true
+
+[Transparency]
+	#Helmet Opacity (0-100)
+	# Default: 100
+	# Range: 0 ~ 100
+	helmetOpacity = 100
+	#Chestplate Opacity (0-100)
+	# Default: 100
+	# Range: 0 ~ 100
+	chestplateOpacity = 100
+	#Leggings Opacity (0-100)
+	# Default: 100
+	# Range: 0 ~ 100
+	leggingsOpacity = 100
+	#Boots Opacity (0-100)
+	# Default: 100
+	# Range: 0 ~ 100
+	bootsOpacity = 100
+
+["Enchantment Glow"]
+	#Show helmet enchantment?
+	helmetEnchantGlow = true
+	#Show chestplate enchantment?
+	chestplateEnchantGlow = true
+	#Show leggings enchantment?
+	leggingsEnchantGlow = true
+	#Show boots enchantment?
+	bootsEnchantGlow = true
+
+	["Armor Model Parts Visibility"."Helmet Parts"]
+		#Whether the helmet head part is visible
+		helmetHeadVisible = true
+		#Whether the helmet hat part is visible
+		helmetHatVisible = true
+
+	["Armor Model Parts Visibility"."Chestplate Parts"]
+		#Whether the chestplate body part is visible
+		chestplateBodyVisible = true
+		#Whether the chestplate right arm is visible
+		chestplateRightArmVisible = true
+		#Whether the chestplate left arm is visible
+		chestplateLeftArmVisible = true
+
+	["Armor Model Parts Visibility"."Leggings Parts"]
+		#Whether the leggings body part is visible
+		leggingsBodyVisible = true
+		#Whether the leggings right leg is visible
+		leggingsRightLegVisible = true
+		#Whether the leggings left leg is visible
+		leggingsLeftLegVisible = true
+
+	["Armor Model Parts Visibility"."Boots Parts"]
+		#Whether the boots right leg is visible
+		bootsRightLegVisible = true
+		#Whether the boots left leg is visible
+		bootsLeftLegVisible = true

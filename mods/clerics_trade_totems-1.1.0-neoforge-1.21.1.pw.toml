@@ -1,0 +1,12 @@
+name = "clerics_trade_totems-1.1.0-neoforge-1.21.1"
+filename = "clerics_trade_totems-1.1.0-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q1VNmD3D/versions/hmCvdFCh/clerics_trade_totems-1.1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "114f411400c16b690c12268ef3a3e6797ecdbc762d2d1053a772b1edaa67f0a4337fd1d5678e20f136fff7258d477d8156e9230a907db33c30bbf0d683383918"
+
+[update]
+  [update.modrinth]
+  mod-id = "Q1VNmD3D"
+  version = "hmCvdFCh"

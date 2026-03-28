@@ -1,0 +1,12 @@
+name = "Assorted Foxes - V.1.1.zip"
+filename = "Assorted Foxes - V.1.1.zip.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfhyFNiu/versions/XYxA8Sqd/Assorted%20Foxes%20-%20V.1.1.zip.zip"
+hash-format = "sha512"
+hash = "6d3eb8d7f88e165a44f8a402bad370d7af7bfa7c5bda554581e811a1c87ee1e29db6df1fa5ac5fcf47e7f7b9f36d76a29e6e49cfe75cfc7d453c91998c833f42"
+
+[update]
+  [update.modrinth]
+  mod-id = "DfhyFNiu"
+  version = "XYxA8Sqd"

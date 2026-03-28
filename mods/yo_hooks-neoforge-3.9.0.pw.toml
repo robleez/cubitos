@@ -1,0 +1,12 @@
+name = "yo_hooks-neoforge-3.9.0"
+filename = "yo_hooks-neoforge-3.9.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/t1p8V2nl/versions/jnxilwQb/yo_hooks-neoforge-3.9.0.jar"
+hash-format = "sha512"
+hash = "cb90f563cff38603e0dc8acdaecc7c185c7fd2ac6f49cea5205a59bb69bb7a7337ff72a431b80b5cb708544d9e8c8ab636ca7a6b86520bbab9564d712713be29"
+
+[update]
+  [update.modrinth]
+  mod-id = "t1p8V2nl"
+  version = "jnxilwQb"
