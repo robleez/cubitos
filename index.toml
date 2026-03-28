@@ -2454,10 +2454,6 @@ hash = "e9cdb0874f145f5b27ccc7482b799e03b4e51422974819e683059683b926d8b4"
 metafile = true
 
 [[files]]
-file = "mods/FastSuite-1.21.1-6.0.6.jar"
-hash = "64ed83157ceef428bcf62e81ced55cb203a7d820e33dbfa74a1534d419d643d4"
-
-[[files]]
 file = "mods/FastSuite-1.21.1-6.0.7.jar"
 hash = "3e274cd01bdc27dff8e2514213f1c45306c86fe38e4271a4209bc1471de6c70d"
 
@@ -3346,11 +3342,6 @@ metafile = true
 [[files]]
 file = "mods/limitedchunks-1.21-4.1.jar"
 hash = "a87536775ca7cc35a4ff717539b48e4a13182879c18d5d0394f5e9d8929be2ad"
-
-[[files]]
-file = "mods/lithium-neoforge-0.15.1+mc1.21.1.pw.toml"
-hash = "7052d69fc25673161d1d2117b98e68dac50dd4e80e0bb4bceb1ff78345842a2d"
-metafile = true
 
 [[files]]
 file = "mods/lithium-neoforge-0.15.3+mc1.21.1.pw.toml"
