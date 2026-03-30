@@ -22,7 +22,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8bb5b6504bab72c0c86da82009ab4f2df05baf8e3c8249ab538c5ee46208cbae"
+hash = "b061ed219c686dc63fcc1788b2a8e188cac1cabd58ad85c781c172225953d876"
 
 [[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
@@ -91,10 +91,6 @@ hash = "86499d5affe90f36aac3df626303ac797e44fd1f08719d3041f5be4174e458c7"
 [[files]]
 file = "config/EndRemastered-NeoForge/endrem.json"
 hash = "5a8e5f5fa575402b8c9d415833a7acc1858e124729ae81fdfa305a602cb4c180"
-
-[[files]]
-file = "config/InventoryHUD/curios.json"
-hash = "e330d3673052a3e3ab452888d7f0c609f27b2cef7f84c9b850e5a832d6df4a81"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -906,7 +902,7 @@ hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 
 [[files]]
 file = "config/chestsearchbar.json"
-hash = "684aa2b7c9d034398a84d60aa6572caa2ae916b7de73d5f50c05ba367ad56d3a"
+hash = "2d0a9078f6d60fe272aafb8ffdd79ba5c3bc2b1647653fc17aafedef444296e9"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -1390,7 +1386,7 @@ hash = "408887a033de4900eec664772d3c062723f6f05390e8aa1e9d20d6da023e5059"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
-hash = "e23f4106899ebf41b497e0ece9af8bd5418c0d97b9ce11178a1f2ffe838487cd"
+hash = "ad9e3afc6b71d02f17b3c1b995e5165220e0ccb829c41035102df02c722258b1"
 
 [[files]]
 file = "config/inventorymending.json5"
@@ -1687,6 +1683,18 @@ hash = "5d8c0a477a68a2f68ae3e55491c9981e79089836b9fbb1a64de14de7fb5b29f3"
 [[files]]
 file = "config/obscuria/obscure_tooltips-client.toml"
 hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Pack [All]__20becb39.profile.json"
+hash = "07d5c43fec80bf9805a56c0215fa7709a952709d5a1821cd5d71f67fa4d0be7c"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Pack [Necessary]__0e1265a4.profile.json"
+hash = "b33db3d852b87b9b05508af9791dd117bf5537389c9977d0c46b58db1ee4dec4"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Pack [Nothing]__f8f5d5b8.profile.json"
+hash = "c8a5fb43f781ebd616d717d0a4ce45271f3f5dfdc19f2b922e3072305e1e2d5a"
 
 [[files]]
 file = "config/particle_effects.json5"

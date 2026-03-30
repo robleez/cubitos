@@ -9,7 +9,7 @@
 	# Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
-	byDefault = true
+	byDefault = false
 	#Animate recently picked up items
 	animatedInv = false
 	#Hide background if inventory is empty
@@ -32,16 +32,16 @@
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
-	showArrows = true
+	showArrows = false
 	#Show/Hide armor
-	showInv = true
+	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "PERCENTAGE"
+	armView = "DAMAGE_LEFT"
 	#Show item durability bar
 	armBars = false
 	#Move all items at once or each one
-	moveAll = true
+	moveAll = false
 	#Show/Hide empty slot icon
 	showEmpty = true
 	#Show overall count of items in main/off hand
@@ -135,7 +135,7 @@
 	#Helmet position (Y)
 	# Default: 54
 	# Range: -9999 ~ 9999
-	helmPosY = 54
+	helmPosY = 44
 	#Chestplate position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
@@ -143,7 +143,7 @@
 	#Chestplate position (Y)
 	# Default: 37
 	# Range: -9999 ~ 9999
-	chestPosY = 37
+	chestPosY = 27
 	#Leggings position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
@@ -151,7 +151,7 @@
 	#Leggings position (Y)
 	# Default: 54
 	# Range: -9999 ~ 9999
-	legPosY = 54
+	legPosY = 46
 	#Boots position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
@@ -159,7 +159,7 @@
 	#Boots position (Y)
 	# Default: 37
 	# Range: -9999 ~ 9999
-	bootPosY = 37
+	bootPosY = 29
 	#MainHand position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
@@ -167,7 +167,7 @@
 	#MainHand position (Y)
 	# Default: 71
 	# Range: -9999 ~ 9999
-	mainPosY = 71
+	mainPosY = 61
 	#OffHand position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
@@ -175,23 +175,23 @@
 	#OffHand position (Y)
 	# Default: 71
 	# Range: -9999 ~ 9999
-	offPosY = 71
+	offPosY = 63
 	#Arrows position (X)
 	# Default: 103
 	# Range: -9999 ~ 9999
-	arrPosX = 103
+	arrPosX = 263
 	#Arrows position (Y)
 	# Default: 20
 	# Range: -9999 ~ 9999
-	arrPosY = 20
+	arrPosY = 27
 	#InvIcon position (X)
 	# Default: -103
 	# Range: -9999 ~ 9999
-	invPosX = -103
+	invPosX = 264
 	#InvIcon position (Y)
 	# Default: 20
 	# Range: -9999 ~ 9999
-	invPosY = 20
+	invPosY = 29
 	#Helmet horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
 	helmHal = "MIDDLE"
@@ -230,13 +230,13 @@
 	offVal = "BOTTOM"
 	#Arrows horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	arrHal = "MIDDLE"
+	arrHal = "LEFT"
 	#Arrows vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	arrVal = "BOTTOM"
 	#InvIcon horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	invHal = "MIDDLE"
+	invHal = "RIGHT"
 	#InvIcon vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	invVal = "BOTTOM"

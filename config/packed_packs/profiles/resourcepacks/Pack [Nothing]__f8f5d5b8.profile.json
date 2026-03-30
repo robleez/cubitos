@@ -1,0 +1,14 @@
+{
+  "locked": false,
+  "name": "Pack [Nothing]",
+  "overrides": {},
+  "packIds": [
+    "file/[1.5] Enhanced Boss Bars.zip",
+    "file/Sparkles_1.21.x_v1.1.6.zip",
+    "moonlight:merged_pack",
+    "file/Icons v.1.13.1.zip",
+    "mod_resources",
+    "fabric",
+    "vanilla"
+  ]
+}
