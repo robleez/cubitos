@@ -1689,22 +1689,6 @@ file = "config/obscuria/obscure_tooltips-client.toml"
 hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
 
 [[files]]
-file = "config/packed_packs/config.json"
-hash = "226ab275301e715481f62e90bcb288055298fd6df68ba6b6d0f1288d2d785f67"
-
-[[files]]
-file = "config/packed_packs/config.meta.json"
-hash = "bf69102f3f5c232ae8fc3bcbfc7211e2c7fea3608e34d4f589bf50f85f1bb868"
-
-[[files]]
-file = "config/packed_packs/preferences.properties"
-hash = "26ba7f1a0eea09939a0e2b4a8d8cd1ad1c12e1d1370cba4b57f23c27890394b3"
-
-[[files]]
-file = "config/packed_packs/profiles/resourcepacks/No Profile - Copy__1bec31fe.profile.json"
-hash = "2b001211c9a8eb595751a1972b4a43e6f49298f5ef229954fef8ec4b25d004c3"
-
-[[files]]
 file = "config/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
