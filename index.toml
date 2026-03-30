@@ -3149,11 +3149,6 @@ hash = "759f1c69dbc2abb1ab0292862e2976b0c9b77bcba2120e909fadc8b541357905"
 metafile = true
 
 [[files]]
-file = "mods/fragmentum-neoforge-1.21.1-2.1.1.pw.toml"
-hash = "d01af9a687b004bdc819cb2f6132eb5f9f89bbb116c4286ac5c391e55f8c6f2a"
-metafile = true
-
-[[files]]
 file = "mods/framework-neoforge-1.21.1-0.13.9.jar"
 hash = "343a040a90eaf2a1153e6be235f520ee73ae021d65fdc4c9a9fe28263bce9756"
 
@@ -3386,11 +3381,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.11.2-mc1.21.1.pw.toml"
 hash = "21611f67339cdd8cfe56f2512e2a004398faa0fc9751c3400ffcba68f7fa78e2"
-metafile = true
-
-[[files]]
-file = "mods/obscure_tooltips-neoforge-1.21.1-4.2.2.pw.toml"
-hash = "88a07e66faff6828a4e8416f4f8485e6ed3d3c55ab035a168e8c2e7ae08aa899"
 metafile = true
 
 [[files]]
