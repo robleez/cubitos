@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TrashSlotSaveState.json"
-hash = "e43a7c771289225a90dc420daebac34f2203225d045018d2f5328411b76401bd"
+hash = "46a9881550b4ce5e2214e42b9a9e9d44c2485d605a99c6a071bbf4922e9108c6"
 
 [[files]]
 file = "config/AMWPlushies-AltList-Server.toml"
@@ -94,7 +94,7 @@ hash = "5a8e5f5fa575402b8c9d415833a7acc1858e124729ae81fdfa305a602cb4c180"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e25e78b31bfafb69db7c03e727e59aa3a61a38b8857b906fdb8feae74055e136"
+hash = "e330d3673052a3e3ab452888d7f0c609f27b2cef7f84c9b850e5a832d6df4a81"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1397,6 +1397,14 @@ file = "config/inventorymending.json5"
 hash = "23fd735bd40402fd8f5f97a3d28c776996399cfabd8f62b317fb0dc5adba6f36"
 
 [[files]]
+file = "config/inventoryprofilesnext/208.92.233.233&25565/refillDisabledSlots.txt"
+hash = "cb36cd187332b9497b14991526f115cfc6732792afbc565a5b65795892073ea3"
+
+[[files]]
+file = "config/inventoryprofilesnext/208.92.233.233&25565/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/New World/prev-villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
@@ -1409,12 +1417,24 @@ file = "config/inventoryprofilesnext/New World/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
+file = "config/inventoryprofilesnext/cubitos.minecraft.best/refillDisabledSlots.txt"
+hash = "cb36cd187332b9497b14991526f115cfc6732792afbc565a5b65795892073ea3"
+
+[[files]]
+file = "config/inventoryprofilesnext/cubitos.minecraft.best/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+hash = "fda1efe5ec7cb9771cbf3e27180b0da3d80e7f60b9cc867ba35a2f934e47414c"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -1886,7 +1906,7 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "3d74a10c1cc93109dedd1bf71bc7a9fd3562b04a1ae93d6f58c5160695729061"
+hash = "91f48b5c20888ed0b618301fd72530e4db3f46c07543653390032abaeb627568"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -3706,7 +3726,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1e9bf0e7dd6840b89c9d3106e16fce61a593b14ad68cb73eb4f6f704e90dea6b"
+hash = "0f8b9b0fe59a9cfeafda7450c3aee8e4b4401f0479a24f81e187c5f7cfe97638"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
@@ -3847,6 +3867,14 @@ metafile = true
 file = "resourcepacks/waystones_1.21.1.pw.toml"
 hash = "82d0a91bb57b5d34bda2197e2985f924c117b8032542dfc1ab38f2416467a6b7"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "e53a5629391b21cee687592a673d43366613ea501cfef1c04b2f3f932fd611fe"
+
+[[files]]
+file = "servers.dat_old"
+hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).pw.toml"

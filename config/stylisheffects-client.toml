@@ -4,7 +4,7 @@
 		hide_infinite_effects = false
 		#Show a tooltip when hovering over an effect widget.
 		#Default Value: true
-		hovering_tooltip = true
+		hovering_tooltip = false
 		#Minimum screen border distance for effect widgets.
 		#Default Value: 3
 		# Default: 3
@@ -61,12 +61,12 @@
 		#Screen side to render status effects on.
 		#Default Value: LEFT
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "LEFT"
+		screen_side = "RIGHT"
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: gui_compact_widget
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "INVENTORY_FULL_SIZE"
 
 	[renderers.gui_renderer]
 		#Prevent status effects with infinite duration from showing.
@@ -121,7 +121,7 @@
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: gui_compact_widget
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "INVENTORY_FULL_SIZE"
 		#Offset on y-axis.
 		#Default Value: 3
 		# Default: 3
