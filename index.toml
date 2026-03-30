@@ -3188,11 +3188,6 @@ hash = "d1f15928e62f706292eb7d43e6c36bd6ab2aa65035a76c96a92ac95400b1ac49"
 metafile = true
 
 [[files]]
-file = "mods/glowingeyes-neoforge-1.21.1-2.1.3.pw.toml"
-hash = "0f97b69ea614f6b64f523a0f4319f08b9782d9023613fe126aea5ce7bf3725f5"
-metafile = true
-
-[[files]]
 file = "mods/gnetum-3.3.1.pw.toml"
 hash = "8cce9419e30020864a753412b448f38edaef9058c2e49fff9d4d90794fccb26b"
 metafile = true
