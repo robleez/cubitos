@@ -235,9 +235,9 @@ key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.jei.bookmark:key.keyboard.unknown
-key_key.jei.showRecipe:key.keyboard.unknown
+key_key.jei.showRecipe:key.keyboard.r
 key_key.jei.showRecipe2:key.keyboard.unknown
-key_key.jei.showUses:key.keyboard.unknown
+key_key.jei.showUses:key.keyboard.u
 key_key.jei.showUses2:key.keyboard.unknown
 key_key.jei.transferRecipeBookmark:key.keyboard.unknown
 key_key.jei.maxTransferRecipeBookmark:key.keyboard.unknown
