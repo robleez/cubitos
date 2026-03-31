@@ -2485,11 +2485,6 @@ hash = "617359d29f8b642d76962e6dff2d4a000c3cc3fc64e7108a2e30ffe1c466a11f"
 metafile = true
 
 [[files]]
-file = "mods/Incendium_1.21.x_v5.4.4.pw.toml"
-hash = "d746e8483f480d5858617a501c74258abe12cad90bf40d75ee3d0dfe88d480b6"
-metafile = true
-
-[[files]]
 file = "mods/InventoryInteractions-1.0.0+1.21.1+neoforge.pw.toml"
 hash = "4b093685c491d08969a26e05ab8f04168691b0ad22cd35363245bafb1aa9da83"
 metafile = true
