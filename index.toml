@@ -2122,7 +2122,7 @@ hash = "68e4026081626e8f3e8f233a02ca7a88df5f72a314eb13bd82048435355e0e8a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "54ddc7391797eaccfb9e38f751bd23da7450013c148e2fe6723f507616c4693b"
+hash = "b24f6482430c76c01fe9cf66d7d6dbd2a0f2ee44208b321d7e84d71d94b39509"
 
 [[files]]
 file = "mods/.connector/AFKcamera-1.4.2+1.21.1_mapped_moj_1.21.1.jar"
@@ -2833,11 +2833,6 @@ hash = "b67367fecb2fbbaab58faeb9408e73f15b2681e9dfc203a38cd2f419678dd255"
 metafile = true
 
 [[files]]
-file = "mods/carryon-neoforge-1.21.1-2.2.4.4.pw.toml"
-hash = "18bce90a93bb6842e60679b4491523b83feb98dc4b78ca7c78ea5225a4fa8616"
-metafile = true
-
-[[files]]
 file = "mods/charmofundying-neoforge-9.1.0+1.21.1.pw.toml"
 hash = "9ea0b849ad2671d80ce521117604a01152a8cff544944456aade045a252353f1"
 metafile = true
@@ -3487,6 +3482,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-v3.3.2.pw.toml"
 hash = "e772a47f07c000598072cdbb4407d2093ac666cd0e5eecc9f2b5e3f76b797acc"
+metafile = true
+
+[[files]]
+file = "mods/smallships-neoforge-1.21.1-2.0.0-b2.1.pw.toml"
+hash = "43d21de3a614cea1fed502ef7002f7c5c49cb45e436ad5589edd0dc92333c368"
 metafile = true
 
 [[files]]
