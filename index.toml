@@ -3872,3 +3872,7 @@ metafile = true
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.pw.toml"
 hash = "d9f212854770a2ab25e91667c4b956e387c2f10b71819044e2a86157d1447b13"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
+hash = "1fe9803cafa0cb718cc3d221fb55943dfad23835f9ead91fd1ca37016c1ce812"
