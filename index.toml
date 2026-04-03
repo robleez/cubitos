@@ -2446,11 +2446,6 @@ hash = "f895aaa0630451ef44df794be67571bad0093d251f9547056b5e4b97b3a34a78"
 metafile = true
 
 [[files]]
-file = "mods/EnchantingInfuser-v21.1.4-1.21.1-NeoForge.pw.toml"
-hash = "a1e16a4fc90275225153ca4c969d0ce5e91331e247f5e796f974c90cf22df9bc"
-metafile = true
-
-[[files]]
 file = "mods/Essential_1-3-10-4_neoforge_1-21-1.pw.toml"
 hash = "10d1593b63cf0e901e884b70383d2ddb15bc18e3e5f7bfff1794f49726ed263d"
 metafile = true
