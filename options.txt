@@ -323,7 +323,7 @@ key_key.jade.show_details:key.keyboard.unknown
 key_key.beltborne_lanterns.open_config:key.keyboard.unknown
 key_key.beltborne_lanterns.toggle_debug:key.keyboard.unknown
 key_key.beltborne_lanterns.open_debug:key.keyboard.unknown
-key_key.beltborne_lanterns.toggle_lantern:key.keyboard.unknown
+key_key.beltborne_lanterns.toggle_lantern:key.keyboard.i
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.inventoryhud.togglepot:key.keyboard.unknown
