@@ -1,0 +1,12 @@
+name = "From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack"
+filename = "From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/p1WH6sHr/versions/Txn0qBqn/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip"
+hash-format = "sha512"
+hash = "575ddfae381200008bea5358321172aa066c18c4eb2b736940ef749948562a66e9b5910a5de55d3ad9e71370a57974f02a3e69b18790208fa05fa1c8ad240f96"
+
+[update]
+  [update.modrinth]
+  mod-id = "p1WH6sHr"
+  version = "Txn0qBqn"

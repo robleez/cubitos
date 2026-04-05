@@ -1686,7 +1686,7 @@ hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [All]__20becb39.profile.json"
-hash = "c1750a4199c6b8a90a16b4cedc3935bc9314513c279c488b8908ad9f74510d11"
+hash = "5ffbf5e199951d271d03fb61f90db3c7d55d14666300187c1088e6218ff61a1f"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [Necessary]__0e1265a4.profile.json"
@@ -3713,7 +3713,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9d8777ed47a159f253117d410d9937c4fa5042688ba2048c51ece59492b7e5eb"
+hash = "51e3842fd08518d38205aa09e89228dadf5ceee05c960783e6a8069bf4a6f21f"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
@@ -3798,6 +3798,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.3.pw.toml"
 hash = "e8c422a514c77be23765424375e64a42bd3a7c95dca2e3634baae7947ed89674"
+metafile = true
+
+[[files]]
+file = "resourcepacks/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.pw.toml"
+hash = "8c579e0ad281b8c5f518ccfff8558f4dd5457cd089abfc239a4f84195de79ce9"
 metafile = true
 
 [[files]]
