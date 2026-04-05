@@ -1413,8 +1413,12 @@ file = "config/inventoryprofilesnext/New World/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
+file = "config/inventoryprofilesnext/cubitos.minecraft.best/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/cubitos.minecraft.best/refillDisabledSlots.txt"
-hash = "cb36cd187332b9497b14991526f115cfc6732792afbc565a5b65795892073ea3"
+hash = "0de0df67dbd30056e9e55bbffd8774b73aeba6af87d6b8beeea9d87fbf54dc8a"
 
 [[files]]
 file = "config/inventoryprofilesnext/cubitos.minecraft.best/villager-trading-config-v2.json"
@@ -1426,7 +1430,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "fda1efe5ec7cb9771cbf3e27180b0da3d80e7f60b9cc867ba35a2f934e47414c"
+hash = "2026c88daaca8022024430c7cfd9da53a10e100f0864af096e7698ba785f9d61"
 
 [[files]]
 file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
@@ -2122,7 +2126,7 @@ hash = "68e4026081626e8f3e8f233a02ca7a88df5f72a314eb13bd82048435355e0e8a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "b24f6482430c76c01fe9cf66d7d6dbd2a0f2ee44208b321d7e84d71d94b39509"
+hash = "b6ecccffb94763592867adb7b0a8b451681d69e4d66c20ec6915baaa8dcfb4ee"
 
 [[files]]
 file = "mods/.connector/AFKcamera-1.4.2+1.21.1_mapped_moj_1.21.1.jar"
@@ -3713,7 +3717,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "51e3842fd08518d38205aa09e89228dadf5ceee05c960783e6a8069bf4a6f21f"
+hash = "4df6bf2336c1265a9d5258056a29d1b55b52dc581e6dc83f62cb0c349a90a112"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
