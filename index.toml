@@ -2857,11 +2857,6 @@ hash = "c3721975f816e4c941b750dc6760677dd1f27e2427081204d223bb3ff81a9282"
 metafile = true
 
 [[files]]
-file = "mods/chestsearchbar-neoforge-1.21-1.5.1.pw.toml"
-hash = "fe241984472ec4a38689ab3811d9b5d33bac5ec9d58406209cad732796677f47"
-metafile = true
-
-[[files]]
 file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.5.pw.toml"
 hash = "97f804a0a41f5f7a04c7fc89d1638684b6ba8ec68cb4a5dc093b913ff04e73ed"
 metafile = true
@@ -3717,7 +3712,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9a3288141dc0ec140ce9f7c0bf1d5d23ad31081be7fb2caa5a1f14fb13fa439d"
+hash = "540dc7888ff5562a5f2e2aa6eca4637a118c4060547721471f59a1127bdbc843"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"

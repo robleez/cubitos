@@ -130,7 +130,7 @@ key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
 key_keybind.name.CHAT_PEEK:key.keyboard.unknown
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
 key_keybind.name.MENU_ACCESS:key.keyboard.unknown
-key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
+key_keybind.name.EMOTE_WHEEL:key.keyboard.r
 key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_2:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_3:key.keyboard.unknown
@@ -150,7 +150,7 @@ key_tombstone.message.config:key.keyboard.unknown
 key_tombstone.message.compendium:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.keypad.9
-key_key.block_factorys_bosses.dodge_roll:key.keyboard.unknown
+key_key.block_factorys_bosses.dodge_roll:key.keyboard.left.control
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
@@ -272,7 +272,7 @@ key_key.relics.active_abilities_list:key.keyboard.unknown
 key_key.relics.research_relic:key.keyboard.unknown
 key_key.show_my_skin.open_settings:key.keyboard.unknown
 key_key.cinematiczoom.zoom:key.keyboard.h
-key_key.deeperdarker.boost:key.keyboard.unknown
+key_key.deeperdarker.boost:key.keyboard.left.shift
 key_key.deeperdarker.transmit:key.keyboard.unknown
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_key.yo_hooks.jump:key.keyboard.space
@@ -286,6 +286,7 @@ key_key.dragon_change_view:key.keyboard.unknown
 key_key.yamlconfig.configs:key.keyboard.unknown
 key_key.itemzoomer.toggle_zoom:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
+key_key.smallships.ship_sail:key.keyboard.r
 key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
