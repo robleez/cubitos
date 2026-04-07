@@ -1690,7 +1690,7 @@ hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [All]__20becb39.profile.json"
-hash = "ae2aa345982a724124ad1667880516aefccbb2180308e69524ed684439ce1ff6"
+hash = "79c6460d435096dc6488cb3e1de5b2100248474ba90e27cdf2932d96d263d80d"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [Necessary]__0e1265a4.profile.json"
@@ -3717,7 +3717,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "29d3dce353f2d2af35d6d9eed1dd1d4fcd5faa5d5a6e55f8bae1b2358fba307a"
+hash = "22f88a78d127fe445f8f230bb6e335e13886aa25083866bf6a7df0ee403eb3a8"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
@@ -3728,6 +3728,10 @@ metafile = true
 file = "resourcepacks/AL's Spiders Revamped+FA 1.3.pw.toml"
 hash = "c26409ee48063baf026bc930a41e35c9fa0980a29dc8edf1bde5c4ac237c9b59"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Actually 3D Enchntment Mace.zip"
+hash = "da0205a9a61ac0434b51ce36ef93975728d5e24c2d82d0f9b3c86536798ee685"
 
 [[files]]
 file = "resourcepacks/Assorted Allays x FA - V.10.2.pw.toml"
@@ -3872,11 +3876,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/waystones_1.21.1.pw.toml"
 hash = "82d0a91bb57b5d34bda2197e2985f924c117b8032542dfc1ab38f2416467a6b7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/§f§lActually §6§l3D §dEnchntment Mace§7.pw.toml"
-hash = "a31d9360d8ebe63647dc19acfd70d0c9f6dd6a047c833492af17af72b7f4b69b"
 metafile = true
 
 [[files]]
