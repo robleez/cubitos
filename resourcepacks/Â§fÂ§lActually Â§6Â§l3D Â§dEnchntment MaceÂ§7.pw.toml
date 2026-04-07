@@ -1,0 +1,12 @@
+name = "Â§fÂ§lActually Â§6Â§l3D Â§dEnchntment MaceÂ§7"
+filename = "Â§fÂ§lActually Â§6Â§l3D Â§dEnchntment MaceÂ§7.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/NXy2SDPJ/versions/Tn5OzqZ8/%C2%A7f%C2%A7lActually%20%C2%A76%C2%A7l3D%20%C2%A7dEnchntment%20Mace%C2%A77.zip"
+hash-format = "sha512"
+hash = "a72cd1058100475fd21f63f7387eee95127b691c73832fd7fb752557673d5e881a39c92542bb388a7877833cce247ef9471a270c3b2f6c21ad2d4926a303728b"
+
+[update]
+  [update.modrinth]
+  mod-id = "NXy2SDPJ"
+  version = "Tn5OzqZ8"

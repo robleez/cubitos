@@ -1690,7 +1690,7 @@ hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [All]__20becb39.profile.json"
-hash = "5ffbf5e199951d271d03fb61f90db3c7d55d14666300187c1088e6218ff61a1f"
+hash = "ae2aa345982a724124ad1667880516aefccbb2180308e69524ed684439ce1ff6"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [Necessary]__0e1265a4.profile.json"
@@ -3712,7 +3712,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "11b1fa7c97575ecbdedb2b3e5951a59b6a8b84ebdf929e6191d983e02fd93b5b"
+hash = "29d3dce353f2d2af35d6d9eed1dd1d4fcd5faa5d5a6e55f8bae1b2358fba307a"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
@@ -3745,8 +3745,8 @@ hash = "742747a31383f6e1599c367cfa2305168bed49db118a31b8afc9e6ac325cc5bd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/DetailedAnimationsReworked - V1.15.pw.toml"
-hash = "66e111d53ed67ba13a23d4a61c75cdfae59007432a1da34b7a0c53a5fd7994c5"
+file = "resourcepacks/Drigo 3D Lantern`s x Punchy.pw.toml"
+hash = "d7d78ee45560aa4f973b9a3a008d8dbccc4f6e55849779c85d8e9ff9b7ef6179"
 metafile = true
 
 [[files]]
@@ -3805,6 +3805,11 @@ hash = "8c579e0ad281b8c5f518ccfff8558f4dd5457cd089abfc239a4f84195de79ce9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/HyperPunchy-v2.4+.pw.toml"
+hash = "ac60e84187d259a839402ab5d7f2106e4bd9b0e44f930b9cc7ccfa7fab4636d4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Icons v.1.13.1.pw.toml"
 hash = "d4269aada0d0c5a259051661dbbe9173035b09d40f0b66c389b60aa96c6fef3a"
 metafile = true
@@ -3817,6 +3822,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/LowOnFire 1.21.3.pw.toml"
 hash = "5321f7ac7e13d9d015fa6d4243a7f0cd8bfb630e7630d0ec2ba173ca1b2ba964"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Refined Buckets 2.2.pw.toml"
+hash = "51b80a00a207af9f45b57e400060bdf47c6b6ffa9aca8d3c6200d0d2cf257d5f"
 metafile = true
 
 [[files]]
@@ -3857,6 +3867,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/waystones_1.21.1.pw.toml"
 hash = "82d0a91bb57b5d34bda2197e2985f924c117b8032542dfc1ab38f2416467a6b7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Â§fÂ§lActually Â§6Â§l3D Â§dEnchntment MaceÂ§7.pw.toml"
+hash = "a31d9360d8ebe63647dc19acfd70d0c9f6dd6a047c833492af17af72b7f4b69b"
 metafile = true
 
 [[files]]
