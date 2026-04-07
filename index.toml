@@ -3355,6 +3355,11 @@ hash = "ed0b24ab75146cc5bda3b7051e3b3ada21b23ab9f5aba28ffc3b376903afaa18"
 metafile = true
 
 [[files]]
+file = "mods/modefite_item_definitions-1.0.1+1.21.1.pw.toml"
+hash = "a9103f0118760d3f6bb1d28d6c0ced75a2798e245bd05e148c144ac868916657"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-neoforge-5.26.1+mc1.21.1.pw.toml"
 hash = "f26c105ab079152012b139459859b6a5f7dc17f0c97cb98c80367210c134bce6"
 metafile = true
