@@ -1,0 +1,12 @@
+name = "punchy-2.4.4-HOTFIX-neoforge-1.21.1"
+filename = "punchy-2.4.4-HOTFIX-neoforge-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/51qeJdmW/punchy-2.4.4-HOTFIX-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "fb9089e812450489b4bfb21b29c25c213a49444d426676e503d95ea2ebe9c31418fe0482ca7b18f53da4644eeab5e23ba3a054df84fe7d009d6f46aec46d39eb"
+
+[update]
+  [update.modrinth]
+  mod-id = "8aoMKplv"
+  version = "51qeJdmW"

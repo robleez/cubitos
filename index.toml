@@ -3410,6 +3410,11 @@ hash = "e089342526ac9c36c2ebebf0cb52da93d7c93ecfb4ef0f75425cc4e2a358aded"
 metafile = true
 
 [[files]]
+file = "mods/punchy-2.4.4-HOTFIX-neoforge-1.21.1.pw.toml"
+hash = "12d8ff7f2fc1555bfd5de4b445779c2daac09e815296dec13e92ef7391fafa91"
+metafile = true
+
+[[files]]
 file = "mods/recipeessentials-1.21-4.0.jar"
 hash = "d07d9267afc4386c4985d68c53d957cad3e76a177457135241e57fd136a802a2"
 
