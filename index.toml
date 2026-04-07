@@ -2564,11 +2564,6 @@ hash = "afd10171bbddc2b9d20db0a3792b7aebc94e2e1121a30bcfb60db023d3587fff"
 metafile = true
 
 [[files]]
-file = "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.pw.toml"
-hash = "1f92c312c10fc7897f65b9306e8cfc2de407e8cec13eaea32304ac937eff961e"
-metafile = true
-
-[[files]]
 file = "mods/Nullscape_1.21.x_v1.2.14.pw.toml"
 hash = "e4b87abb28a569ca491929b8b7813a4ea4ec4793931d64c4e4b4e4d6ebc97408"
 metafile = true
