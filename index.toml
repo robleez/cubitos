@@ -3101,6 +3101,11 @@ hash = "6f93ad1d1501b2860e85f084416b3380f2cd4ec99b2b29a5b9885c253f834eb1"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.pw.toml"
+hash = "2001b977d347ca79b5c5740a752fa30052b08c812584e526481c48d58909b8ae"
+metafile = true
+
+[[files]]
 file = "mods/fancy-door-anim-1.0.2.pw.toml"
 hash = "b8c80ab67f95382a93505802a2746348c7559168cad0bf8161ad4946334e2638"
 metafile = true
@@ -3360,6 +3365,11 @@ hash = "f26c105ab079152012b139459859b6a5f7dc17f0c97cb98c80367210c134bce6"
 metafile = true
 
 [[files]]
+file = "mods/monkeyconfig-0.1.2+1.21.pw.toml"
+hash = "593a68edb8c3b2175d6f0a10b6525ed75e5562e72bca151254bc6abe6430224d"
+metafile = true
+
+[[files]]
 file = "mods/moonlight-1.21-2.29.16-neoforge.pw.toml"
 hash = "eac1fd85fbe39188a8b14daa96ada878806d5ea3873eb57d2f017c5ed1b35aa7"
 metafile = true
@@ -3402,6 +3412,11 @@ metafile = true
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.pw.toml"
 hash = "e089342526ac9c36c2ebebf0cb52da93d7c93ecfb4ef0f75425cc4e2a358aded"
+metafile = true
+
+[[files]]
+file = "mods/publicenderchest-1.1.0.pw.toml"
+hash = "efca029e124b9ff06ddb47debb3f9d138e3e1ddc4eb1e1b45dc2799c164fbae7"
 metafile = true
 
 [[files]]
