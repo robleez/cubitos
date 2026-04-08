@@ -3212,8 +3212,18 @@ hash = "f3a813f53734fc03e923af6764123722eb3c37737d48511bbbf11e32534bd481"
 metafile = true
 
 [[files]]
+file = "mods/improvedmobs-1.21.1-1.15.2-neoforge.pw.toml"
+hash = "0b0de79a61c9f3ab23265e35a495caae5868ec3b1d70cb9e36d0bee2d9909239"
+metafile = true
+
+[[files]]
 file = "mods/infinitetrading-1.21.1-4.6.pw.toml"
 hash = "69c6d063947d9cc01f14d42a999ad8ad91b722827b0d7338ec513b1d57a55407"
+metafile = true
+
+[[files]]
+file = "mods/inv_view_neoforge-3.0.2-1.21.(5).pw.toml"
+hash = "0b2ab861f5aa82d95d1e63a93c07172e327ce047374aa9a4f6ef93b4d83b072a"
 metafile = true
 
 [[files]]
@@ -3410,6 +3420,11 @@ hash = "a1c1ba7a2159369d85975e4910a5b2f3c02d068f3674df677c5f80b388aec59b"
 metafile = true
 
 [[files]]
+file = "mods/power-scale-1.21.1-neoforge-0.3.1.pw.toml"
+hash = "4445ceda64a40c54e52c74e3b663c7c7cfb47537ecc6440536b4c7dad50d235d"
+metafile = true
+
+[[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.pw.toml"
 hash = "e089342526ac9c36c2ebebf0cb52da93d7c93ecfb4ef0f75425cc4e2a358aded"
 metafile = true
@@ -3486,6 +3501,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip-neoforge-5.1.8+1.21.1.pw.toml"
 hash = "037fae90aa9ef61e2b7e9d6bc4912b564af596edbcf26cf5189651ac82d73d1e"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib-1.21.1-neoforge-10.5.1.pw.toml"
+hash = "4c645c198d0df01fba70b9b3135aebe5b9a17b7bc2b36df15f0435082b1bfc7b"
 metafile = true
 
 [[files]]
@@ -3589,6 +3609,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic-3.0.19-neoforge-1.21.1.pw.toml"
 hash = "5b2fc28042e56e165c50be632f26b6d18a119dd6b5b8886c46ed53015e2737e3"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib-1.21.1-2.2.5-neoforge.pw.toml"
+hash = "8b28cf800183ca40ea9b2ad7143c67521223b60f19fa0c2cd94ede74249ed069"
 metafile = true
 
 [[files]]
