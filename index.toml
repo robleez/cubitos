@@ -2762,11 +2762,6 @@ hash = "6c8457219cbf38f6abeaef14aea7ed8b1f0c8158ec7ee0be4ee7bbdd6a1e5e9c"
 metafile = true
 
 [[files]]
-file = "mods/attributefix-neoforge-1.21.1-21.1.3.pw.toml"
-hash = "15e5fa845605a57e7dd5931ba559bfd28aa88723d6f1af592ab16d465547ec56"
-metafile = true
-
-[[files]]
 file = "mods/automaticdoors-1.21.1-4.9.pw.toml"
 hash = "dfef0e09a352818bec2065e699120fd3164b98365a668a55c495f1642fe99bcc"
 metafile = true
@@ -3420,11 +3415,6 @@ hash = "a1c1ba7a2159369d85975e4910a5b2f3c02d068f3674df677c5f80b388aec59b"
 metafile = true
 
 [[files]]
-file = "mods/power-scale-1.21.1-neoforge-0.3.1.pw.toml"
-hash = "4445ceda64a40c54e52c74e3b663c7c7cfb47537ecc6440536b4c7dad50d235d"
-metafile = true
-
-[[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.pw.toml"
 hash = "e089342526ac9c36c2ebebf0cb52da93d7c93ecfb4ef0f75425cc4e2a358aded"
 metafile = true
@@ -3501,11 +3491,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip-neoforge-5.1.8+1.21.1.pw.toml"
 hash = "037fae90aa9ef61e2b7e9d6bc4912b564af596edbcf26cf5189651ac82d73d1e"
-metafile = true
-
-[[files]]
-file = "mods/silent-lib-1.21.1-neoforge-10.5.1.pw.toml"
-hash = "4c645c198d0df01fba70b9b3135aebe5b9a17b7bc2b36df15f0435082b1bfc7b"
 metafile = true
 
 [[files]]
