@@ -3616,6 +3616,11 @@ hash = "de71d286776f043606efc02d0f6968fabbe0ceb6104207df547ad48c5c19aace"
 metafile = true
 
 [[files]]
+file = "mods/tpa-1.7.5.pw.toml"
+hash = "0b095d5402226b5a3ba33c5fd75ddb02859ec39f0d5054a9bab9519f6023fbd8"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling-neoforge-1.21.1-1.0.18.pw.toml"
 hash = "3cf402672298180554ab679fc58cf0f09fc7ba810155dc2179618a4fba1b5805"
 metafile = true
