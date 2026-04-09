@@ -1373,6 +1373,10 @@ file = "config/immersive_optimization.json"
 hash = "eb9877ca65a0f08665927d7b3d87ec1c54056d9f895434c23a47c167e3f063b5"
 
 [[files]]
+file = "config/improvedmobs/client.toml"
+hash = "750d73495881ce0bd532d086c8778161f70efb9e379edb44127cef64036ec7ff"
+
+[[files]]
 file = "config/infinitetrading.json5"
 hash = "d9e247d4b521ec10f5c9719e67afceb7de7a70eeaa1ebdb4674384c31c75a711"
 
