@@ -1910,7 +1910,7 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "91f48b5c20888ed0b618301fd72530e4db3f46c07543653390032abaeb627568"
+hash = "0d5e48d27a6d0bbcbd1643cefd2f94f61e805f6bc4f300b05bccda05be1ca874"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
