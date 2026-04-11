@@ -1,0 +1,12 @@
+name = "mob-ai-tweaks-1.11.1-1.21.1"
+filename = "mob-ai-tweaks-1.11.1-1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/egIM2bKK/versions/RA4i5PM4/mob-ai-tweaks-1.11.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "d95ca47362b511aecb30e80751eae1da784eacf691ebe653be16479c7d78cbe7ced35730d15370b7418c69e6f40331d827ff18f5a497850831c5c4cb44fa3973"
+
+[update]
+  [update.modrinth]
+  mod-id = "egIM2bKK"
+  version = "RA4i5PM4"

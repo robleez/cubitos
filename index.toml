@@ -1694,7 +1694,7 @@ hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [All]__20becb39.profile.json"
-hash = "769562d23164412dc172d08c2b325809956a8b5b34588477d351af50ebf13b22"
+hash = "a3397256cf214b49f7fa68cf7da1612fe57fedf986912c60713fc5f66c742d94"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [Necessary]__0e1265a4.profile.json"
@@ -2306,6 +2306,11 @@ hash = "782350829ce0c6d997347381a71de118eae7669b2313f415aca6a6400a55416d"
 metafile = true
 
 [[files]]
+file = "mods/Amplified_Nether_26.1_v1.2.14.pw.toml"
+hash = "8fca0c28d8852babc0317fe222633d4f6dc5d4a55c93197d8bae6108c6263912"
+metafile = true
+
+[[files]]
 file = "mods/ArmorStatues-v21.1.0-1.21.1-NeoForge.pw.toml"
 hash = "fb3364530b35f07e8164a26b4638ffde50ba3bf688ae636e6835b0b62a4141d8"
 metafile = true
@@ -2662,6 +2667,11 @@ hash = "33b623a57e817aeba4d4ff7a3cd317a5c395d49b136376bc861380f50be5d1d6"
 metafile = true
 
 [[files]]
+file = "mods/TravelersTitles-1.21.1-NeoForge-5.1.3.pw.toml"
+hash = "b87b5171702269dab3decae506ee68cfd2d50276d726472e1a94d258abdcfebc"
+metafile = true
+
+[[files]]
 file = "mods/VanillaBackport-neoforge-1.21.1-1.1.6.3.pw.toml"
 hash = "6a63e10e24ba4df50ce35e3dd060579b8485f6626f2d889898f3072ff583e7a8"
 metafile = true
@@ -2781,6 +2791,16 @@ hash = "6c8457219cbf38f6abeaef14aea7ed8b1f0c8158ec7ee0be4ee7bbdd6a1e5e9c"
 metafile = true
 
 [[files]]
+file = "mods/attributefix-neoforge-1.21.1-21.1.3.pw.toml"
+hash = "15e5fa845605a57e7dd5931ba559bfd28aa88723d6f1af592ab16d465547ec56"
+metafile = true
+
+[[files]]
+file = "mods/attributefixsync-0.0.2.pw.toml"
+hash = "2cf5ce423e431c08179bf775aa6c3eca06407c8f5dbc891714241bd9c090cce7"
+metafile = true
+
+[[files]]
 file = "mods/automaticdoors-1.21.1-4.9.pw.toml"
 hash = "dfef0e09a352818bec2065e699120fd3164b98365a668a55c495f1642fe99bcc"
 metafile = true
@@ -2826,6 +2846,16 @@ hash = "eb4cd8da013610d5312bae3332a66f6dc8588508b2d900376d0d45f1b80d1f80"
 metafile = true
 
 [[files]]
+file = "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.4.pw.toml"
+hash = "5bf1d11c7dab8a0ac25d62635c68d2eab2717b4d06a6467ad9260cb872d5297d"
+metafile = true
+
+[[files]]
+file = "mods/borninconfiguration-3.1.3[NEO].pw.toml"
+hash = "a631222b5bd7b39b0677957d673c21918e3d996081320ac5a9e60660cfa8584a"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise-1.21.1-neoforge-1.0.9.pw.toml"
 hash = "b5eff23e480cc3c9188d0e299c05a27a4e70c3c4db0c1fcdf091974dca2605ec"
 metafile = true
@@ -2863,6 +2893,11 @@ metafile = true
 [[files]]
 file = "mods/cherishedworlds-neoforge-10.1.1+1.21.1.pw.toml"
 hash = "c3721975f816e4c941b750dc6760677dd1f27e2427081204d223bb3ff81a9282"
+metafile = true
+
+[[files]]
+file = "mods/chest_item-1.21.1-1.1.8.1.pw.toml"
+hash = "d80af971c4e872af408ae9fd730fcb051c8d5faa132545002230f63a27c6f006"
 metafile = true
 
 [[files]]
@@ -3369,8 +3404,18 @@ hash = "77119bef0c5e05fb24a42917345aca686faae2338583df42ec58bd111fe452be"
 metafile = true
 
 [[files]]
+file = "mods/lootr-neoforge-1.21.1-1.11.37.118.pw.toml"
+hash = "8ebb271fe0a4bbe487957b2c0446ab43089a9e35279bf462beda815213c88a16"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib-neoforge-1.9.2+1.21.1.pw.toml"
 hash = "ed0b24ab75146cc5bda3b7051e3b3ada21b23ab9f5aba28ffc3b376903afaa18"
+metafile = true
+
+[[files]]
+file = "mods/mob-ai-tweaks-1.11.1-1.21.1.pw.toml"
+hash = "8e7da7826facecbcb3c587399da1e03b5631a60d431313450176251a6a5cade2"
 metafile = true
 
 [[files]]
@@ -3441,6 +3486,11 @@ metafile = true
 [[files]]
 file = "mods/punchy-2.4.4-HOTFIX-neoforge-1.21.1.pw.toml"
 hash = "12d8ff7f2fc1555bfd5de4b445779c2daac09e815296dec13e92ef7391fafa91"
+metafile = true
+
+[[files]]
+file = "mods/questlog-neoforge-1.21.1-2.2.1.pw.toml"
+hash = "2d0971fbb4ef4a379325cab5221579cf518c31bc322f851cf47cf98c069af87f"
 metafile = true
 
 [[files]]
@@ -3761,7 +3811,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ca5c82d411bd88620d649d15d15fe9fc6feb58ad475dd460d01f0eb87f3dc971"
+hash = "d51221f99879b0b57a57fe025e89de4c58bffbffe91d5a28b48144b6e6e49462"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
@@ -3900,6 +3950,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/Umbrella Villagers.pw.toml"
 hash = "8255d7a35f32c85df5725ada72e6bd12754a7dd0fac71819547fe0976adf5a79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Visual Titles 1.3.pw.toml"
+hash = "07c04789d300ed18b933488fc9e852709b2fb039d02ac43bbb5ade3cd8b1ac92"
 metafile = true
 
 [[files]]

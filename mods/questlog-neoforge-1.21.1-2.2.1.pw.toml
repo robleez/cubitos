@@ -1,0 +1,12 @@
+name = "questlog-neoforge-1.21.1-2.2.1"
+filename = "questlog-neoforge-1.21.1-2.2.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufQYCY6N/versions/vaz2iO3l/questlog-neoforge-1.21.1-2.2.1.jar"
+hash-format = "sha512"
+hash = "6a7eba1d92674c553210c6ab5549a11e97de77ba7d950faced3deadb07e9fdfbb3ba3636e160ae0418eecd1dc66597b795e897cde7df32a388f390c0c6e5f844"
+
+[update]
+  [update.modrinth]
+  mod-id = "ufQYCY6N"
+  version = "vaz2iO3l"

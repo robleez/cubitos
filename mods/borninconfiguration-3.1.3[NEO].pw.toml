@@ -1,0 +1,12 @@
+name = "borninconfiguration-3.1.3[NEO]"
+filename = "borninconfiguration-3.1.3[NEO].jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/8rGW0cNk/versions/Y8RQ0Jz0/borninconfiguration-3.1.3%5BNEO%5D.jar"
+hash-format = "sha512"
+hash = "461bc9d6944928ce98d1af2dee307ac9b0acfd42caa3f7c2254a25f3f45ea07385c6bbd1553b83a595a640b802862a14000cfc73285545fd581103c10e10288a"
+
+[update]
+  [update.modrinth]
+  mod-id = "8rGW0cNk"
+  version = "Y8RQ0Jz0"

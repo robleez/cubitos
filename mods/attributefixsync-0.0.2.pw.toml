@@ -1,0 +1,12 @@
+name = "attributefixsync-0.0.2"
+filename = "attributefixsync-0.0.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nUDIHIQP/versions/durzJsOP/attributefixsync-0.0.2.jar"
+hash-format = "sha512"
+hash = "d56491b00024d43fc2d1345d1157566ade35deb1c9a0c58a5b5f9fb5c7ea6375fe3462d15dcb737855380d9c1680369e86e9dcb73166e884304a668bcd7f8aff"
+
+[update]
+  [update.modrinth]
+  mod-id = "nUDIHIQP"
+  version = "durzJsOP"

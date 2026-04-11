@@ -1,0 +1,12 @@
+name = "born_in_chaos_[Neoforge]_1.21.1_1.7.4"
+filename = "born_in_chaos_[Neoforge]_1.21.1_1.7.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/1kcHy4de/versions/pWRRWRPv/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.4.jar"
+hash-format = "sha512"
+hash = "396cca0ecfd55c8d1c42da05c1e6c98dcaf3dc45241e9f76b8180d83507885922ff200a7d792abdf0f34d969f5f5994d8aa2d1935ca66656450a5c0366eff077"
+
+[update]
+  [update.modrinth]
+  mod-id = "1kcHy4de"
+  version = "pWRRWRPv"
