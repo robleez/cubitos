@@ -1745,6 +1745,10 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907"
 
 [[files]]
+file = "config/questlog-client.toml"
+hash = "8b8eef55ac74d5d02141b6a3d7cedb31e9bec5405688486c9e5a7cf1b0c821f0"
+
+[[files]]
 file = "config/recipeessentials.json"
 hash = "96b6764c28555977f3f2f7091b881de3c3def4560584ac13a1c42b6c692a6755"
 
