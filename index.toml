@@ -2732,6 +2732,11 @@ hash = "143eae092e5c6769d08676cbb112e16bbe4d52608cbd8331515df3b7fa1daa38"
 metafile = true
 
 [[files]]
+file = "mods/additionallanterns-1.1.2-neoforge-mc1.21.pw.toml"
+hash = "7a83d7e056110da8d0d1cbcc61ac350f9ee2506a628073206f960b4657fbd2c1"
+metafile = true
+
+[[files]]
 file = "mods/advancednetherite-neoforge-2.3.1-1.21.1.pw.toml"
 hash = "d2d72fb49ffb9dcba938c11673b391421c58a353ecfc170660dc24d6d5a5be80"
 metafile = true
@@ -2988,11 +2993,6 @@ metafile = true
 [[files]]
 file = "mods/do_a_barrel_roll-neoforge-3.7.3+1.21.pw.toml"
 hash = "bd7f127854a8638ea2202846c05403dda80b0bad79e298e491b164d18c1bc4b8"
-metafile = true
-
-[[files]]
-file = "mods/draggable_lists-mc1.20.6-1.0.8-build.44.pw.toml"
-hash = "80e72ed0a93a4901b3a93f1173aa17e77ce04d8df95e9cf1b7c4e41ff04bb6fb"
 metafile = true
 
 [[files]]
