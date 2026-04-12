@@ -1,0 +1,12 @@
+name = "Tyz's skills 6.1.2 - 1.21.1"
+filename = "Tyz's skills 6.1.2 - 1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/4rKNK5O2/versions/sQjwnpHe/Tyz%27s%20skills%206.1.2%20-%201.21.1.jar"
+hash-format = "sha512"
+hash = "7582057d0d2ef11e85363a126155ebd8140dbb581825c6eeb714fcbc1f791d032cc18ec1ff2e1f34d44029a716953aab027cf6b005ab8ccf2009017e83533acb"
+
+[update]
+  [update.modrinth]
+  mod-id = "4rKNK5O2"
+  version = "sQjwnpHe"

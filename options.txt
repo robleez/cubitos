@@ -288,7 +288,7 @@ key_key.relics.active_abilities_list:key.keyboard.unknown
 key_key.relics.research_relic:key.keyboard.unknown
 key_key.show_my_skin.open_settings:key.keyboard.u
 key_key.cinematiczoom.zoom:key.keyboard.h
-key_key.chest_item.r:key.keyboard.unknown
+key_key.chest_item.r:key.keyboard.y
 key_key.chest_item.c:key.keyboard.unknown
 key_key.deeperdarker.boost:key.keyboard.left.shift
 key_key.deeperdarker.transmit:key.keyboard.unknown
@@ -351,6 +351,7 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.tyzs_skills.open_menu:key.keyboard.k
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
