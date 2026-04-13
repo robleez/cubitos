@@ -3254,6 +3254,11 @@ file = "mods/gpumemleakfix-1.21-1.8.jar"
 hash = "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931"
 
 [[files]]
+file = "mods/grind-enchantments-4.0.1+neoforge-1.21.1.pw.toml"
+hash = "f171a5c823522138dad3cf5f99cb865146f2099b9825284ee53b3de31ee3f9a9"
+metafile = true
+
+[[files]]
 file = "mods/hearts_bottle-1.0.0-neoforge-1.21.1.pw.toml"
 hash = "5cbd96500f6b70e289db3a1dfbfc0a4c6551db52268c72571fa61f5c79ae736d"
 metafile = true
