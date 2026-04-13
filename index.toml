@@ -3462,6 +3462,11 @@ hash = "0dcc30380fd24fd63d0dcb64777a08e2e344d61e2da2bf8440dcec58cef07447"
 metafile = true
 
 [[files]]
+file = "mods/neoforge-3.23.1-1.21.1-beta1.pw.toml"
+hash = "5dd0420387044310d6f6d5a64e65fec1819d2c7d024e1a9f01b92521ebbee68e"
+metafile = true
+
+[[files]]
 file = "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.pw.toml"
 hash = "2282ef07bbd5973d75c08b92e9afc7f5e27639256aee946b5f556abad34ac68c"
 metafile = true
@@ -3469,6 +3474,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.11.2-mc1.21.1.pw.toml"
 hash = "21611f67339cdd8cfe56f2512e2a004398faa0fc9751c3400ffcba68f7fa78e2"
+metafile = true
+
+[[files]]
+file = "mods/otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.pw.toml"
+hash = "c65f1774eeef05645f87bbd71cab399e86b966da1f075a669ec6b42d4057cca9"
 metafile = true
 
 [[files]]

@@ -1,0 +1,12 @@
+name = "otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1"
+filename = "otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWLRcWS4/versions/U0rlb8ce/otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar"
+hash-format = "sha512"
+hash = "25eb6d2295c07f5a43e58557f916a3533fa834cf4c9945e673ee306c6543a7a437462a75b4c6ca11d552a84d29edfad3ab5923d8b3ca23a6d8093b8523113b32"
+
+[update]
+  [update.modrinth]
+  mod-id = "uWLRcWS4"
+  version = "U0rlb8ce"

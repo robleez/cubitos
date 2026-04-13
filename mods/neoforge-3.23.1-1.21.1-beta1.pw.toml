@@ -1,0 +1,12 @@
+name = "neoforge-3.23.1-1.21.1-beta1"
+filename = "neoforge-3.23.1-1.21.1-beta1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XSEiZPP/versions/pBe3q877/neoforge-3.23.1-1.21.1-beta1.jar"
+hash-format = "sha512"
+hash = "be99c5a7faea041a40a201ece187fd1de15625e8940e286e858d8c120b201a4e2862221d92ceedd23ddb7d5064edf845db2caa9050abff934aa1f8ddab64ebae"
+
+[update]
+  [update.modrinth]
+  mod-id = "1XSEiZPP"
+  version = "pBe3q877"
