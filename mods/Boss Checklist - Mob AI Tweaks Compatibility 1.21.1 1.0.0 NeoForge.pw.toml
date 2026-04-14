@@ -1,0 +1,12 @@
+name = "Boss Checklist - Mob AI Tweaks Compatibility 1.21.1 1.0.0 NeoForge"
+filename = "Boss Checklist - Mob AI Tweaks Compatibility 1.21.1 1.0.0 NeoForge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWa6QEIV/versions/BLPfqgrC/Boss%20Checklist%20-%20Mob%20AI%20Tweaks%20Compatibility%201.21.1%201.0.0%20NeoForge.jar"
+hash-format = "sha512"
+hash = "a2b1110c9b41c1c2ec2e055acdfb8ea68411a1054c711943390e5fc6b2f388faf4077660ef9c422c0d9b8bd0ff471a6f7ecce58bfd8320ef76d7702b8a2847df"
+
+[update]
+  [update.modrinth]
+  mod-id = "uWa6QEIV"
+  version = "BLPfqgrC"
