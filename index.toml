@@ -1694,7 +1694,7 @@ hash = "5d852c25ca18cff5899b626be210576f24ed7fa1dc7f79a8231f7e476079481a"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [All]__20becb39.profile.json"
-hash = "a3397256cf214b49f7fa68cf7da1612fe57fedf986912c60713fc5f66c742d94"
+hash = "b79b21ba689909a6920668de35ded2d9de272320c283c8b181b3fc56a67c9e48"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Pack [Necessary]__0e1265a4.profile.json"
@@ -3854,7 +3854,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "add736039d0f6b11c86a01e13463871f93b832b7065361f5b4c4ae1b20b3205f"
+hash = "b7905ba5affc53b0ee5cd38b2b4e80f700c792de0964c89dc1ea4a3f8ebcb18d"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"
@@ -3948,6 +3948,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.pw.toml"
 hash = "8c579e0ad281b8c5f518ccfff8558f4dd5457cd089abfc239a4f84195de79ce9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Gui's HUD & UI Edition.pw.toml"
+hash = "525b5b2c4f4906c8509008126ef698a41aa458a63e5e4ec30aabeea57b87be7d"
 metafile = true
 
 [[files]]

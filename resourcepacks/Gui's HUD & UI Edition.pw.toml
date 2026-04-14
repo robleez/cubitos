@@ -1,0 +1,12 @@
+name = "Gui's HUD & UI Edition"
+filename = "Gui's HUD & UI Edition.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/5RQ83fJR/versions/av0hjfnX/Gui%27s%20HUD%20%26%20UI%20Edition.zip"
+hash-format = "sha512"
+hash = "432e31277b27e725f9ce949cc50f3fe8f348648e597b0e88d612373977d127c15eea70482e41d9ffbe95695b0a2932b92621227a61277ccbe111542d13d187c3"
+
+[update]
+  [update.modrinth]
+  mod-id = "5RQ83fJR"
+  version = "av0hjfnX"
