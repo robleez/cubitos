@@ -3596,6 +3596,11 @@ hash = "b08373503cbc00a7725e56bd46daebfaa965a33eae6fd4ea6c44026ee8ed81a3"
 metafile = true
 
 [[files]]
+file = "mods/showcaseitem-1.21.1-1.1.0.pw.toml"
+hash = "c0d56047ff908a64fc65765acb79afce51cf77f16371431bd20bec7873f46723"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip-neoforge-5.1.8+1.21.1.pw.toml"
 hash = "037fae90aa9ef61e2b7e9d6bc4912b564af596edbcf26cf5189651ac82d73d1e"
 metafile = true
@@ -3830,6 +3835,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit-mod-7.3.8.pw.toml"
 hash = "c499e1b974dfbae36e18438d818178e9192bbf9344cb2019ee366cd94825a41c"
+metafile = true
+
+[[files]]
+file = "mods/xptome-1.21.1-2.4.pw.toml"
+hash = "316921e0ff07a9a8ffb8cae25fef42c1ca6d830932e8c04a768b7d491792fb30"
 metafile = true
 
 [[files]]
