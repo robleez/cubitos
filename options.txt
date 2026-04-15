@@ -145,7 +145,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_tombstone.message.knowledge_of_death:key.keyboard.unknown
+key_tombstone.message.knowledge_of_death:key.keyboard.keypad.0
 key_tombstone.message.config:key.keyboard.unknown
 key_tombstone.message.compendium:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
@@ -285,7 +285,7 @@ key_gnetum.config.keyMapping:key.keyboard.unknown
 key_key.carbon_config.key:key.keyboard.unknown
 key_Options Gui:key.keyboard.unknown
 key_key.relics.active_abilities_list:key.keyboard.unknown
-key_key.relics.research_relic:key.keyboard.unknown
+key_key.relics.research_relic:key.keyboard.left.shift
 key_key.show_my_skin.open_settings:key.keyboard.u
 key_key.cinematiczoom.zoom:key.keyboard.h
 key_key.chest_item.r:key.keyboard.y
@@ -308,8 +308,8 @@ key_key.smallships.ship_sail:key.keyboard.r
 key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
-key_key.journeymap.zoom_in:key.keyboard.unknown
-key_key.journeymap.zoom_out:key.keyboard.unknown
+key_key.journeymap.zoom_in:key.keyboard.equal
+key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.unknown
 key_key.journeymap.minimap_preset:key.keyboard.unknown
 key_key.journeymap.create_waypoint:key.keyboard.n
