@@ -1,0 +1,12 @@
+name = "AFKStation-v5.0.0-Fabric+mc1.21.1"
+filename = "AFKStation-v5.0.0-Fabric+mc1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/tKnIRAKk/versions/FZwVXkha/AFKStation-v5.0.0-Fabric%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "d1478f2e46edd8aa92086d08cb3ab467a83ec6316235c40136b160de5be8293a412d8c45cc4c1568efbc8a730ba63f82fc0cf2652cc324782a0c61e2aebd7f7c"
+
+[update]
+  [update.modrinth]
+  mod-id = "tKnIRAKk"
+  version = "FZwVXkha"

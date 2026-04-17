@@ -145,6 +145,10 @@ file = "config/advancednetherite-server.toml"
 hash = "69ad5463a614a5e6a400f938515ac04ada47b52c6795b82ca7f8aefd3765e44f"
 
 [[files]]
+file = "config/afkstation.json"
+hash = "34219e154a01487dd778577497669e7fe091de853f24106f7d0d1f8b16154595"
+
+[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "99113ed20833ab95be2a9ca46ffc88e3427b066d4b02646873cdebe2203fd622"
 
@@ -2289,6 +2293,11 @@ file = "mods/.connector/temp/show-me-your-skin-1.11.3+1.21$cardinal-components-e
 hash = "658f22f18a8fc4aa6f61fe43660865cbb9f15fe794fa09e05d8b1e84ed765b34"
 
 [[files]]
+file = "mods/AFKStation-v5.0.0-Fabric+mc1.21.1.pw.toml"
+hash = "9f2f2bd05321c0b75d8bfd7d8f892c85733ab1bbd3b28e90a26e0431f6431f28"
+metafile = true
+
+[[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.pw.toml"
 hash = "40218f3449eb0c4fa88be8bded9aca8832f66c5ac1387c8541c5113ebef30c03"
 metafile = true
@@ -2770,6 +2779,11 @@ hash = "d2d72fb49ffb9dcba938c11673b391421c58a353ecfc170660dc24d6d5a5be80"
 metafile = true
 
 [[files]]
+file = "mods/afk-announcer-v3.4.1.pw.toml"
+hash = "ca01495cfc73c04a868806c3b31305cd34dee48176594747ca3f705878cd67cf"
+metafile = true
+
+[[files]]
 file = "mods/alexsmobs-1.22.17.pw.toml"
 hash = "6f97a83306e51262a26f09233d26791be878f0e251ba0b1f04dc3935acf248d6"
 metafile = true
@@ -2990,8 +3004,8 @@ file = "mods/connectivity-1.21.1-7.6.jar"
 hash = "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
 
 [[files]]
-file = "mods/connector-2.0.0-beta.12+1.21.1-full.pw.toml"
-hash = "3aadde25941636a8ea8b272de17cc752c2cb66aca05e85f7c9938161780823d3"
+file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
+hash = "a926317f28349b961aca967061b20912fe5e5bffe9df37eebb0a7a5b28b3f7c1"
 metafile = true
 
 [[files]]
@@ -3212,8 +3226,8 @@ hash = "526ea8196f4d9d989a695ae2ffb28f8cfcd06f8ceb19c0e80ecc923cd9530e7b"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.0+1.21.1.pw.toml"
-hash = "5cf11b3e73846d7e9854ef1d3cbdb5c5a1f11ed42358a5e0d3128ec8d5f62b26"
+file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.pw.toml"
+hash = "ed79f37ade753699e6703fa5325f82fc8b702a13b7214422f558db0a755c83eb"
 metafile = true
 
 [[files]]
