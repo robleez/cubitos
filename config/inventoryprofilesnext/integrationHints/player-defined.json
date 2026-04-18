@@ -1,0 +1,15 @@
+{
+    "net.minecraft.client.gui.screens.inventory.GrindstoneScreen": {
+        "buttonHints": {
+            "SORT": {
+                "bottom": 64
+            },
+            "SORT_COLUMNS": {
+                "bottom": 64
+            },
+            "SORT_ROWS": {
+                "bottom": 64
+            }
+        }
+    }
+}

@@ -22,7 +22,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b061ed219c686dc63fcc1788b2a8e188cac1cabd58ad85c781c172225953d876"
+hash = "d68a4eb3dc9c8d2db1d8ca73805be4623842d71e579df8723b51df486057f0f8"
 
 [[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
@@ -1437,6 +1437,10 @@ file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.js
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "27c69f0caae16936f68a178e777b21b55aec3b024edd24915cf83eb26d48a71c"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "2026c88daaca8022024430c7cfd9da53a10e100f0864af096e7698ba785f9d61"
 
@@ -1914,7 +1918,7 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "0d5e48d27a6d0bbcbd1643cefd2f94f61e805f6bc4f300b05bccda05be1ca874"
+hash = "c2e6380840da542df4d84c003f669a8a47eb701c59697315cfb14b9631874e41"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -3285,11 +3289,6 @@ hash = "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931"
 [[files]]
 file = "mods/grind-enchantments-4.0.1+neoforge-1.21.1.pw.toml"
 hash = "f171a5c823522138dad3cf5f99cb865146f2099b9825284ee53b3de31ee3f9a9"
-metafile = true
-
-[[files]]
-file = "mods/hearts_bottle-1.0.0-neoforge-1.21.1.pw.toml"
-hash = "5cbd96500f6b70e289db3a1dfbfc0a4c6551db52268c72571fa61f5c79ae736d"
 metafile = true
 
 [[files]]
