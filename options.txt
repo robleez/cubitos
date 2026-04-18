@@ -211,6 +211,10 @@ key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.wardentools.consume_charges:key.keyboard.unknown
+key_key.afkstation.toggle:key.keyboard.unknown
+key_key.afkstation.ui:key.keyboard.unknown
+key_key.afkstation.force:key.keyboard.unknown
+key_key.afkstation.style:key.keyboard.unknown
 key_key.gammautils.gammaToggle:key.keyboard.unknown
 key_key.gammautils.increaseGamma:key.keyboard.unknown
 key_key.gammautils.decreaseGamma:key.keyboard.unknown
