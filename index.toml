@@ -2673,6 +2673,10 @@ hash = "81912421ff455f6f4e4050fe7bfdc56aba5ed5f888275d773082bbdc4e7af2bf"
 metafile = true
 
 [[files]]
+file = "mods/StackableItems-neoforge-1.21.[0-1]-v1.2.jar"
+hash = "d4954a0907db35d40a7d2595c223ba17abda942de2579e48cf2faf3002a1639b"
+
+[[files]]
 file = "mods/StrawStatues-v21.1.0-1.21.1-NeoForge.pw.toml"
 hash = "99614fc141d961e3a675267ecf05ad1f8d3b0b3b92669f77beec17639c7ecc79"
 metafile = true
@@ -2869,11 +2873,6 @@ metafile = true
 [[files]]
 file = "mods/bettervillage-neoforge-1.21.1-3.3.1.pw.toml"
 hash = "611e3defd5e72dfa86072eb2a5cee3815e6c90a8a061833a8e73a29fc5b8ea95"
-metafile = true
-
-[[files]]
-file = "mods/biggerstacks-unofficial-1.21.1-1.0.2.pw.toml"
-hash = "84d584b68a033dad9e232f569d703bb75630bc1741a746c5375e6e9d610e2825"
 metafile = true
 
 [[files]]
