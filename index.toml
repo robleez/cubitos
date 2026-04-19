@@ -853,22 +853,6 @@ file = "config/bettervillage_1.properties"
 hash = "37210529ee95f8f29f462dfe78e7c96dd32aa949ab1c7ff9f32de8c7e2aed00c"
 
 [[files]]
-file = "config/biggerstacks-client.toml"
-hash = "38ab559393fddc1411171e0f1307fb1d9e326eaf0a48ebac7c0e9a0f30a3c32e"
-
-[[files]]
-file = "config/biggerstacks-local.toml"
-hash = "6da91be6585a2c36c4971e88eb3c8cb8f234bed1cc509fc55677d626881bdc26"
-
-[[files]]
-file = "config/biggerstacks-server.toml"
-hash = "5f413e187792b1b18c5ecc8779c6e06552408da706a35fba32c75480b9331d93"
-
-[[files]]
-file = "config/biggerstacks-template-overrides.json"
-hash = "2cd91a99941f16b18c861079ebbaadc7c16b8952702e9aeb56e15db43f5890a3"
-
-[[files]]
 file = "config/bosses_rise_config.toml"
 hash = "6e612f97fd6002f83c09ebbb78d0cfb731982ed77435565b381d16852570e2f0"
 
