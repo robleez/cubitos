@@ -1502,7 +1502,7 @@ hash = "2cabb71b5e07aaf9a414b4f7ccf1694077ab0827cde19431f032061cd51651d3"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+hash = "0cc3928feb1134ac03d91d7f1e7c3252fdef4c15e7cd6e33dc44fe383bf71d5e"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
