@@ -3189,9 +3189,8 @@ hash = "5406a1c0466c06abf75ebf97d77f951cbd89668afd9bf962f598e40edc01113c"
 metafile = true
 
 [[files]]
-file = "mods/fantasy_armor-neoforge-1.2.1-1.21.1.pw.toml"
-hash = "37c1b7b4ccca12c535685b345208f5504ae94e86127431c050874021753229af"
-metafile = true
+file = "mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar"
+hash = "69dffc8003f9cf6d539c0c07b1e3865d2640f08b82058d3379d8c5e3a801c9f8"
 
 [[files]]
 file = "mods/fastasyncworldsave-1.21-2.6.jar"
