@@ -2642,11 +2642,6 @@ hash = "96a3bff9e3d9a6b948fb81dbbe6c3b656a25a9be049273beac3ea935849ca775"
 metafile = true
 
 [[files]]
-file = "mods/ScalableLux-0.1.0.1+neoforge.1cb1e91-all.pw.toml"
-hash = "c6c9461544622abed488f7fccaaedcabe5e2ae4492e068e99b61da49cbaa29e3"
-metafile = true
-
-[[files]]
 file = "mods/Scribble-1.5.1+mc1.21-neoforge.pw.toml"
 hash = "afaaa9943d70ec11b4da3b588fc4d17b281daa2bf5735f7e25189256b0c8f453"
 metafile = true
