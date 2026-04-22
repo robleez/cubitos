@@ -11,5 +11,11 @@
                 "bottom": 64
             }
         }
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": {
+        "ignore": true
+    },
+    "top.theillusivec4.curios.client.gui.CuriosScreen": {
+        "ignore": true
     }
 }

@@ -126,7 +126,7 @@ hash = "be08ff4585327dd675b8035e1827a44ca1bb3b9f2f2510785f7fe5724a347ed2"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "4f7f460a5b7312b89a248a89b075f9a66eebac8c9c4e6dd11182b1af24b22439"
 
 [[files]]
 file = "config/achiopt-common.toml"
@@ -1422,7 +1422,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "27c69f0caae16936f68a178e777b21b55aec3b024edd24915cf83eb26d48a71c"
+hash = "8732fde7bdc2070de1824c2442ac0b9464869e08ebcb0741f425285e01bca788"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -2622,6 +2622,11 @@ hash = "d01a4decb5c9aa8431615519ed1071ab9c7d20d8f1755aba8d3048efbae5a9b9"
 metafile = true
 
 [[files]]
+file = "mods/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.pw.toml"
+hash = "5262b38ef8ca0225ae971ebde722741810f334e42b5f921e6e62ea2bbbc31702"
+metafile = true
+
+[[files]]
 file = "mods/Presence Footsteps [NEOFORGE]+1.21-1.1.0.pw.toml"
 hash = "d39ee45a166226778145680aacacbb20fd45781b37a6a33c2ba42ed4e76a8c3d"
 metafile = true
@@ -3011,8 +3016,13 @@ hash = "df7e8e68206ae1ca0d31a589ae452106bedab7228642acf819d5f39a214aa128"
 metafile = true
 
 [[files]]
-file = "mods/create-1.21.1-6.0.7.pw.toml"
-hash = "da522045eefc16c86d4d2f12829c480a2c89b9ffa00a7639ccfc8697efdb7e02"
+file = "mods/create-1.21.1-6.0.10.pw.toml"
+hash = "dfa7adb0b7ebd589943cafcf17b14ba56b17163f17e76120c8646f6285cad3a5"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.1.3.pw.toml"
+hash = "ff55b7a556c7b853220358d22ee135b3bf4a399a74125e2435e6740c66256adc"
 metafile = true
 
 [[files]]
@@ -3512,6 +3522,11 @@ hash = "a1c1ba7a2159369d85975e4910a5b2f3c02d068f3674df677c5f80b388aec59b"
 metafile = true
 
 [[files]]
+file = "mods/playerladder-neoforge-1.21-0.7.1.pw.toml"
+hash = "06f2e8632656a013b0ae6575d3f8189e9cc63166a862479eb8063652aafb81de"
+metafile = true
+
+[[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.pw.toml"
 hash = "e089342526ac9c36c2ebebf0cb52da93d7c93ecfb4ef0f75425cc4e2a358aded"
 metafile = true
@@ -3573,6 +3588,11 @@ metafile = true
 [[files]]
 file = "mods/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.pw.toml"
 hash = "28578971f5d83bb6ccee93bb425612eb8aace2ff721ada0f0e9cb173c08466e0"
+metafile = true
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-1.1.3.pw.toml"
+hash = "3ccfb084fc8c6c1a64144847a006d46a128f4cf6e3dbb1b7fec50f12643ad5e7"
 metafile = true
 
 [[files]]
@@ -3859,7 +3879,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ef8a2c61deadb3d53e5436fb56b75e19247e70ca1b259a1bb63c9dc585b9f226"
+hash = "8029812bcf41fc256d47052cc92f6450168b9068ba57c853a12b269ca43d9ed4"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"

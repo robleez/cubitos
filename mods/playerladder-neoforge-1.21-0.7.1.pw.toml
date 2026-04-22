@@ -1,0 +1,12 @@
+name = "playerladder-neoforge-1.21-0.7.1"
+filename = "playerladder-neoforge-1.21-0.7.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCcTxyDM/versions/U7lovFuU/playerladder-neoforge-1.21-0.7.1.jar"
+hash-format = "sha512"
+hash = "b137d810a7fb3a22d3f6a4dbdc1c6f1de22479d58cc3aadf4cd393da66814f711436caa9c14c57817450af312e076277f0bd9ff16c0afa9f85efb6cc008f0250"
+
+[update]
+  [update.modrinth]
+  mod-id = "YCcTxyDM"
+  version = "U7lovFuU"

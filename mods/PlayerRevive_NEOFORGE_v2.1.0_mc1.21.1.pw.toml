@@ -1,0 +1,12 @@
+name = "PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1"
+filename = "PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ABIMzABM/versions/10KVBFJJ/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "2be0137717928ae48b30c5f9a5cbd123c3ef87611ac7db2e59620ee63fe1001b4270322486bd01928008dbf34ad2b91f812782f428b5b56302008aa2e974b26e"
+
+[update]
+  [update.modrinth]
+  mod-id = "ABIMzABM"
+  version = "10KVBFJJ"
