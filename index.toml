@@ -2642,6 +2642,11 @@ hash = "96a3bff9e3d9a6b948fb81dbbe6c3b656a25a9be049273beac3ea935849ca775"
 metafile = true
 
 [[files]]
+file = "mods/ScalableLux-0.1.0.1+neoforge.1cb1e91-all.pw.toml"
+hash = "c6c9461544622abed488f7fccaaedcabe5e2ae4492e068e99b61da49cbaa29e3"
+metafile = true
+
+[[files]]
 file = "mods/Scribble-1.5.1+mc1.21-neoforge.pw.toml"
 hash = "afaaa9943d70ec11b4da3b588fc4d17b281daa2bf5735f7e25189256b0c8f453"
 metafile = true
@@ -3011,13 +3016,8 @@ hash = "df7e8e68206ae1ca0d31a589ae452106bedab7228642acf819d5f39a214aa128"
 metafile = true
 
 [[files]]
-file = "mods/create-1.21.1-6.0.10.pw.toml"
-hash = "dfa7adb0b7ebd589943cafcf17b14ba56b17163f17e76120c8646f6285cad3a5"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-bundled-1.21.1-1.1.3.pw.toml"
-hash = "ff55b7a556c7b853220358d22ee135b3bf4a399a74125e2435e6740c66256adc"
+file = "mods/create-1.21.1-6.0.7.pw.toml"
+hash = "da522045eefc16c86d4d2f12829c480a2c89b9ffa00a7639ccfc8697efdb7e02"
 metafile = true
 
 [[files]]
@@ -3583,11 +3583,6 @@ metafile = true
 [[files]]
 file = "mods/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.pw.toml"
 hash = "28578971f5d83bb6ccee93bb425612eb8aace2ff721ada0f0e9cb173c08466e0"
-metafile = true
-
-[[files]]
-file = "mods/sable-neoforge-1.21.1-1.1.3.pw.toml"
-hash = "3ccfb084fc8c6c1a64144847a006d46a128f4cf6e3dbb1b7fec50f12643ad5e7"
 metafile = true
 
 [[files]]
