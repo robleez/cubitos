@@ -2341,11 +2341,6 @@ hash = "c6f1eb866ca2de468dc659c4e46ac97f05d973df92fca74781aa3bae56eb6165"
 metafile = true
 
 [[files]]
-file = "mods/BetterBeacons-NeoForge-1.21.1-2.1.1.pw.toml"
-hash = "85c09300994fe0f294d7ab4ebdf74960a10f46ff8ecda456b9b8e3ba5525ae71"
-metafile = true
-
-[[files]]
 file = "mods/BetterControls-1.21+v1.4.0.pw.toml"
 hash = "36ef1ae4a6ad700ea2ce1f7ef28a9eca00370bd13e3cdd78c868b091b4cf6b3e"
 metafile = true
@@ -2753,11 +2748,6 @@ metafile = true
 [[files]]
 file = "mods/YungsBridges-1.21.1-NeoForge-5.1.1.pw.toml"
 hash = "bff78cdca833461419e7a3db9d7a1980bf3eb8ce3be1e03eb8d7e956e0b0451c"
-metafile = true
-
-[[files]]
-file = "mods/[1.21-1.21.1]witherswrath-1.15.1.pw.toml"
-hash = "037e09ddc5df99d3d771598f5152d9556ca0b7ecd33952e187802db83125712e"
 metafile = true
 
 [[files]]
