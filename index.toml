@@ -146,7 +146,7 @@ hash = "69ad5463a614a5e6a400f938515ac04ada47b52c6795b82ca7f8aefd3765e44f"
 
 [[files]]
 file = "config/afkstation.json"
-hash = "34219e154a01487dd778577497669e7fe091de853f24106f7d0d1f8b16154595"
+hash = "ebc3ec2ed0e9ca94bb49e4642081d6424f28383e3eedd40d9bd28008f9a01890"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -1422,7 +1422,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "8732fde7bdc2070de1824c2442ac0b9464869e08ebcb0741f425285e01bca788"
+hash = "12c5f0ca35cac7f81cb52d1a94bef1fd55b2383bb21d31657834f04d443fab34"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

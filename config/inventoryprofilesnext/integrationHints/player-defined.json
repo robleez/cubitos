@@ -17,5 +17,32 @@
     },
     "top.theillusivec4.curios.client.gui.CuriosScreen": {
         "ignore": true
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": {
+        "buttonHints": {
+            "SORT": {
+                "bottom": 65
+            },
+            "SORT_COLUMNS": {
+                "bottom": 65
+            },
+            "SORT_ROWS": {
+                "bottom": 65
+            }
+        }
     }
 }
