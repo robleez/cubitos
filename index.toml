@@ -2771,6 +2771,20 @@ hash = "ca01495cfc73c04a868806c3b31305cd34dee48176594747ca3f705878cd67cf"
 metafile = true
 
 [[files]]
+file = "mods/afk-dim-names-1.3.0.pw.toml"
+hash = "82cd73a07a34401068487375f3c6dd6e6fe931eff845982f507d1a3993254bb5"
+metafile = true
+
+[[files]]
+file = "mods/afk-message-1.1.0.jar"
+hash = "b4a9aa14b1e47fab960d3d6e78bda91ae55695de52c1d1bd87fff4638f868e0f"
+
+[[files]]
+file = "mods/afk-sit-1.0.1.pw.toml"
+hash = "0fb263c0065b43ffb8326b1baf02acd8ff94b2f514e13ba2401022fe2175c68c"
+metafile = true
+
+[[files]]
 file = "mods/alexsmobs-1.22.17.pw.toml"
 hash = "6f97a83306e51262a26f09233d26791be878f0e251ba0b1f04dc3935acf248d6"
 metafile = true
@@ -3047,6 +3061,11 @@ metafile = true
 [[files]]
 file = "mods/despawntweaks-neoforge-1.0.0-1.21.1.pw.toml"
 hash = "8243951c938f4d78a72e925745c95d9dbf690578cb5919ae62b1cea659d24d43"
+metafile = true
+
+[[files]]
+file = "mods/detect-afk-1.2.2.pw.toml"
+hash = "1b1e94cbc6aa19806d720badf05492a55983dc549e8dcb3573383bba5963a27a"
 metafile = true
 
 [[files]]
@@ -3635,8 +3654,13 @@ hash = "771aee3eb2a81192d26366ba5baf8391a10a5799eec51dcde918d4ce52134320"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.3.102.1368.pw.toml"
-hash = "5b5b9665d5f78944d1774d7b622d6ffa3d43df0541ed7939972d4dc5a5e4c5ce"
+file = "mods/sophisticatedcore-1.21.1-1.4.28.1728.pw.toml"
+hash = "82bf0ffc5df03e6bebb7095c7ae6ea0b416fb4e173f6a07ab213d68f4a38f37e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.5.44.1680.pw.toml"
+hash = "5ea3568d8e6afbf1d071587b5bdeec8740a52ca1b97c91148a671cbede530f2a"
 metafile = true
 
 [[files]]

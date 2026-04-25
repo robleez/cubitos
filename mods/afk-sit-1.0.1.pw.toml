@@ -1,0 +1,12 @@
+name = "afk-sit-1.0.1"
+filename = "afk-sit-1.0.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/aFIdKOKp/versions/xa0amAmz/afk-sit-1.0.1.jar"
+hash-format = "sha512"
+hash = "b91912b8d7897e7540129e62764623fc351b1cc222e5910e9f42339ebedb6f859ca4e570e94810c8ffd7f2e9184cc933694a1e20ab52a84723ba09242e1456dd"
+
+[update]
+  [update.modrinth]
+  mod-id = "aFIdKOKp"
+  version = "xa0amAmz"
