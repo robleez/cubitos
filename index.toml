@@ -4037,7 +4037,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "0ce81a7ba0d8e89f64ca7e29e09c95cc5af0096b9eab863c2b85c3f1f6dcbe3e"
+hash = "c96a82e53ab3e8613c6b1651ab185fd9af239a2e2c43e48f7eb1361853a32f2e"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).pw.toml"
