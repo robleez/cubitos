@@ -3354,7 +3354,7 @@ metafile = true
 
 [[files]]
 file = "mods/jofree_interval_sound-1.0.0.jar"
-hash = "de38d447f892afa0a1f51b47d60c8b60170b675ab989b09708cfda9ae5ae7fdd"
+hash = "42b36a52c85bcb1fb6b512a61e66c5953b43cec4b7ebc52333adc09991263238"
 
 [[files]]
 file = "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.pw.toml"
