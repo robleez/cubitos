@@ -8,7 +8,7 @@
 	#Mode for drawing a background behind entries for better visibility. 'CHAT' is similar to the chat background, 'TOOLTIP' uses the tooltip background rendering instead.
 	#Default Value: NONE
 	#Allowed Values: NONE, CHAT, TOOLTIP
-	entry_background = "NONE"
+	entry_background = "CHAT"
 	#Add the name of the item to the entry.
 	#Default Value: true
 	display_item_name = true
@@ -33,7 +33,7 @@
 	#Offset on y-axis from screen border.
 	# Default: 4
 	# Range: > 0
-	offset_y = 4
+	offset_y = 200
 	#Percentage of relative screen height entries are allowed to fill at max.
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
@@ -68,7 +68,7 @@
 	#Amount of ticks each entry will be shown for. Set to 0 to only remove entries when space for new ones is needed.
 	# Default: 80
 	# Range: > 0
-	display_time = 80
+	display_time = 150
 	#Make outdated entries slowly move out of the screen instead of disappearing in place.
 	move_out_of_screen = true
 	#Amount of ticks it takes for an entry to move out of the screen. Value cannot be larger than "Display Time".

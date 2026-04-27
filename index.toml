@@ -1710,7 +1710,7 @@ hash = "76509d3988022daabed643b43625905a1023d631cd42fb06732dcc765f306918"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "079be54b7b6059b2864b3ed140dc1e20219589f6afba32dc4ff203c981ea6a4e"
+hash = "e6b80216c174e6b5ecb2370bd8f70848ac0443ab36fe1bf1c69c7b701d0f1f7f"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
@@ -3351,6 +3351,10 @@ metafile = true
 file = "mods/jei-1.21.1-neoforge-19.27.0.340.pw.toml"
 hash = "0e389fa02bea8e1bbd2fb630e28eefa73c4d7f62197b872b6f88388109104f0e"
 metafile = true
+
+[[files]]
+file = "mods/jofree_interval_sound-1.0.0.jar"
+hash = "de38d447f892afa0a1f51b47d60c8b60170b675ab989b09708cfda9ae5ae7fdd"
 
 [[files]]
 file = "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.pw.toml"
