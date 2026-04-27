@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "timeoutSeconds": 30,
+  "timeoutSeconds": 60,
   "afkDelayEnabled": true,
   "afkFpsCap": 30,
   "afkFpsLimitEnabled": true,

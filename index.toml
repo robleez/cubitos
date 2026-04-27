@@ -146,7 +146,7 @@ hash = "69ad5463a614a5e6a400f938515ac04ada47b52c6795b82ca7f8aefd3765e44f"
 
 [[files]]
 file = "config/afkstation.json"
-hash = "ebc3ec2ed0e9ca94bb49e4642081d6424f28383e3eedd40d9bd28008f9a01890"
+hash = "80f6c422b0cf8f4cee3b53953047ea7e2fdd2e4451c063e1722f38d88bf6b6fd"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -2766,25 +2766,6 @@ hash = "d2d72fb49ffb9dcba938c11673b391421c58a353ecfc170660dc24d6d5a5be80"
 metafile = true
 
 [[files]]
-file = "mods/afk-announcer-v3.4.1.pw.toml"
-hash = "ca01495cfc73c04a868806c3b31305cd34dee48176594747ca3f705878cd67cf"
-metafile = true
-
-[[files]]
-file = "mods/afk-dim-names-1.3.0.pw.toml"
-hash = "82cd73a07a34401068487375f3c6dd6e6fe931eff845982f507d1a3993254bb5"
-metafile = true
-
-[[files]]
-file = "mods/afk-message-1.1.0.jar"
-hash = "b4a9aa14b1e47fab960d3d6e78bda91ae55695de52c1d1bd87fff4638f868e0f"
-
-[[files]]
-file = "mods/afk-sit-1.0.1.pw.toml"
-hash = "0fb263c0065b43ffb8326b1baf02acd8ff94b2f514e13ba2401022fe2175c68c"
-metafile = true
-
-[[files]]
 file = "mods/alexsmobs-1.22.17.pw.toml"
 hash = "6f97a83306e51262a26f09233d26791be878f0e251ba0b1f04dc3935acf248d6"
 metafile = true
@@ -3061,11 +3042,6 @@ metafile = true
 [[files]]
 file = "mods/despawntweaks-neoforge-1.0.0-1.21.1.pw.toml"
 hash = "8243951c938f4d78a72e925745c95d9dbf690578cb5919ae62b1cea659d24d43"
-metafile = true
-
-[[files]]
-file = "mods/detect-afk-1.2.2.pw.toml"
-hash = "1b1e94cbc6aa19806d720badf05492a55983dc549e8dcb3573383bba5963a27a"
 metafile = true
 
 [[files]]
