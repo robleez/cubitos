@@ -3046,6 +3046,10 @@ hash = "bd7f127854a8638ea2202846c05403dda80b0bad79e298e491b164d18c1bc4b8"
 metafile = true
 
 [[files]]
+file = "mods/domainexpansion-1.0.0.jar"
+hash = "67be4d1ef57cb9199d8e13b6752e7542d29198bdd0feddd058631e5f46c47c08"
+
+[[files]]
 file = "mods/dummmmmmy-1.21-2.0.11-neoforge.pw.toml"
 hash = "891d856b4664d8350376681c4a4c94f101ff74c5bc9956ad98d8343adc1deb5b"
 metafile = true
