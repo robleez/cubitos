@@ -3634,8 +3634,8 @@ hash = "771aee3eb2a81192d26366ba5baf8391a10a5799eec51dcde918d4ce52134320"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.28.1728.pw.toml"
-hash = "82bf0ffc5df03e6bebb7095c7ae6ea0b416fb4e173f6a07ab213d68f4a38f37e"
+file = "mods/sophisticatedcore-1.21.1-1.3.102.1368.pw.toml"
+hash = "5b5b9665d5f78944d1774d7b622d6ffa3d43df0541ed7939972d4dc5a5e4c5ce"
 metafile = true
 
 [[files]]
@@ -3863,7 +3863,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8029812bcf41fc256d47052cc92f6450168b9068ba57c853a12b269ca43d9ed4"
+hash = "580776a294d051f5e1205f1f20c6c433038ef5a95438d8658ce6194e41a985ca"
 
 [[files]]
 file = "resourcepacks/AL's Skeletons Revamped+FA 1.4.pw.toml"

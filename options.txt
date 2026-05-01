@@ -360,6 +360,7 @@ key_key.boss_checklist.open_checklist:key.keyboard.p
 key_simulated.keyinfo.rotate_mode:key.keyboard.unknown
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_Activate Domain:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
