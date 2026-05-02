@@ -3002,6 +3002,10 @@ hash = "da522045eefc16c86d4d2f12829c480a2c89b9ffa00a7639ccfc8697efdb7e02"
 metafile = true
 
 [[files]]
+file = "mods/cubitos-1.0.0.jar"
+hash = "2fd0d099b19335a833e90545c4fce6803eb95dc11f9bf169d6e91f5991322444"
+
+[[files]]
 file = "mods/cullleaves-neoforge-4.1.1+1.21.1.pw.toml"
 hash = "7f21d510c18af6cd6c6e45c0f324f164b14ac5e2aaac67e0895f7e9400b3d688"
 metafile = true
