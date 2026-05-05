@@ -3003,7 +3003,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubitos-1.0.0.jar"
-hash = "2fd0d099b19335a833e90545c4fce6803eb95dc11f9bf169d6e91f5991322444"
+hash = "cb8b0d9965a773dea0c637a1981b5d281c394bf0c776f7e2c07d976af8a82bf8"
 
 [[files]]
 file = "mods/cullleaves-neoforge-4.1.1+1.21.1.pw.toml"
@@ -3505,6 +3505,10 @@ hash = "4bcfca528897731a47c80671dedd9e4db638405d2e18ab09c431b4bf8ac5ce0b"
 metafile = true
 
 [[files]]
+file = "mods/perfiles-1.0.0.jar"
+hash = "8ea19c8d0cc349d2dc09c7e53acc19ad6fd35dead24fce2bbe27d21e458463ff"
+
+[[files]]
 file = "mods/phantom_footsteps-1.0.0-neoforge-1.21.1.pw.toml"
 hash = "a1c1ba7a2159369d85975e4910a5b2f3c02d068f3674df677c5f80b388aec59b"
 metafile = true
@@ -3541,16 +3545,6 @@ hash = "d07d9267afc4386c4985d68c53d957cad3e76a177457135241e57fd136a802a2"
 [[files]]
 file = "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.pw.toml"
 hash = "5b10edf3f6e0abeed787d1741295b14ab2f09c89534a9e06127564b147be5515"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-chests-3.1.1+1.21.1.pw.toml"
-hash = "f160e8e0e3651b77c9496227f8c4d4b63686f3acb3d1aa06508e02060dbefe36"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-shulker-boxes-3.2.1+1.21.1.pw.toml"
-hash = "320928d95fa9d34aa9cbbea63411c6ce6c90bb7efc84d6cfdfc88d5116a6cf23"
 metafile = true
 
 [[files]]
