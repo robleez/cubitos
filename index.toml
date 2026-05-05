@@ -3506,7 +3506,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfiles-1.0.0.jar"
-hash = "fbe8bed7a43e225bbac43e4080193678fdf7fc30dfcd7b31639ad7140da29108"
+hash = "32ab26c2c43d9257052c30095bee7cc39fa12abbe3938e08cbbdcca644e5d73b"
 
 [[files]]
 file = "mods/phantom_footsteps-1.0.0-neoforge-1.21.1.pw.toml"
